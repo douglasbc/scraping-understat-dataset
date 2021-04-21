@@ -10,6 +10,7 @@ import pandas as pd
 
 CWD = os.getcwd()
 DIR = os.path.join(CWD,"datasets")
+DIR_CODE = os.path.join(CWD,"scraping")
 DIR_TEAMS = os.path.join(CWD,"scraping", "teams_set")
 
 BASE_URL = "https://understat.com/match/"
@@ -90,8 +91,8 @@ def save_empty_url_list(empty_url_list, file_name):
     Exports the list to a .txt file using pickle, creating folders if they
     don't exist.
     """
-    os.makedirs(DIR, exist_ok=True)
-    file_path = os.path.join(DIR, file_name)
+    os.makedirs(DIR_CODE, exist_ok=True)
+    file_path = os.path.join(DIR_CODE, file_name)
 
     with open(file_path, "wb") as fp:
         pickle.dump(empty_url_list, fp)
@@ -121,9 +122,9 @@ def merge_empty_url_lists():
     Reads every "empty_url_list" .txt files and saves it into a single file.
     """
 
-    txt_path = os.path.join(DIR, "empty*.txt")
+    txt_path = os.path.join(DIR_CODE, "empty*.txt")
     txt_list = glob.glob(txt_path)
-    file_path = os.path.join(DIR, "empty_url.txt")
+    file_path = os.path.join(DIR_CODE, "empty_url.txt")
 
     empty_url_list = []
 
@@ -182,7 +183,13 @@ def generate_shots_csvs_by_league_season(first_year, last_year):
 
 
 def remove_forgotten_empty_urls():
-    file_path = os.path.join(DIR, "empty_url backup.txt")
+    """
+    This function was used only after the data was initially scraped. There were
+    thousands of matches_id "left behind", ids that will remain unused by
+    understat.com. This function removes them and keeps only the ids that
+    will be used in the remaining of the 2020/2021 season.
+    """
+    file_path = os.path.join(DIR_CODE, "empty_url backup.txt")
     with open(file_path, "rb") as fp:
         old_empty_url_list = pickle.load(fp)
     old_empty_url_list.sort()
@@ -192,8 +199,13 @@ def remove_forgotten_empty_urls():
 
 
 def update_shots_dataset(year):
-
-    file_path = os.path.join(DIR, "empty_url_update.txt")
+    """
+    This function updates the datasets. Passing 2020 as argument, the funcion
+    takes the latest empty_url_update.txt, iterates over it and scrapes the URLs
+    corresponding to those matches_id. Then, the new data is merged with the
+    old data and a new empty_url_update.txt is saved, removing the matches scraped.
+    """
+    file_path = os.path.join(DIR_CODE, "empty_url_update.txt")
     with open(file_path, "rb") as fp:
         old_empty_url_list = pickle.load(fp)
     old_empty_url_list.sort()
