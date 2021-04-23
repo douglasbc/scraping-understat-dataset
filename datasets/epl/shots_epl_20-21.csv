@@ -1,4 +1,24 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+416851.0,2.0,SavedShot,0.901999969482422,0.3509999847412109,0.0684566348791122,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Luke Thomas,TakeOn
+416852.0,2.0,MissedShots,0.8009999847412109,0.485,0.0508042126893997,James Maddison,h,6818.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Timothy Castagne,Pass
+416853.0,22.0,Goal,0.8530000305175781,0.534000015258789,0.3221364021301269,Jamie Vardy,h,755.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Timothy Castagne,Pass
+416854.0,24.0,BlockedShot,0.899000015258789,0.3879999923706054,0.0584275312721729,Jamie Vardy,h,755.0,FromCorner,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Youri Tielemans,Pass
+416855.0,25.0,Goal,0.95,0.5220000076293946,0.3896319270133972,Jonny Evans,h,807.0,FromCorner,2020.0,Head,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,,None
+416856.0,28.0,ShotOnPost,0.8230000305175781,0.429000015258789,0.0771905109286308,Timothy Castagne,h,6157.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,James Maddison,Pass
+416857.0,28.0,SavedShot,0.889000015258789,0.664000015258789,0.0833961740136146,Jamie Vardy,h,755.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,James Maddison,Pass
+416858.0,32.0,BlockedShot,0.749000015258789,0.4540000152587891,0.0207493379712104,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Timothy Castagne,Pass
+416859.0,32.0,SavedShot,0.7580000305175781,0.38,0.0240750554949045,James Maddison,h,6818.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Timothy Castagne,Pass
+416860.0,35.0,Goal,0.92,0.5359999847412109,0.5732000470161438,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Jamie Vardy,Pass
+416862.0,41.0,MissedShots,0.911999969482422,0.4270000076293945,0.4376446008682251,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Timothy Castagne,TakeOn
+416863.0,44.0,BlockedShot,0.7619999694824219,0.425,0.0438767783343791,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Jamie Vardy,HeadPass
+416865.0,51.0,MissedShots,0.755,0.2829999923706054,0.0203023012727499,Youri Tielemans,h,5956.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,James Maddison,Pass
+416866.0,52.0,BlockedShot,0.86,0.5379999923706055,0.1225568875670433,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,James Maddison,Pass
+416867.0,71.0,MissedShots,0.5870000076293945,0.88,0.2010611891746521,Jamie Vardy,h,755.0,OpenPlay,2020.0,RightFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Jonny Evans,BallRecovery
+416868.0,80.0,SavedShot,0.8109999847412109,0.46,0.1479744762182235,Kelechi Iheanacho,h,620.0,DirectFreekick,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,,Standard
+416870.0,85.0,BlockedShot,0.7280000305175781,0.489000015258789,0.0297197867184877,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Marc Albrighton,Pass
+416861.0,39.0,MissedShots,0.8159999847412109,0.5509999847412109,0.0374377742409706,Ainsley Maitland-Niles,a,1750.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,,None
+416864.0,46.0,SavedShot,0.8019999694824219,0.534000015258789,0.0719720795750618,Matt Phillips,a,1737.0,OpenPlay,2020.0,LeftFoot,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Matheus Pereira,TakeOn
+416869.0,83.0,MissedShots,0.953000030517578,0.500999984741211,0.1677164733409881,Semi Ajayi,a,4490.0,FromCorner,2020.0,OtherBodyPart,14750.0,Leicester,West Bromwich Albion,3.0,0.0,2021-04-22 19:00:00,Matt Phillips,Cross
 416390.0,9.0,MissedShots,0.919000015258789,0.349000015258789,0.0674591064453125,Giovani Lo Celso,h,5681.0,OpenPlay,2020.0,LeftFoot,14722.0,Tottenham,Southampton,2.0,1.0,2021-04-21 19:00:00,,None
 416391.0,11.0,MissedShots,0.7530000305175781,0.3060000038146973,0.0163215342909097,Lucas Moura,h,3293.0,OpenPlay,2020.0,RightFoot,14722.0,Tottenham,Southampton,2.0,1.0,2021-04-21 19:00:00,Giovani Lo Celso,Pass
 416393.0,15.0,BlockedShot,0.85,0.3039999961853027,0.0399908833205699,Giovani Lo Celso,h,5681.0,OpenPlay,2020.0,LeftFoot,14722.0,Tottenham,Southampton,2.0,1.0,2021-04-21 19:00:00,Gareth Bale,Pass
