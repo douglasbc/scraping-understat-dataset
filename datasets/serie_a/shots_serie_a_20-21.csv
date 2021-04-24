@@ -1,4 +1,31 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+417450.0,2.0,SavedShot,0.830999984741211,0.4020000076293945,0.0388580858707428,Domenico Berardi,h,1612.0,FromCorner,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,,None
+417454.0,15.0,MissedShots,0.8469999694824218,0.625,0.0645654276013374,Hamed Junior Traore,h,6986.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Maxime Lopez,Pass
+417455.0,18.0,MissedShots,0.909000015258789,0.4179999923706055,0.0709067583084106,Hamed Junior Traore,h,6986.0,OpenPlay,2020.0,Head,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Georgios Kyriakopoulos,Cross
+417456.0,20.0,BlockedShot,0.72,0.5529999923706055,0.0173715576529502,Domenico Berardi,h,1612.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Manuel Locatelli,Pass
+417459.0,32.0,BlockedShot,0.7819999694824219,0.3379999923706054,0.0235220808535814,Domenico Berardi,h,1612.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,,Dispossessed
+417460.0,34.0,BlockedShot,0.8009999847412109,0.7030000305175781,0.0208163112401962,Manuel Locatelli,h,1122.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Georgios Kyriakopoulos,TakeOn
+417462.0,46.0,SavedShot,0.7480000305175781,0.7169999694824218,0.0137838823720812,Jeremie Boga,h,3544.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Georgios Kyriakopoulos,Pass
+417463.0,55.0,BlockedShot,0.875999984741211,0.5609999847412109,0.3513259291648865,Domenico Berardi,h,1612.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Jeremie Boga,Pass
+417464.0,56.0,BlockedShot,0.8159999847412109,0.345,0.0240904986858367,Domenico Berardi,h,1612.0,FromCorner,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,,None
+417465.0,56.0,SavedShot,0.911999969482422,0.5429999923706055,0.1110865920782089,Vlad Chiriches,h,1395.0,FromCorner,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Gianmarco Ferrari,HeadPass
+417466.0,60.0,SavedShot,0.879000015258789,0.6270000076293946,0.1191658526659011,Jeremie Boga,h,3544.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Gianmarco Ferrari,TakeOn
+417468.0,68.0,BlockedShot,0.919000015258789,0.56,0.0452184379100799,Domenico Berardi,h,1612.0,OpenPlay,2020.0,Head,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Manuel Locatelli,Goal
+417469.0,68.0,Goal,0.9569999694824218,0.5129999923706055,0.6288922429084778,Domenico Berardi,h,1612.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,,None
+417470.0,71.0,SavedShot,0.7909999847412109,0.575,0.0476123988628387,Jeremie Boga,h,3544.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Manuel Locatelli,Chipped
+417471.0,74.0,SavedShot,0.7980000305175782,0.3609999847412109,0.0412282459437847,Mert Müldür,h,7950.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Hamed Junior Traore,Pass
+417473.0,85.0,MissedShots,0.988000030517578,0.4,0.0422756001353263,Manuel Locatelli,h,1122.0,FromCorner,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Jeremie Boga,Cross
+417451.0,3.0,SavedShot,0.8130000305175781,0.26,0.0234285220503807,Antonio Candreva,a,1517.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Morten Thorsby,Pass
+417452.0,11.0,MissedShots,0.8690000152587891,0.4429999923706054,0.1028166189789772,Keita,a,1210.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Manolo Gabbiadini,Pass
+417453.0,11.0,ShotOnPost,0.9840000152587892,0.57,0.524300217628479,Jakub Jankto,a,1146.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Keita,Rebound
+417457.0,22.0,MissedShots,0.8059999847412109,0.7190000152587891,0.0239697396755218,Jakub Jankto,a,1146.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Keita,Pass
+417458.0,30.0,SavedShot,0.7419999694824219,0.7709999847412109,0.0121567109599709,Antonio Candreva,a,1517.0,SetPiece,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Tommaso Augello,Pass
+417461.0,43.0,BlockedShot,0.9,0.62,0.1270916312932968,Manolo Gabbiadini,a,1383.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Keita,BallTouch
+417467.0,61.0,MissedShots,0.815,0.5529999923706055,0.0591052770614624,Keita,a,1210.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Mikkel Damsgaard,Pass
+417472.0,82.0,MissedShots,0.9540000152587892,0.4,0.0846874043345451,Keita,a,1210.0,FromCorner,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Maya Yoshida,Pass
+417474.0,87.0,BlockedShot,0.8590000152587891,0.4670000076293945,0.054818108677864,Antonio La Gumina,a,2003.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Keita,HeadPass
+417475.0,92.0,BlockedShot,0.7659999847412109,0.295,0.0165591556578874,Antonio Candreva,a,1517.0,OpenPlay,2020.0,LeftFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,Bartosz Bereszynski,Pass
+417476.0,94.0,BlockedShot,0.7880000305175782,0.654000015258789,0.0114770913496613,Kristoffer Askildsen,a,8309.0,OpenPlay,2020.0,RightFoot,15752.0,Sassuolo,Sampdoria,1.0,0.0,2021-04-24 18:45:00,,Aerial
 417298.0,10.0,BlockedShot,0.8169999694824219,0.6370000076293946,0.0409596376121044,Gastón Brugman,h,1165.0,OpenPlay,2020.0,RightFoot,15747.0,Parma Calcio 1913,Crotone,3.0,4.0,2021-04-24 16:00:00,Dennis Man,Pass
 417299.0,11.0,BlockedShot,0.889000015258789,0.4,0.0301600340753793,Hernani,h,5509.0,FromCorner,2020.0,RightFoot,15747.0,Parma Calcio 1913,Crotone,3.0,4.0,2021-04-24 16:00:00,,Aerial
 417302.0,14.0,BlockedShot,0.840999984741211,0.5579999923706055,0.066762238740921,Dennis Man,h,9303.0,OpenPlay,2020.0,LeftFoot,15747.0,Parma Calcio 1913,Crotone,3.0,4.0,2021-04-24 16:00:00,Mihai Valentin Mihaila,Pass

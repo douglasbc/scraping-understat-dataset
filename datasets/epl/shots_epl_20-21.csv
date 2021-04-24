@@ -1,4 +1,28 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+417500.0,0.0,BlockedShot,0.8680000305175781,0.6969999694824218,0.0424150936305522,Rhian Brewster,h,5569.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,John Fleck,Chipped
+417501.0,1.0,MissedShots,0.9,0.5279999923706055,0.0466742776334285,David McGoldrick,h,7711.0,OpenPlay,2020.0,Head,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,George Baldock,Aerial
+417504.0,18.0,Goal,0.92,0.4759999847412109,0.4868860840797424,David McGoldrick,h,7711.0,OpenPlay,2020.0,LeftFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,,BlockedPass
+417505.0,25.0,BlockedShot,0.769000015258789,0.5770000076293945,0.0355627238750457,Rhian Brewster,h,5569.0,OpenPlay,2020.0,LeftFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Ben Osborn,Pass
+417506.0,26.0,BlockedShot,0.7819999694824219,0.3609999847412109,0.0186210758984088,Jayden Bogle,h,9205.0,FromCorner,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,,None
+417515.0,61.0,SavedShot,0.8419999694824218,0.7440000152587891,0.0281228218227624,David McGoldrick,h,7711.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Ben Osborn,TakeOn
+417519.0,75.0,SavedShot,0.885,0.46,0.1280421763658523,Jayden Bogle,h,9205.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,George Baldock,Pass
+417502.0,11.0,SavedShot,0.875999984741211,0.409000015258789,0.3060643970966339,Neal Maupay,a,3621.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Yves Bissouma,Pass
+417503.0,12.0,BlockedShot,0.8780000305175781,0.649000015258789,0.0279699806123971,Yves Bissouma,a,5609.0,FromCorner,2020.0,LeftFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Danny Welbeck,HeadPass
+417507.0,40.0,MissedShots,0.74,0.624000015258789,0.0133820436894893,Yves Bissouma,a,5609.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Joël Veltman,TakeOn
+417508.0,43.0,BlockedShot,0.916999969482422,0.629000015258789,0.0804842263460159,Jakub Moder,a,9284.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Leandro Trossard,Pass
+417509.0,45.0,SavedShot,0.8330000305175781,0.525,0.06980961561203,Adam Lallana,a,486.0,OpenPlay,2020.0,LeftFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Jakub Moder,Pass
+417510.0,49.0,MissedShots,0.9359999847412108,0.3759999847412109,0.0135091999545693,Danny Welbeck,a,501.0,FromCorner,2020.0,Head,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Pascal Groß,Aerial
+417511.0,52.0,SavedShot,0.845,0.4970000076293945,0.0592383444309234,Neal Maupay,a,3621.0,OpenPlay,2020.0,LeftFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,,None
+417512.0,54.0,BlockedShot,0.8519999694824218,0.36,0.0570575445890426,Neal Maupay,a,3621.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Adam Lallana,Pass
+417513.0,58.0,BlockedShot,0.8909999847412109,0.354000015258789,0.0520582161843776,Jakub Moder,a,9284.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Pascal Groß,Cross
+417514.0,58.0,MissedShots,0.8909999847412109,0.4729999923706054,0.0274438634514808,Adam Lallana,a,486.0,OpenPlay,2020.0,Head,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,,Rebound
+417516.0,65.0,MissedShots,0.78,0.3729999923706055,0.0266282148659229,Yves Bissouma,a,5609.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Neal Maupay,Pass
+417517.0,68.0,MissedShots,0.9590000152587892,0.5670000076293945,0.346183180809021,Danny Welbeck,a,501.0,OpenPlay,2020.0,Head,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Alireza Jahanbakhsh,Cross
+417518.0,71.0,MissedShots,0.973000030517578,0.4959999847412109,0.872063398361206,Neal Maupay,a,3621.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Alireza Jahanbakhsh,Pass
+417520.0,80.0,BlockedShot,0.8209999847412109,0.7469999694824219,0.022117031738162,Aaron Connolly,a,7991.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Joël Veltman,Pass
+417521.0,82.0,MissedShots,0.8430000305175781,0.345,0.0498067028820514,Alireza Jahanbakhsh,a,6842.0,OpenPlay,2020.0,LeftFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Danny Welbeck,Pass
+417522.0,84.0,SavedShot,0.715,0.5,0.0168067831546068,José Izquierdo,a,6231.0,OpenPlay,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Yves Bissouma,Pass
+417523.0,88.0,MissedShots,0.8769999694824219,0.1979999923706054,0.0211863461881876,Alireza Jahanbakhsh,a,6842.0,SetPiece,2020.0,RightFoot,14762.0,Sheffield United,Brighton,1.0,0.0,2021-04-24 19:00:00,Joël Veltman,Pass
 417048.0,2.0,Goal,0.9130000305175782,0.3859999847412109,0.080062985420227,Mohamed Salah,h,1250.0,OpenPlay,2020.0,LeftFoot,14760.0,Liverpool,Newcastle United,1.0,1.0,2021-04-24 11:30:00,,None
 417050.0,21.0,BlockedShot,0.933000030517578,0.6029999923706054,0.0284915249794721,Sadio Mané,h,838.0,FromCorner,2020.0,Head,14760.0,Liverpool,Newcastle United,1.0,1.0,2021-04-24 11:30:00,Andrew Robertson,TakeOn
 417051.0,22.0,MissedShots,0.8040000152587891,0.519000015258789,0.0651094913482666,Diogo Jota,h,6854.0,OpenPlay,2020.0,RightFoot,14760.0,Liverpool,Newcastle United,1.0,1.0,2021-04-24 11:30:00,Mohamed Salah,LayOff
