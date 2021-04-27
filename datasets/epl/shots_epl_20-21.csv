@@ -1,4 +1,21 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+418238.0,9.0,MissedShots,0.894000015258789,0.5670000076293945,0.086139291524887,Jamie Vardy,h,755.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,,None
+418240.0,18.0,SavedShot,0.7519999694824219,0.2710000038146972,0.0398178361356258,Youri Tielemans,h,5956.0,DirectFreekick,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,,Standard
+418241.0,19.0,BlockedShot,0.805,0.474000015258789,0.0531942918896675,James Maddison,h,6818.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Youri Tielemans,Pass
+418243.0,33.0,MissedShots,0.8680000305175781,0.4420000076293945,0.0471296943724155,Caglar Söyüncü,h,5264.0,FromCorner,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Jonny Evans,HeadPass
+418244.0,37.0,BlockedShot,0.7709999847412109,0.6229999923706054,0.0198179725557565,Wilfred Ndidi,h,5545.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Kelechi Iheanacho,Pass
+418245.0,45.0,MissedShots,0.955,0.720999984741211,0.0391823798418045,James Maddison,h,6818.0,OpenPlay,2020.0,LeftFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Jonny Evans,Chipped
+418246.0,49.0,Goal,0.905,0.4,0.3940625190734863,Timothy Castagne,h,6157.0,OpenPlay,2020.0,LeftFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Kelechi Iheanacho,Pass
+418247.0,59.0,SavedShot,0.7480000305175781,0.5609999847412109,0.024223843589425,James Maddison,h,6818.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Youri Tielemans,Pass
+418248.0,63.0,SavedShot,0.91,0.7090000152587891,0.0552569516003131,Jamie Vardy,h,755.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Luke Thomas,TakeOn
+418250.0,68.0,MissedShots,0.899000015258789,0.5359999847412109,0.0977949500083923,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,James Maddison,OffsidePass
+418251.0,77.0,MissedShots,0.9740000152587892,0.585,0.2711541652679443,Jamie Vardy,h,755.0,OpenPlay,2020.0,LeftFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Kelechi Iheanacho,TakeOn
+418252.0,78.0,MissedShots,0.830999984741211,0.38,0.0526315681636333,Youri Tielemans,h,5956.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Kelechi Iheanacho,Pass
+418253.0,79.0,Goal,0.9059999847412108,0.3160000038146973,0.0537842772901058,Kelechi Iheanacho,h,620.0,OpenPlay,2020.0,LeftFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Jonny Evans,Chipped
+418239.0,11.0,Goal,0.855999984741211,0.5159999847412109,0.5643535852432251,Wilfried Zaha,a,522.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Eberechi Eze,Throughball
+418242.0,25.0,BlockedShot,0.789000015258789,0.5520000076293945,0.0431451499462127,Christian Benteke,a,606.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Wilfried Zaha,Pass
+418249.0,67.0,SavedShot,0.9390000152587892,0.4959999847412109,0.0699573680758476,Christian Benteke,a,606.0,FromCorner,2020.0,Head,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Eberechi Eze,Aerial
+418254.0,86.0,MissedShots,0.919000015258789,0.3970000076293945,0.0456562899053096,Christian Benteke,a,606.0,SetPiece,2020.0,Head,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Eberechi Eze,Chipped
 418051.0,7.0,BlockedShot,0.7980000305175782,0.5890000152587891,0.0341597981750965,Anwar El Ghazi,h,5612.0,OpenPlay,2020.0,RightFoot,14756.0,Aston Villa,West Bromwich Albion,2.0,2.0,2021-04-25 18:00:00,Bertrand Traoré,Pass
 418052.0,8.0,Goal,0.885,0.5,0.7611688375473022,Anwar El Ghazi,h,5612.0,Penalty,2020.0,RightFoot,14756.0,Aston Villa,West Bromwich Albion,2.0,2.0,2021-04-25 18:00:00,,Standard
 418056.0,28.0,SavedShot,0.7759999847412109,0.649000015258789,0.0230798348784446,Anwar El Ghazi,h,5612.0,OpenPlay,2020.0,RightFoot,14756.0,Aston Villa,West Bromwich Albion,2.0,2.0,2021-04-25 18:00:00,John McGinn,Pass

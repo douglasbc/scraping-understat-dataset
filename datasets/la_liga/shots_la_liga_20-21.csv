@@ -1,4 +1,23 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+418255.0,13.0,MissedShots,0.8159999847412109,0.5070000076293946,0.0777998864650726,Pedro León,h,2197.0,OpenPlay,2020.0,LeftFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Recio,LayOff
+418260.0,30.0,BlockedShot,0.7330000305175781,0.5509999847412109,0.0158767104148864,Papakouly Diop,h,2112.0,OpenPlay,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,,Dispossessed
+418261.0,35.0,BlockedShot,0.7909999847412109,0.735,0.020161448046565,Recio,h,2337.0,OpenPlay,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Bryan Gil Salvatierra,Pass
+418263.0,47.0,BlockedShot,0.875,0.6840000152587891,0.020734591409564,Bryan Gil Salvatierra,h,7338.0,FromCorner,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Papakouly Diop,Aerial
+418264.0,50.0,SavedShot,0.8780000305175781,0.4029999923706054,0.033983014523983,Papakouly Diop,h,2112.0,SetPiece,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,,Aerial
+418265.0,56.0,SavedShot,0.919000015258789,0.4029999923706054,0.0286837704479694,Kike García,h,5074.0,OpenPlay,2020.0,Head,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Papakouly Diop,Aerial
+418266.0,69.0,MissedShots,0.914000015258789,0.505,0.0608639381825923,Kike García,h,5074.0,SetPiece,2020.0,Head,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Bryan Gil Salvatierra,Aerial
+418267.0,75.0,SavedShot,0.938000030517578,0.705999984741211,0.043008130043745,Edu Expósito,h,5081.0,OpenPlay,2020.0,LeftFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Bryan Gil Salvatierra,Pass
+418268.0,76.0,BlockedShot,0.948000030517578,0.5620000076293945,0.1253768652677536,Yoshinori Muto,h,47.0,OpenPlay,2020.0,LeftFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,,Rebound
+418269.0,76.0,BlockedShot,0.855,0.4929999923706055,0.072764977812767,Bryan Gil Salvatierra,h,7338.0,OpenPlay,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,,Rebound
+418270.0,81.0,BlockedShot,0.914000015258789,0.59,0.0595240518450737,Sergi Enrich,h,2135.0,SetPiece,2020.0,Head,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Recio,Chipped
+418271.0,82.0,SavedShot,0.9490000152587892,0.534000015258789,0.1159679070115089,Sergi Enrich,h,2135.0,SetPiece,2020.0,LeftFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Rober Correa,Pass
+418272.0,87.0,SavedShot,0.7440000152587891,0.7230000305175781,0.0436077415943145,Anaitz Arbilla,h,2586.0,DirectFreekick,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,,Standard
+418273.0,90.0,BlockedShot,0.855999984741211,0.485,0.0285520516335964,Kike García,h,5074.0,OpenPlay,2020.0,Head,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Rober Correa,Cross
+418256.0,25.0,BlockedShot,0.91,0.68,0.1091458052396774,Alexander Isak,a,5232.0,OpenPlay,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Ander Guevara,TakeOn
+418257.0,25.0,MissedShots,0.8819999694824219,0.509000015258789,0.0363268516957759,Robin Le Normand,a,7276.0,FromCorner,2020.0,OtherBodyPart,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Mikel Oyarzabal,Cross
+418258.0,25.0,Goal,0.936999969482422,0.4309999847412109,0.4802363514900207,Alexander Isak,a,5232.0,FromCorner,2020.0,LeftFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Robin Le Normand,Rebound
+418259.0,28.0,SavedShot,0.8730000305175781,0.57,0.0680171400308609,Alexander Isak,a,5232.0,OpenPlay,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Ander Barrenetxea,Cross
+418262.0,37.0,BlockedShot,0.745999984741211,0.53,0.0300773605704307,Ander Barrenetxea,a,7308.0,OpenPlay,2020.0,RightFoot,15090.0,Eibar,Real Sociedad,0.0,1.0,2021-04-26 19:00:00,Ander Guevara,Pass
 418120.0,5.0,MissedShots,0.8159999847412109,0.2770000076293945,0.025158355012536,Ander Capa,h,2125.0,OpenPlay,2020.0,LeftFoot,15088.0,Athletic Club,Atletico Madrid,2.0,1.0,2021-04-25 19:00:00,Alex Berenguer,BallTouch
 418121.0,8.0,Goal,0.963000030517578,0.4640000152587891,0.5787224173545837,Alex Berenguer,h,5091.0,OpenPlay,2020.0,Head,15088.0,Athletic Club,Atletico Madrid,2.0,1.0,2021-04-25 19:00:00,,None
 418128.0,31.0,SavedShot,0.91,0.6509999847412109,0.0862024948000907,Asier Villalibre,h,5173.0,OpenPlay,2020.0,LeftFoot,15088.0,Athletic Club,Atletico Madrid,2.0,1.0,2021-04-25 19:00:00,Oihan Sancet,HeadPass
