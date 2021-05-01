@@ -1,4 +1,32 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+418362.0,7.0,SavedShot,0.8590000152587891,0.49,0.1039460971951484,Nathan Tella,h,8456.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Che Adams,Pass
+418364.0,16.0,SavedShot,0.7819999694824219,0.6980000305175781,0.0211676266044378,Nathan Redmond,h,790.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Kyle Walker-Peters,Pass
+418368.0,37.0,BlockedShot,0.764000015258789,0.35,0.0190562661737203,Stuart Armstrong,h,6893.0,OpenPlay,2020.0,LeftFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Kyle Walker-Peters,Pass
+418371.0,58.0,BlockedShot,0.879000015258789,0.68,0.0487180240452289,Stuart Armstrong,h,6893.0,SetPiece,2020.0,LeftFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,James Ward-Prowse,Pass
+418372.0,60.0,Goal,0.885,0.5,0.7611688375473022,James Ward-Prowse,h,843.0,Penalty,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,,Standard
+418363.0,13.0,MissedShots,0.8209999847412109,0.4570000076293945,0.1713080406188964,James Maddison,a,6818.0,DirectFreekick,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,,Standard
+418365.0,33.0,SavedShot,0.7519999694824219,0.3970000076293945,0.0239122360944747,Kelechi Iheanacho,a,620.0,OpenPlay,2020.0,LeftFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Youri Tielemans,Pass
+418366.0,35.0,SavedShot,0.71,0.395,0.0156369004398584,James Maddison,a,6818.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Wilfred Ndidi,Pass
+418367.0,36.0,SavedShot,0.904000015258789,0.3279999923706054,0.0712032243609428,Youri Tielemans,a,5956.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Kelechi Iheanacho,Pass
+418369.0,47.0,SavedShot,0.8590000152587891,0.409000015258789,0.0151546951383352,Kelechi Iheanacho,a,620.0,OpenPlay,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Timothy Castagne,Aerial
+418370.0,56.0,SavedShot,0.926999969482422,0.6519999694824219,0.014089330099523,Luke Thomas,a,8562.0,OpenPlay,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Timothy Castagne,Aerial
+418373.0,62.0,MissedShots,0.7580000305175781,0.3229999923706054,0.015201536938548,James Maddison,a,6818.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,,None
+418374.0,65.0,BlockedShot,0.865999984741211,0.6459999847412109,0.0103237880393862,Luke Thomas,a,8562.0,OpenPlay,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Ayoze Pérez,Aerial
+418375.0,65.0,BlockedShot,0.76,0.639000015258789,0.0214977730065584,James Maddison,a,6818.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Youri Tielemans,Pass
+418376.0,66.0,MissedShots,0.9280000305175782,0.475,0.0538558103144168,Caglar Söyüncü,a,5264.0,FromCorner,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Youri Tielemans,Aerial
+418377.0,66.0,SavedShot,0.7380000305175781,0.6370000076293946,0.0205404534935951,James Maddison,a,6818.0,FromCorner,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Ayoze Pérez,Pass
+418378.0,66.0,SavedShot,0.7980000305175782,0.624000015258789,0.0236397944390773,Ayoze Pérez,a,770.0,FromCorner,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Caglar Söyüncü,BallTouch
+418379.0,67.0,Goal,0.950999984741211,0.4920000076293945,0.4631880819797516,Jonny Evans,a,807.0,OpenPlay,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Kelechi Iheanacho,Cross
+418380.0,69.0,BlockedShot,0.865999984741211,0.4520000076293945,0.1601752936840057,Ayoze Pérez,a,770.0,OpenPlay,2020.0,LeftFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,James Maddison,TakeOn
+418381.0,69.0,BlockedShot,0.745,0.4540000152587891,0.0157099720090627,James Maddison,a,6818.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,,Rebound
+418382.0,77.0,MissedShots,0.8859999847412109,0.575999984741211,0.0217672809958457,Jamie Vardy,a,755.0,OpenPlay,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Caglar Söyüncü,Aerial
+418383.0,82.0,SavedShot,0.963000030517578,0.5879999923706055,0.4625757932662964,Jamie Vardy,a,755.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,James Maddison,TakeOn
+418384.0,82.0,BlockedShot,0.745999984741211,0.4179999923706055,0.0199638232588768,Ayoze Pérez,a,770.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Youri Tielemans,Pass
+418385.0,82.0,MissedShots,0.8009999847412109,0.5129999923706055,0.0346786268055439,Youri Tielemans,a,5956.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,,Rebound
+418386.0,86.0,MissedShots,0.8519999694824218,0.6029999923706054,0.0738880112767219,Wilfred Ndidi,a,5545.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Jamie Vardy,Pass
+418387.0,88.0,MissedShots,0.9540000152587892,0.46,0.5259906649589539,Kelechi Iheanacho,a,620.0,OpenPlay,2020.0,Head,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Marc Albrighton,Cross
+418388.0,88.0,MissedShots,0.7580000305175781,0.5220000076293946,0.0182780753821134,Marc Albrighton,a,753.0,FromCorner,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,,None
+418389.0,90.0,MissedShots,0.9740000152587892,0.6120000076293945,0.265810489654541,Timothy Castagne,a,6157.0,OpenPlay,2020.0,RightFoot,14772.0,Southampton,Leicester,1.0,1.0,2021-04-30 19:00:00,Youri Tielemans,Cross
 418238.0,9.0,MissedShots,0.894000015258789,0.5670000076293945,0.086139291524887,Jamie Vardy,h,755.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,,None
 418240.0,18.0,SavedShot,0.7519999694824219,0.2710000038146972,0.0398178361356258,Youri Tielemans,h,5956.0,DirectFreekick,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,,Standard
 418241.0,19.0,BlockedShot,0.805,0.474000015258789,0.0531942918896675,James Maddison,h,6818.0,OpenPlay,2020.0,RightFoot,14759.0,Leicester,Crystal Palace,2.0,1.0,2021-04-26 19:00:00,Youri Tielemans,Pass

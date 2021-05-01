@@ -1,4 +1,20 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+418409.0,16.0,SavedShot,0.931999969482422,0.4859999847412109,0.2711648046970367,Leonardo Balerdi,h,7486.0,FromCorner,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Florian Thauvin,Aerial
+418410.0,26.0,MissedShots,0.705,0.5740000152587891,0.0179237443953752,Arkadiusz Milik,h,1583.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Boubacar Kamara,Pass
+418415.0,61.0,MissedShots,0.784000015258789,0.3409999847412109,0.0239411983639001,Dimitri Payet,h,536.0,OpenPlay,2020.0,RightFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Arkadiusz Milik,Pass
+418417.0,68.0,SavedShot,0.925,0.54,0.3674295544624328,Arkadiusz Milik,h,1583.0,OpenPlay,2020.0,Head,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Pol Lirola,Cross
+418420.0,74.0,MissedShots,0.825999984741211,0.5570000076293945,0.0623776130378246,Pape Alassane Gueye,h,8696.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Dimitri Payet,Pass
+418421.0,75.0,SavedShot,0.785,0.22,0.0167804192751646,Florian Thauvin,h,942.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Boubacar Kamara,Pass
+418422.0,81.0,MissedShots,0.7280000305175781,0.3979999923706054,0.0479354597628116,Dimitri Payet,h,536.0,DirectFreekick,2020.0,RightFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,,Standard
+418423.0,85.0,Goal,0.9540000152587892,0.424000015258789,0.3246012330055237,Darío Benedetto,h,7716.0,OpenPlay,2020.0,Head,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Luis Henrique,Cross
+418408.0,14.0,MissedShots,0.93,0.5070000076293946,0.0613181628286838,Lamine Koné,a,728.0,FromCorner,2020.0,Head,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Dmitri Lienard,Aerial
+418411.0,32.0,MissedShots,0.8530000305175781,0.7019999694824218,0.0381459183990955,Ludovic Ajorque,a,6905.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Jean-Ricner Bellegarde,Pass
+418412.0,36.0,SavedShot,0.9180000305175782,0.6419999694824219,0.014010583050549,Ludovic Ajorque,a,6905.0,OpenPlay,2020.0,Head,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Frederic Guilbert,Aerial
+418413.0,41.0,MissedShots,0.8109999847412109,0.74,0.0117171881720423,Anthony Caci,a,6380.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,,Aerial
+418414.0,44.0,SavedShot,0.8490000152587891,0.275,0.0220927316695451,Frederic Guilbert,a,3253.0,FromCorner,2020.0,RightFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,,None
+418416.0,66.0,SavedShot,0.77,0.5059999847412109,0.0286221541464328,Dmitri Lienard,a,5978.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Habib Diallo,Pass
+418418.0,71.0,SavedShot,0.7369999694824219,0.63,0.0177763886749744,Dmitri Lienard,a,5978.0,OpenPlay,2020.0,LeftFoot,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Jean Eudes Aholou,Pass
+418419.0,72.0,Goal,0.933000030517578,0.479000015258789,0.0626353025436401,Stefan Mitrovic,a,4242.0,FromCorner,2020.0,Head,16100.0,Marseille,Strasbourg,1.0,1.0,2021-04-30 19:00:00,Dmitri Lienard,Aerial
 417755.0,5.0,MissedShots,0.9030000305175782,0.5829999923706055,0.0168721601366996,Jérémy Morel,h,3271.0,SetPiece,2020.0,Head,16086.0,Lorient,Bordeaux,4.0,1.0,2021-04-25 13:00:00,Enzo Le Fée,Aerial
 417756.0,13.0,MissedShots,0.75,0.504000015258789,0.0680096372961998,Enzo Le Fée,h,8651.0,DirectFreekick,2020.0,RightFoot,16086.0,Lorient,Bordeaux,4.0,1.0,2021-04-25 13:00:00,,Standard
 417757.0,16.0,SavedShot,0.749000015258789,0.6419999694824219,0.0164084918797016,Laurent Abergel,h,4882.0,OpenPlay,2020.0,RightFoot,16086.0,Lorient,Bordeaux,4.0,1.0,2021-04-25 13:00:00,Yoane Wissa,Pass
