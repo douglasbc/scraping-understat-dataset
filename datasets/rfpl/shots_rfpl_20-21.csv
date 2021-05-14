@@ -75,7 +75,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 419803.0,15.0,BlockedShot,0.915,0.5270000076293946,0.11452774703502655,Vladislav Kamilov,h,8873.0,OpenPlay,2020.0,RightFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,Moritz Bauer,Cross
 419806.0,23.0,BlockedShot,0.750999984741211,0.4870000076293946,0.018975358456373208,Oleg Ivanov,h,2857.0,OpenPlay,2020.0,LeftFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,Vladislav Kamilov,Pass
 419808.0,31.0,SavedShot,0.7859999847412109,0.534000015258789,0.03604385629296303,Timur Zhamaletdinov,h,5458.0,OpenPlay,2020.0,RightFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,Oleg Ivanov,Pass
-419816.0,62.0,SavedShot,0.7859999847412109,0.23,0.040929436683654785,Nemanja Miletic,h,9375.0,DirectFreekick,2020.0,LeftFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,,Standard
+419816.0,62.0,SavedShot,0.7859999847412109,0.23,0.04092943668365479,Nemanja Miletic,h,9375.0,DirectFreekick,2020.0,LeftFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,,Standard
 419817.0,65.0,MissedShots,0.865,0.5029999923706054,0.024259015917778008,Vladislav Kamilov,h,8873.0,OpenPlay,2020.0,Head,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,Moritz Bauer,Cross
 419818.0,66.0,MissedShots,0.8669999694824219,0.4209999847412109,0.1017555445432663,Komnen Andric,h,9068.0,OpenPlay,2020.0,RightFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,Oston Urunov,Pass
 419825.0,82.0,MissedShots,0.7140000152587891,0.6840000152587891,0.01150085497647524,Nemanja Miletic,h,9375.0,OpenPlay,2020.0,LeftFoot,14450.0,FC Ufa,Zenit St. Petersburg,0.0,0.0,2021-05-08 11:00:00,Artem Golubev,Pass
@@ -127,7 +127,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 419636.0,8.0,Goal,0.8919999694824219,0.475,0.09558271616697313,Aleksandr Rudenko,h,7620.0,OpenPlay,2020.0,RightFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,,None
 419637.0,13.0,SavedShot,0.885,0.2410000038146973,0.03539146482944488,Anton Zabolotny,h,5899.0,OpenPlay,2020.0,RightFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,Artur Yusupov,Pass
 419638.0,17.0,MissedShots,0.85,0.3709999847412109,0.05537625402212143,Artur Yusupov,h,3067.0,OpenPlay,2020.0,RightFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,Christian Noboa,Pass
-419639.0,23.0,MissedShots,0.7440000152587891,0.5159999847412109,0.02654885128140449,Ibrahim Tsallagov,h,2990.0,OpenPlay,2020.0,LeftFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,,BallTouch
+419639.0,23.0,MissedShots,0.7440000152587891,0.5159999847412109,0.026548851281404492,Ibrahim Tsallagov,h,2990.0,OpenPlay,2020.0,LeftFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,,BallTouch
 419643.0,48.0,SavedShot,0.921999969482422,0.3160000038146973,0.021751083433628082,Timofey Margasov,h,2785.0,OpenPlay,2020.0,RightFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,,Aerial
 419647.0,65.0,SavedShot,0.8880000305175781,0.54,0.0576639398932457,Anton Zabolotny,h,5899.0,SetPiece,2020.0,Head,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,Christian Noboa,Cross
 419648.0,67.0,BlockedShot,0.7519999694824219,0.5329999923706055,0.020029187202453613,Christian Noboa,h,2771.0,OpenPlay,2020.0,LeftFoot,14452.0,PFC Sochi,FC Rotor Volgograd,2.0,1.0,2021-05-07 17:00:00,,None
@@ -297,7 +297,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 419246.0,40.0,BlockedShot,0.8909999847412109,0.4109999847412109,0.10825199633836746,Rifat Zhemaletdinov,a,2712.0,OpenPlay,2020.0,RightFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,Fedor Smolov,Pass
 419248.0,44.0,MissedShots,0.61,0.6990000152587891,0.005758685525506735,Grzegorz Krychowiak,a,2414.0,OpenPlay,2020.0,RightFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,Fedor Smolov,Pass
 419251.0,48.0,BlockedShot,0.9390000152587892,0.325,0.10234443098306656,Fedor Smolov,a,2925.0,OpenPlay,2020.0,RightFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,,TakeOn
-419256.0,55.0,Goal,0.941999969482422,0.5870000076293945,0.317608654499054,Francois Kamano,a,3333.0,OpenPlay,2020.0,LeftFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,,None
+419256.0,55.0,Goal,0.941999969482422,0.5870000076293945,0.31760865449905396,Francois Kamano,a,3333.0,OpenPlay,2020.0,LeftFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,,None
 419257.0,58.0,MissedShots,0.85,0.5720000076293945,0.02809060364961624,Fedor Smolov,a,2925.0,OpenPlay,2020.0,RightFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,Anton Miranchuk,HeadPass
 419258.0,62.0,MissedShots,0.7769999694824219,0.4670000076293945,0.02573610655963421,Dimitri Barinov,a,2721.0,OpenPlay,2020.0,RightFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,,Tackle
 419259.0,63.0,SavedShot,0.845999984741211,0.3629999923706055,0.3771963119506836,Anton Miranchuk,a,4605.0,OpenPlay,2020.0,RightFoot,14443.0,Zenit St. Petersburg,Lokomotiv Moscow,6.0,1.0,2021-05-02 16:00:00,Vladislav Ignatjev,Aerial
@@ -380,10 +380,10 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 418571.0,62.0,SavedShot,0.97,0.5429999923706055,0.1550925374031067,Fedor Chalov,h,5454.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Chidera Ejuke,Pass
 418573.0,68.0,SavedShot,0.8809999847412109,0.519000015258789,0.26992884278297424,Salomón Rondón,h,813.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Ilzat Akhmetov,Chipped
 418574.0,70.0,Goal,0.9569999694824218,0.4620000076293945,0.14394167065620422,Fedor Chalov,h,5454.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Vadim Karpov,Pass
-418575.0,75.0,BlockedShot,0.82,0.3829999923706055,0.051025185734033585,Salomón Rondón,h,813.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Konstantin Kuchaev,Pass
+418575.0,75.0,BlockedShot,0.82,0.3829999923706055,0.05102518573403359,Salomón Rondón,h,813.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Konstantin Kuchaev,Pass
 418576.0,75.0,BlockedShot,0.901999969482422,0.6990000152587891,0.029045067727565762,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Konstantin Kuchaev,Cross
 418577.0,76.0,MissedShots,0.9540000152587892,0.5209999847412109,0.15126118063926694,Salomón Rondón,h,813.0,OpenPlay,2020.0,Head,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Chidera Ejuke,Cross
-418578.0,82.0,BlockedShot,0.78,0.4309999847412109,0.0322873480618,Salomón Rondón,h,813.0,OpenPlay,2020.0,LeftFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Ivan Oblyakov,Pass
+418578.0,82.0,BlockedShot,0.78,0.4309999847412109,0.032287348061799996,Salomón Rondón,h,813.0,OpenPlay,2020.0,LeftFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Ivan Oblyakov,Pass
 418579.0,85.0,MissedShots,0.855999984741211,0.3920000076293945,0.0593654178082943,Konstantin Kuchaev,h,5459.0,OpenPlay,2020.0,LeftFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,,None
 418552.0,1.0,MissedShots,0.865999984741211,0.4729999923706055,0.022865593433380127,Komnen Andric,a,9068.0,OpenPlay,2020.0,Head,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Moritz Bauer,Cross
 418553.0,10.0,MissedShots,0.8109999847412109,0.705,0.019051026552915573,Vladislav Kamilov,a,8873.0,OpenPlay,2020.0,RightFoot,14444.0,CSKA Moscow,FC Ufa,1.0,1.0,2021-05-01 13:30:00,Timur Zhamaletdinov,Pass
@@ -433,7 +433,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 418426.0,8.0,SavedShot,0.7390000152587891,0.6179999923706054,0.01586737297475338,Vladimir Iljin,a,5497.0,OpenPlay,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,Bernard Berisha,BallRecovery
 418431.0,35.0,MissedShots,0.7859999847412109,0.3120000076293945,0.013908491469919682,Ismael,a,6024.0,FromCorner,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,,Aerial
 418432.0,36.0,SavedShot,0.745999984741211,0.4929999923706055,0.020489569753408432,Vladimir Iljin,a,5497.0,OpenPlay,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,Artem Timofeev,Pass
-418433.0,42.0,SavedShot,0.9869999694824221,0.4379999923706055,0.13203656673431394,Aleksandr Putsko,a,2824.0,FromCorner,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,,None
+418433.0,42.0,SavedShot,0.986999969482422,0.4379999923706055,0.13203656673431394,Aleksandr Putsko,a,2824.0,FromCorner,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,,None
 418435.0,50.0,SavedShot,0.730999984741211,0.3890000152587891,0.04371482878923416,Ismael,a,6024.0,DirectFreekick,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,,Standard
 418436.0,50.0,SavedShot,0.9619999694824218,0.3509999847412109,0.060005839914083474,Ladislav Almasi,a,9396.0,SetPiece,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,,Rebound
 418437.0,50.0,BlockedShot,0.8819999694824219,0.5429999923706055,0.06741204112768172,Aleksandr Putsko,a,2824.0,FromCorner,2020.0,RightFoot,14448.0,FC Rotor Volgograd,FK Akhmat,1.0,0.0,2021-05-01 11:00:00,,CornerAwarded
@@ -612,7 +612,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 417377.0,59.0,Goal,0.8590000152587891,0.6740000152587889,0.0650475397706031,Grzegorz Krychowiak,a,2414.0,OpenPlay,2020.0,RightFoot,14436.0,FC Tambov,Lokomotiv Moscow,2.0,5.0,2021-04-24 16:00:00,Rifat Zhemaletdinov,Pass
 417325.0,6.0,MissedShots,0.8780000305175781,0.54,0.0286117494106292,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,Head,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Guillermo Varela,Aerial
 417326.0,11.0,MissedShots,0.8730000305175781,0.3279999923706054,0.0540635362267494,Vyacheslav Grulev,h,6611.0,OpenPlay,2020.0,LeftFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,,Dispossessed
-417327.0,13.0,SavedShot,0.6990000152587891,0.4640000152587891,0.012378117069602,Daniil Fomin,h,5536.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Sebastian Szymanski,Pass
+417327.0,13.0,SavedShot,0.6990000152587891,0.4640000152587891,0.012378117069601999,Daniil Fomin,h,5536.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Sebastian Szymanski,Pass
 417328.0,19.0,MissedShots,0.7819999694824219,0.6229999923706054,0.0233244635164737,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,LeftFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Vyacheslav Grulev,Pass
 417329.0,22.0,SavedShot,0.9059999847412108,0.5979999923706054,0.0366880185902118,Sly,h,2907.0,OpenPlay,2020.0,Head,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Vyacheslav Grulev,Cross
 417330.0,24.0,ShotOnPost,0.955,0.500999984741211,0.8091958165168762,Arsen Zakharyan,h,8760.0,OpenPlay,2020.0,LeftFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Sly,Pass
@@ -635,13 +635,13 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 417335.0,45.0,MissedShots,0.8519999694824218,0.3010000038146972,0.0362015403807163,Pavel Mogilevets,a,2773.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,,None
 417336.0,49.0,SavedShot,0.8469999694824218,0.5209999847412109,0.0734473690390586,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,,BallRecovery
 417341.0,56.0,MissedShots,0.9030000305175782,0.725999984741211,0.039416629821062005,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,LeftFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Brian Idowu,Pass
-417344.0,61.0,MissedShots,0.765,0.3659999847412109,0.014282408170402,Kirill Bozhenov,a,8598.0,SetPiece,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,,None
+417344.0,61.0,MissedShots,0.765,0.3659999847412109,0.014282408170402001,Kirill Bozhenov,a,8598.0,SetPiece,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,,None
 417345.0,68.0,MissedShots,0.8880000305175781,0.74,0.0345764644443988,Mohamed Konate,a,5417.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Dmitri Tikhiy,Chipped
 417347.0,69.0,BlockedShot,0.840999984741211,0.705999984741211,0.0312413107603788,Brian Idowu,a,2832.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,,None
 417352.0,90.0,Goal,0.8680000305175781,0.48,0.1088722869753837,Maksim Glushenkov,a,7477.0,OpenPlay,2020.0,RightFoot,14437.0,Dinamo Moscow,Khimki,0.0,1.0,2021-04-24 16:00:00,Pavel Mogilevets,Pass
 417195.0,1.0,SavedShot,0.931999969482422,0.6240000152587889,0.2954432666301727,Sebastián Driussi,h,5924.0,OpenPlay,2020.0,RightFoot,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Douglas Santos,Cross
 417196.0,7.0,SavedShot,0.8180000305175781,0.6840000152587891,0.0280260108411312,Wendel,h,8984.0,OpenPlay,2020.0,RightFoot,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Malcom,Pass
-417198.0,10.0,SavedShot,0.904000015258789,0.5209999847412109,0.050769742578268,Andrey Mostovoy,h,7680.0,OpenPlay,2020.0,Head,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Aleksey Sutormin,Aerial
+417198.0,10.0,SavedShot,0.904000015258789,0.5209999847412109,0.050769742578267996,Andrey Mostovoy,h,7680.0,OpenPlay,2020.0,Head,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Aleksey Sutormin,Aerial
 417199.0,21.0,SavedShot,0.6220000076293946,0.6730000305175782,0.0074718347750604,Yaroslav Rakitskiy,h,7447.0,OpenPlay,2020.0,LeftFoot,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Wilmar Barrios,Pass
 417200.0,22.0,MissedShots,0.91,0.5729999923706055,0.0165598113089799,Dmitriy Chistyakov,h,7638.0,FromCorner,2020.0,Head,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Sebastián Driussi,Aerial
 417201.0,22.0,SavedShot,0.8680000305175781,0.500999984741211,0.0809619277715683,Sebastián Driussi,h,5924.0,OpenPlay,2020.0,RightFoot,14440.0,Zenit St. Petersburg,FC Rotor Volgograd,6.0,0.0,2021-04-24 13:30:00,Malcom,Cross
@@ -686,7 +686,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 415512.0,26.0,MissedShots,0.8480000305175781,0.6029999923706054,0.0502155162394046,Filip Uremovic,a,6797.0,FromCorner,2020.0,RightFoot,14425.0,Ural,Rubin Kazan,0.0,1.0,2021-04-18 09:00:00,Denis Makarov,Pass
 415513.0,44.0,BlockedShot,0.7780000305175782,0.2770000076293945,0.0182100776582956,Denis Makarov,a,8361.0,OpenPlay,2020.0,LeftFoot,14425.0,Ural,Rubin Kazan,0.0,1.0,2021-04-18 09:00:00,Oleg Shatov,Pass
 415514.0,44.0,Goal,0.7290000152587891,0.5279999923706055,0.0124321803450584,Darko Jevtic,a,8360.0,OpenPlay,2020.0,LeftFoot,14425.0,Ural,Rubin Kazan,0.0,1.0,2021-04-18 09:00:00,Soltmurad Bakaev,LayOff
-415516.0,70.0,MissedShots,0.7169999694824218,0.6270000076293946,0.013107637874782,Ilya Samoshnikov,a,8362.0,OpenPlay,2020.0,RightFoot,14425.0,Ural,Rubin Kazan,0.0,1.0,2021-04-18 09:00:00,Darko Jevtic,Pass
+415516.0,70.0,MissedShots,0.7169999694824218,0.6270000076293946,0.013107637874781999,Ilya Samoshnikov,a,8362.0,OpenPlay,2020.0,RightFoot,14425.0,Ural,Rubin Kazan,0.0,1.0,2021-04-18 09:00:00,Darko Jevtic,Pass
 415576.0,3.0,MissedShots,0.8680000305175781,0.555,0.1005503013730049,Goran Causic,h,5092.0,OpenPlay,2020.0,LeftFoot,14427.0,Arsenal Tula,FC Tambov,4.0,0.0,2021-04-18 11:00:00,Evgeni Lutsenko,Pass
 415578.0,10.0,Goal,0.885,0.5,0.7542753219604492,Robert Bauer,h,237.0,Penalty,2020.0,RightFoot,14427.0,Arsenal Tula,FC Tambov,4.0,0.0,2021-04-18 11:00:00,,Standard
 415579.0,14.0,MissedShots,0.8540000152587891,0.4220000076293945,0.062388252466917,Daniil Khlusevich,h,7183.0,OpenPlay,2020.0,LeftFoot,14427.0,Arsenal Tula,FC Tambov,4.0,0.0,2021-04-18 11:00:00,Georgi Kostadinov,Cross
@@ -1083,7 +1083,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375069.0,58.0,BlockedShot,0.835,0.4270000076293945,0.0511296540498733,Eldor Shomurodov,h,5954.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Aleksey Ionov,Chipped
 375070.0,59.0,MissedShots,0.789000015258789,0.3329999923706054,0.0204796679317951,Ivelin Popov,h,2817.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,,Interception
 375072.0,66.0,MissedShots,0.943000030517578,0.5759999847412111,0.0334689915180206,Eldor Shomurodov,h,5954.0,FromCorner,2020.0,Head,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Aleksey Ionov,Aerial
-375074.0,74.0,SavedShot,0.7090000152587891,0.395,0.013608724810183,Mathias Normann,h,7470.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Roman Eremenko,Pass
+375074.0,74.0,SavedShot,0.7090000152587891,0.395,0.013608724810183001,Mathias Normann,h,7470.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Roman Eremenko,Pass
 375075.0,79.0,SavedShot,0.7909999847412109,0.5220000076293946,0.0307732336223125,Kento Hashimoto,h,8610.0,SetPiece,2020.0,LeftFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,,None
 375076.0,80.0,MissedShots,0.8080000305175781,0.4720000076293945,0.0186634082347154,Aleksei Kozlov,h,3021.0,OpenPlay,2020.0,Head,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Dennis Hadzikadunic,Chipped
 375077.0,82.0,BlockedShot,0.7930000305175782,0.434000015258789,0.0132458247244358,Mathias Normann,h,7470.0,OpenPlay,2020.0,LeftFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,,Aerial
@@ -1091,7 +1091,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375081.0,87.0,MissedShots,0.750999984741211,0.7330000305175781,0.0083602229133248,Kento Hashimoto,h,8610.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,,None
 375082.0,88.0,BlockedShot,0.8230000305175781,0.6730000305175782,0.0294750574976205,Mathias Normann,h,7470.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,,BallTouch
 375052.0,12.0,BlockedShot,0.7280000305175781,0.710999984741211,0.0135627714917063,Malcom,a,3262.0,OpenPlay,2020.0,LeftFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Douglas Santos,Pass
-375053.0,17.0,MissedShots,0.789000015258789,0.2889999961853027,0.019586844369769,Wilmar Barrios,a,7448.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Magomed Ozdoev,Pass
+375053.0,17.0,MissedShots,0.789000015258789,0.2889999961853027,0.019586844369768996,Wilmar Barrios,a,7448.0,OpenPlay,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Magomed Ozdoev,Pass
 375054.0,19.0,ShotOnPost,0.81,0.485,0.0733129829168319,Malcom,a,3262.0,OpenPlay,2020.0,LeftFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Sardar Azmoun,LayOff
 375055.0,20.0,BlockedShot,0.970999984741211,0.409000015258789,0.0960138812661171,Malcom,a,3262.0,OpenPlay,2020.0,Head,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,Sebastián Driussi,Cross
 375056.0,22.0,SavedShot,0.885,0.5,0.7542753219604492,Sardar Azmoun,a,2774.0,Penalty,2020.0,RightFoot,14012.0,FC Rostov,Zenit St. Petersburg,0.0,2.0,2020-08-15 17:00:00,,Standard
@@ -1163,11 +1163,11 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375299.0,4.0,MissedShots,0.8009999847412109,0.4059999847412109,0.0388301201164722,Wanderson,h,2450.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Cristian Ramírez,Pass
 375300.0,10.0,SavedShot,0.9,0.5790000152587891,0.2559358179569244,Rémy Cabella,h,3390.0,OpenPlay,2020.0,Head,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Daniil Utkin,Chipped
 375301.0,17.0,MissedShots,0.7859999847412109,0.64,0.0232253577560186,Daniil Utkin,h,7283.0,OpenPlay,2020.0,LeftFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Cristian Ramírez,Pass
-375302.0,20.0,SavedShot,0.9540000152587892,0.4120000076293945,0.113934077322483,Marcus Berg,h,7668.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Kristoffer Olsson,Chipped
+375302.0,20.0,SavedShot,0.9540000152587892,0.4120000076293945,0.11393407732248301,Marcus Berg,h,7668.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Kristoffer Olsson,Chipped
 375304.0,29.0,MissedShots,0.7859999847412109,0.4,0.0330353155732154,Wanderson,h,2450.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Sergei Petrov,Pass
 375305.0,30.0,MissedShots,0.8069999694824219,0.1979999923706054,0.0145160378888249,Wanderson,h,2450.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Sergei Petrov,Pass
 375306.0,34.0,Goal,0.899000015258789,0.4309999847412109,0.3978343605995178,Sergei Petrov,h,2920.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Marcus Berg,Pass
-375307.0,41.0,SavedShot,0.8019999694824219,0.3509999847412109,0.042318757623434,Wanderson,h,2450.0,OpenPlay,2020.0,LeftFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Sergei Petrov,Pass
+375307.0,41.0,SavedShot,0.8019999694824219,0.3509999847412109,0.042318757623434004,Wanderson,h,2450.0,OpenPlay,2020.0,LeftFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Sergei Petrov,Pass
 375309.0,47.0,MissedShots,0.885,0.5,0.0204766355454921,Aleksandr Martynovich,h,2790.0,SetPiece,2020.0,Head,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Wanderson,Aerial
 375312.0,55.0,SavedShot,0.87,0.6780000305175782,0.0723648518323898,Marcus Berg,h,7668.0,OpenPlay,2020.0,LeftFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Wanderson,Pass
 375313.0,65.0,Goal,0.9740000152587892,0.4229999923706055,0.8578258752822876,Marcus Berg,h,7668.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Yuri Gazinskiy,TakeOn
@@ -1177,7 +1177,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375308.0,43.0,MissedShots,0.7780000305175782,0.479000015258789,0.0155223421752452,Robert Bauer,a,237.0,FromCorner,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,,Aerial
 375310.0,47.0,MissedShots,0.8909999847412109,0.67,0.057391095906495986,Yuri Kovalev,a,8369.0,OpenPlay,2020.0,LeftFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Daniil Lesovoy,Pass
 375311.0,53.0,BlockedShot,0.87,0.4640000152587891,0.0125428214669227,Maksim Belyaev,a,4631.0,FromCorner,2020.0,Head,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Daniil Lesovoy,Aerial
-375314.0,68.0,BlockedShot,0.750999984741211,0.6120000076293945,0.0120485778898,Daniil Lesovoy,a,6793.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,,None
+375314.0,68.0,BlockedShot,0.750999984741211,0.6120000076293945,0.012048577889799999,Daniil Lesovoy,a,6793.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,,None
 375315.0,68.0,BlockedShot,0.7430000305175781,0.3390000152587891,0.0093578286468982,Georgi Kostadinov,a,6792.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,,Rebound
 375317.0,85.0,MissedShots,0.899000015258789,0.6059999847412111,0.0563789755105972,Evgeni Lutsenko,a,3035.0,OpenPlay,2020.0,LeftFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Sergey Tkachev,Chipped
 375318.0,90.0,SavedShot,0.7569999694824219,0.424000015258789,0.0220880508422851,Yuri Kovalev,a,8369.0,OpenPlay,2020.0,RightFoot,14015.0,FC Krasnodar,Arsenal Tula,2.0,0.0,2020-08-18 17:00:00,Sergey Tkachev,Pass
@@ -1220,7 +1220,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375350.0,8.0,BlockedShot,0.9,0.555,0.0291063860058784,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,Head,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Roman Zobnin,CornerAwarded
 375351.0,11.0,SavedShot,0.885,0.5,0.7542753219604492,Jordan Larsson,a,7770.0,Penalty,2020.0,LeftFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,,Standard
 375352.0,17.0,Goal,0.935,0.5020000076293946,0.1196464300155639,Ezequiel Ponce,a,2057.0,FromCorner,2020.0,Head,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Jordan Larsson,Cross
-375354.0,27.0,MissedShots,0.7609999847412109,0.4540000152587891,0.022027688100934,Roman Zobnin,a,2750.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Alexander Sobolev,Pass
+375354.0,27.0,MissedShots,0.7609999847412109,0.4540000152587891,0.022027688100933997,Roman Zobnin,a,2750.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Alexander Sobolev,Pass
 375358.0,35.0,MissedShots,0.9080000305175782,0.419000015258789,0.0305575039237737,Alexander Sobolev,a,5397.0,OpenPlay,2020.0,Head,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Giorgi Jikia,Aerial
 375359.0,42.0,BlockedShot,0.905,0.4420000076293945,0.1080284938216209,Alexander Sobolev,a,5397.0,OpenPlay,2020.0,LeftFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Nail Umiarov,Chipped
 375360.0,43.0,MissedShots,0.905,0.4929999923706055,0.0303385257720947,Samuel Gigot,a,6773.0,FromCorner,2020.0,Head,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,,Aerial
@@ -1229,7 +1229,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375363.0,61.0,MissedShots,0.916999969482422,0.5359999847412109,0.2934162020683288,Alexander Sobolev,a,5397.0,OpenPlay,2020.0,Head,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Alex Kral,Cross
 375364.0,63.0,MissedShots,0.9390000152587892,0.6509999847412109,0.0919912606477737,Alexander Sobolev,a,5397.0,OpenPlay,2020.0,LeftFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Jordan Larsson,Pass
 375366.0,66.0,SavedShot,0.8380000305175781,0.379000015258789,0.0674557909369468,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,LeftFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Alexander Sobolev,TakeOn
-375367.0,67.0,SavedShot,0.7680000305175781,0.2520000076293945,0.013696133159101,Roman Zobnin,a,2750.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Jordan Larsson,BallTouch
+375367.0,67.0,SavedShot,0.7680000305175781,0.2520000076293945,0.013696133159101002,Roman Zobnin,a,2750.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Jordan Larsson,BallTouch
 375368.0,69.0,BlockedShot,0.9080000305175782,0.534000015258789,0.1040695533156395,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Giorgi Jikia,Cross
 375369.0,69.0,MissedShots,0.745999984741211,0.4059999847412109,0.0194263458251953,Nail Umiarov,a,7476.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Ezequiel Ponce,Pass
 375370.0,75.0,MissedShots,0.8969999694824219,0.495,0.1344375610351562,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,RightFoot,14017.0,FC Ufa,Spartak Moscow,1.0,1.0,2020-08-19 13:00:00,Alex Kral,Pass
@@ -1242,7 +1242,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375378.0,22.0,MissedShots,0.4829999923706055,0.835999984741211,0.0066106063313782,Evgeny Kharin,h,7123.0,OpenPlay,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,,BallRecovery
 375379.0,28.0,ShotOnPost,0.885,0.5,0.7542753219604492,Andrés Ponce,h,1811.0,Penalty,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,,Standard
 375380.0,43.0,BlockedShot,0.895,0.3679999923706055,0.090255007147789,Andrés Ponce,h,1811.0,OpenPlay,2020.0,LeftFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,Marat Bystrov,Pass
-375381.0,43.0,SavedShot,0.769000015258789,0.44,0.026341138407587995,Ismael,h,6024.0,OpenPlay,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,,Rebound
+375381.0,43.0,SavedShot,0.769000015258789,0.44,0.026341138407587998,Ismael,h,6024.0,OpenPlay,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,,Rebound
 375383.0,46.0,Goal,0.8869999694824219,0.4720000076293945,0.1000514551997184,Vladimir Iljin,h,5497.0,OpenPlay,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,Oleg Ivanov,Chipped
 375384.0,48.0,BlockedShot,0.8069999694824219,0.3829999923706054,0.052912563085556,Odise Roshi,h,5461.0,OpenPlay,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,Vladimir Iljin,Pass
 375385.0,49.0,MissedShots,0.8880000305175781,0.4029999923706054,0.046539906412363,Artem Timofeev,h,3026.0,FromCorner,2020.0,RightFoot,14018.0,FK Akhmat,FC Rotor Volgograd,3.0,1.0,2020-08-19 15:00:00,Bernard Berisha,Cross
@@ -1342,7 +1342,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375487.0,75.0,MissedShots,0.865999984741211,0.5359999847412109,0.06641475111246099,Tonny Vilhena,a,7648.0,OpenPlay,2020.0,RightFoot,14021.0,Ural,FC Krasnodar,1.0,0.0,2020-08-22 11:00:00,,None
 375489.0,91.0,BlockedShot,0.759000015258789,0.5720000076293945,0.0113680623471736,Cristian Ramírez,a,5477.0,OpenPlay,2020.0,LeftFoot,14021.0,Ural,FC Krasnodar,1.0,0.0,2020-08-22 11:00:00,,Aerial
 375490.0,94.0,MissedShots,0.855999984741211,0.6980000305175781,0.0402879640460014,Alex Matsukatov,a,6707.0,OpenPlay,2020.0,RightFoot,14021.0,Ural,FC Krasnodar,1.0,0.0,2020-08-22 11:00:00,Viktor Claesson,Pass
-375492.0,5.0,MissedShots,0.921999969482422,0.525,0.042804155498743,Dmitri Tikhiy,h,8597.0,FromCorner,2020.0,Head,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Artem Polyarus,Aerial
+375492.0,5.0,MissedShots,0.921999969482422,0.525,0.042804155498742995,Dmitri Tikhiy,h,8597.0,FromCorner,2020.0,Head,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Artem Polyarus,Aerial
 375497.0,20.0,Goal,0.9640000152587892,0.52,0.2003781348466873,Egor Danilkin,h,3189.0,FromCorner,2020.0,OtherBodyPart,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Artem Polyarus,Cross
 375498.0,30.0,SavedShot,0.7709999847412109,0.2920000076293945,0.0130383754149079,Kirill Bozhenov,h,8598.0,OpenPlay,2020.0,LeftFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Artem Polyarus,Chipped
 375500.0,42.0,SavedShot,0.9130000305175782,0.5270000076293946,0.0622091405093669,Mohamed Konate,h,5417.0,OpenPlay,2020.0,Head,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Arshak Koryan,HeadPass
@@ -1370,7 +1370,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375516.0,73.0,Goal,0.875,0.5490000152587889,0.1047354415059089,Artem Timofeev,a,3026.0,OpenPlay,2020.0,LeftFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Bernard Berisha,Pass
 375517.0,78.0,MissedShots,0.8859999847412109,0.3459999847412109,0.045709453523159006,Marat Bystrov,a,8624.0,FromCorner,2020.0,RightFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,,None
 375518.0,82.0,MissedShots,0.850999984741211,0.3129999923706055,0.0531903579831123,George Melkadze,a,2822.0,OpenPlay,2020.0,RightFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,,Foul
-375519.0,86.0,SavedShot,0.7390000152587891,0.3879999923706054,0.020358121022582,Oleg Ivanov,a,2857.0,OpenPlay,2020.0,RightFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Bernard Berisha,Pass
+375519.0,86.0,SavedShot,0.7390000152587891,0.3879999923706054,0.020358121022582002,Oleg Ivanov,a,2857.0,OpenPlay,2020.0,RightFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,Bernard Berisha,Pass
 375520.0,94.0,SavedShot,0.6980000305175781,0.6109999847412111,0.032770462334156,Bernard Berisha,a,2946.0,DirectFreekick,2020.0,RightFoot,14022.0,Khimki,FK Akhmat,1.0,2.0,2020-08-22 13:00:00,,Standard
 375522.0,4.0,MissedShots,0.6809999847412109,0.4209999847412109,0.0115054091438651,Kings Kangwa,h,7630.0,OpenPlay,2020.0,RightFoot,14023.0,Arsenal Tula,Dinamo Moscow,2.0,0.0,2020-08-22 14:30:00,Goran Causic,Pass
 375523.0,6.0,MissedShots,0.92,0.5490000152587889,0.0521696880459785,Evgeni Lutsenko,h,3035.0,OpenPlay,2020.0,Head,14023.0,Arsenal Tula,Dinamo Moscow,2.0,0.0,2020-08-22 14:30:00,Kings Kangwa,Aerial
@@ -1393,7 +1393,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375538.0,80.0,BlockedShot,0.8269999694824218,0.455,0.0294887199997901,Sly,a,2907.0,OpenPlay,2020.0,RightFoot,14023.0,Arsenal Tula,Dinamo Moscow,2.0,0.0,2020-08-22 14:30:00,Sergey Parshivlyuk,Cross
 375561.0,5.0,MissedShots,0.7769999694824219,0.2639999961853027,0.0137713085860013,Malcom,h,3262.0,FromCorner,2020.0,LeftFoot,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,,None
 375562.0,7.0,MissedShots,0.931999969482422,0.4779999923706055,0.1396371275186538,Artem Dzyuba,h,3063.0,OpenPlay,2020.0,Head,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,Vyacheslav Karavayev,Cross
-375564.0,21.0,MissedShots,0.8,0.5390000152587889,0.042968887835741,Douglas Santos,h,5286.0,OpenPlay,2020.0,LeftFoot,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,Artem Dzyuba,Pass
+375564.0,21.0,MissedShots,0.8,0.5390000152587889,0.042968887835740995,Douglas Santos,h,5286.0,OpenPlay,2020.0,LeftFoot,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,Artem Dzyuba,Pass
 375566.0,24.0,SavedShot,0.9290000152587892,0.4059999847412109,0.369175523519516,Artem Dzyuba,h,3063.0,OpenPlay,2020.0,RightFoot,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,Sardar Azmoun,Pass
 375567.0,25.0,SavedShot,0.8130000305175781,0.364000015258789,0.0256831888109445,Vyacheslav Karavayev,h,5538.0,FromCorner,2020.0,LeftFoot,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,Douglas Santos,Pass
 375568.0,26.0,MissedShots,0.794000015258789,0.5059999847412109,0.0402503721415996,Vyacheslav Karavayev,h,5538.0,OpenPlay,2020.0,LeftFoot,14024.0,Zenit St. Petersburg,FC Tambov,4.0,1.0,2020-08-22 15:00:00,,None
@@ -1435,7 +1435,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375637.0,43.0,MissedShots,0.789000015258789,0.4420000076293945,0.0341774001717567,Ivan Oblyakov,h,5442.0,OpenPlay,2020.0,LeftFoot,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,,None
 375638.0,45.0,MissedShots,0.7380000305175781,0.6209999847412111,0.0146296313032507,Arnór Sigurdsson,h,7136.0,OpenPlay,2020.0,RightFoot,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Ilia Shkurin,Pass
 375640.0,54.0,SavedShot,0.921999969482422,0.62,0.0773539319634437,Arnór Sigurdsson,h,7136.0,OpenPlay,2020.0,RightFoot,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Georgy Schennikov,Cross
-375641.0,55.0,SavedShot,0.916999969482422,0.5940000152587891,0.037716019898653,Igor Diveev,h,6910.0,FromCorner,2020.0,OtherBodyPart,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Ivan Oblyakov,Cross
+375641.0,55.0,SavedShot,0.916999969482422,0.5940000152587891,0.037716019898652996,Igor Diveev,h,6910.0,FromCorner,2020.0,OtherBodyPart,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Ivan Oblyakov,Cross
 375644.0,75.0,SavedShot,0.8809999847412109,0.5329999923706055,0.0399576984345912,Ivan Oblyakov,h,5442.0,OpenPlay,2020.0,Head,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Georgy Schennikov,Cross
 375646.0,78.0,BlockedShot,0.7980000305175782,0.3509999847412109,0.0264234878122806,Ivan Oblyakov,h,5442.0,OpenPlay,2020.0,LeftFoot,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Konstantin Kuchaev,Pass
 375651.0,87.0,SavedShot,0.7319999694824219,0.525,0.0160184446722269,Kristijan Bistrovic,h,6585.0,OpenPlay,2020.0,RightFoot,14025.0,CSKA Moscow,Rubin Kazan,1.0,2.0,2020-08-22 17:00:00,Nayair Tiknizyan,BallRecovery
@@ -1460,7 +1460,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375598.0,25.0,BlockedShot,0.8080000305175781,0.4309999847412109,0.0486777052283287,Sergey Serchenkov,h,2805.0,OpenPlay,2020.0,LeftFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,Kamil Mullin,Pass
 375599.0,25.0,BlockedShot,0.8019999694824219,0.6930000305175781,0.0175079684704542,Ilya Zhigulev,h,5479.0,OpenPlay,2020.0,LeftFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,Oleg Aleinik,BallTouch
 375600.0,26.0,MissedShots,0.6819999694824219,0.47,0.0127671509981155,Anton Piskunov,h,8614.0,OpenPlay,2020.0,RightFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,Sergei Makarov,Pass
-375607.0,49.0,MissedShots,0.8059999847412109,0.6480000305175782,0.012532384134829,Ilya Zhigulev,h,5479.0,OpenPlay,2020.0,LeftFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,,Aerial
+375607.0,49.0,MissedShots,0.8059999847412109,0.6480000305175782,0.012532384134828998,Ilya Zhigulev,h,5479.0,OpenPlay,2020.0,LeftFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,,Aerial
 375608.0,51.0,Goal,0.916999969482422,0.4620000076293945,0.3835709989070892,Kamil Mullin,h,3196.0,OpenPlay,2020.0,RightFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,Sergey Serchenkov,Cross
 375609.0,53.0,MissedShots,0.8530000305175781,0.3429999923706054,0.0185044426470994,Sergey Serchenkov,h,2805.0,FromCorner,2020.0,LeftFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,,Aerial
 375610.0,56.0,MissedShots,0.8769999694824219,0.2339999961853027,0.024864612147212,Oleg Aleinik,h,8618.0,OpenPlay,2020.0,RightFoot,14026.0,FC Rotor Volgograd,PFC Sochi,1.0,2.0,2020-08-22 17:00:00,Sergei Makarov,HeadPass
@@ -1501,7 +1501,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375756.0,45.0,SavedShot,0.8640000152587891,0.6569999694824219,0.0626603066921234,Eldor Shomurodov,a,5954.0,OpenPlay,2020.0,LeftFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Baktiyor Zainutdinov,Pass
 375757.0,45.0,MissedShots,0.7859999847412109,0.3940000152587891,0.0200894922018051,Khoren Bayramyan,a,3162.0,FromCorner,2020.0,RightFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Eldor Shomurodov,None
 375758.0,46.0,MissedShots,0.7830000305175782,0.605,0.0234913360327482,Mathias Normann,a,7470.0,OpenPlay,2020.0,RightFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Eldor Shomurodov,TakeOn
-375759.0,56.0,BlockedShot,0.7819999694824219,0.6759999847412109,0.024268202483654,Mathias Normann,a,7470.0,OpenPlay,2020.0,RightFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Maksim Osipenko,Pass
+375759.0,56.0,BlockedShot,0.7819999694824219,0.6759999847412109,0.024268202483653998,Mathias Normann,a,7470.0,OpenPlay,2020.0,RightFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Maksim Osipenko,Pass
 375760.0,64.0,BlockedShot,0.8859999847412109,0.3609999847412109,0.0494980812072753,Aleksei Kozlov,a,3021.0,OpenPlay,2020.0,RightFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Khoren Bayramyan,Cross
 375762.0,72.0,BlockedShot,0.8909999847412109,0.504000015258789,0.1296922117471695,Pavel Mamaev,a,2924.0,OpenPlay,2020.0,RightFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Khoren Bayramyan,Pass
 375763.0,72.0,MissedShots,0.8369999694824218,0.33,0.0445324704051017,Dmitriy Poloz,a,2775.0,OpenPlay,2020.0,LeftFoot,14027.0,FC Ufa,FC Rostov,0.0,1.0,2020-08-23 13:30:00,Aleksei Kozlov,Pass
@@ -1567,7 +1567,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375846.0,8.0,MissedShots,0.7069999694824218,0.5940000152587891,0.0115843983367085,Kings Kangwa,h,7630.0,OpenPlay,2020.0,LeftFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Daniil Lesovoy,Pass
 375847.0,8.0,BlockedShot,0.7919999694824219,0.3729999923706055,0.0214377157390117,Goran Causic,h,5092.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,,Rebound
 375848.0,16.0,MissedShots,0.93,0.5709999847412109,0.072084829211235,Taras Burlak,h,2993.0,FromCorner,2020.0,Head,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Valeri Gromyko,Cross
-375851.0,34.0,MissedShots,0.7580000305175781,0.6290000152587889,0.020238671451807,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Robert Bauer,Pass
+375851.0,34.0,MissedShots,0.7580000305175781,0.6290000152587889,0.020238671451806998,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Robert Bauer,Pass
 375852.0,36.0,ShotOnPost,0.8530000305175781,0.5609999847412109,0.0472820661962032,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Evgeni Lutsenko,HeadPass
 375853.0,38.0,BlockedShot,0.6859999847412109,0.6490000152587889,0.0114580234512686,Robert Bauer,h,237.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Valeri Gromyko,Pass
 375854.0,39.0,BlockedShot,0.8980000305175782,0.424000015258789,0.0544720478355884,Evgeni Lutsenko,h,3035.0,FromCorner,2020.0,LeftFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Kings Kangwa,Cross
@@ -1588,7 +1588,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375870.0,90.0,MissedShots,0.74,0.4159999847412109,0.0182576738297939,Artem Sokol,h,6794.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Kings Kangwa,Pass
 375871.0,90.0,MissedShots,0.899000015258789,0.5390000152587889,0.0881205350160598,Evans Kangwa,h,6275.0,OpenPlay,2020.0,Head,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Vladislav Panteleev,Cross
 375872.0,92.0,BlockedShot,0.6890000152587891,0.33,0.0110965250059962,Vladislav Panteleev,h,7260.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Kings Kangwa,Pass
-375873.0,93.0,SavedShot,0.7080000305175781,0.5909999847412111,0.012960429303348,Robert Bauer,h,237.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Kings Kangwa,Pass
+375873.0,93.0,SavedShot,0.7080000305175781,0.5909999847412111,0.012960429303347999,Robert Bauer,h,237.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Kings Kangwa,Pass
 375849.0,25.0,SavedShot,0.7759999847412109,0.720999984741211,0.0192914977669715,Kamran Aliev,a,8602.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Alexander Lomovitskiy,Pass
 375850.0,29.0,Goal,0.931999969482422,0.3959999847412109,0.2295999675989151,Kamran Aliev,a,8602.0,OpenPlay,2020.0,RightFoot,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,,TakeOn
 375859.0,64.0,BlockedShot,0.92,0.5070000076293946,0.0433127656579017,Dmitri Tikhiy,a,8597.0,FromCorner,2020.0,Head,14030.0,Arsenal Tula,Khimki,1.0,1.0,2020-08-25 17:30:00,Artem Polyarus,Aerial
@@ -1596,7 +1596,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375936.0,7.0,SavedShot,0.945,0.3859999847412109,0.2583417892456054,Filip Uremovic,h,6797.0,OpenPlay,2020.0,Head,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,,None
 375937.0,9.0,MissedShots,0.6890000152587891,0.38,0.0099030537530779,Oliver Abildgaard,h,8359.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,,None
 375940.0,22.0,MissedShots,0.921999969482422,0.4820000076293945,0.4495606422424316,Djorde Despotovic,h,7121.0,OpenPlay,2020.0,Head,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Aleksandr Zuev,Aerial
-375941.0,24.0,SavedShot,0.8190000152587891,0.469000015258789,0.051731813699007013,Oleg Shatov,h,3062.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,,None
+375941.0,24.0,SavedShot,0.8190000152587891,0.469000015258789,0.05173181369900701,Oleg Shatov,h,3062.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,,None
 375944.0,39.0,SavedShot,0.870999984741211,0.655,0.0652642324566841,Khvicha Kvaratskhelia,h,7453.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Filip Uremovic,Pass
 375945.0,40.0,SavedShot,0.8530000305175781,0.2679999923706054,0.0293148308992385,Soltmurad Bakaev,h,7678.0,OpenPlay,2020.0,RightFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Khvicha Kvaratskhelia,Pass
 375946.0,42.0,SavedShot,0.9059999847412108,0.6819999694824219,0.0581256598234176,Khvicha Kvaratskhelia,h,7453.0,OpenPlay,2020.0,RightFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,,Dispossessed
@@ -1611,7 +1611,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375959.0,68.0,Goal,0.985999984741211,0.46,0.9547300338745116,Denis Makarov,h,8361.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,,Rebound
 375963.0,73.0,BlockedShot,0.8090000152587891,0.3320000076293945,0.0441196411848068,Denis Makarov,h,8361.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Djorde Despotovic,BallTouch
 375965.0,80.0,BlockedShot,0.835999984741211,0.6159999847412111,0.0664898231625557,Khvicha Kvaratskhelia,h,7453.0,OpenPlay,2020.0,RightFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Hwang In-Beom,Pass
-375966.0,82.0,SavedShot,0.875,0.6430000305175781,0.093079574406147,Khvicha Kvaratskhelia,h,7453.0,OpenPlay,2020.0,RightFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Hwang In-Beom,Pass
+375966.0,82.0,SavedShot,0.875,0.6430000305175781,0.09307957440614699,Khvicha Kvaratskhelia,h,7453.0,OpenPlay,2020.0,RightFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Hwang In-Beom,Pass
 375938.0,13.0,MissedShots,0.794000015258789,0.7419999694824219,0.0140268709510564,Olivier Thill,a,7135.0,OpenPlay,2020.0,RightFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Lovro Bizjak,Pass
 375939.0,13.0,BlockedShot,0.764000015258789,0.3429999923706054,0.0150766046717762,Oleg Danchenko,a,5893.0,OpenPlay,2020.0,LeftFoot,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Aleksandr Sukhov,Pass
 375942.0,37.0,BlockedShot,0.91,0.4409999847412109,0.0427914150059223,Andrés Vombergar,a,7466.0,OpenPlay,2020.0,Head,14031.0,Rubin Kazan,FC Ufa,3.0,0.0,2020-08-26 15:30:00,Azer Aliev,Aerial
@@ -1627,7 +1627,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 375911.0,5.0,SavedShot,0.7319999694824219,0.4179999923706055,0.0104762148112058,Stanislav Magkeev,h,7592.0,OpenPlay,2020.0,RightFoot,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,,Aerial
 375913.0,13.0,SavedShot,0.9519999694824218,0.4540000152587891,0.0792922154068946,Eder,h,963.0,OpenPlay,2020.0,Head,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,Anton Miranchuk,HeadPass
 375914.0,17.0,SavedShot,0.8109999847412109,0.7580000305175781,0.0193436723202466,Mikhail Lysov,h,5421.0,OpenPlay,2020.0,LeftFoot,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,Rifat Zhemaletdinov,Pass
-375915.0,26.0,MissedShots,0.8540000152587891,0.4579999923706054,0.010316053405404,Murilo Cerqueira,h,7650.0,SetPiece,2020.0,Head,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,Anton Miranchuk,Aerial
+375915.0,26.0,MissedShots,0.8540000152587891,0.4579999923706054,0.010316053405403999,Murilo Cerqueira,h,7650.0,SetPiece,2020.0,Head,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,Anton Miranchuk,Aerial
 375916.0,27.0,MissedShots,0.7930000305175782,0.5670000076293945,0.066371276974678,Francois Kamano,h,3333.0,OpenPlay,2020.0,RightFoot,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,Grzegorz Krychowiak,Pass
 375917.0,31.0,BlockedShot,0.865999984741211,0.5940000152587891,0.0701410248875618,Francois Kamano,h,3333.0,OpenPlay,2020.0,RightFoot,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,Anton Miranchuk,Pass
 375921.0,47.0,Goal,0.885,0.5,0.7542753219604492,Anton Miranchuk,h,4605.0,Penalty,2020.0,RightFoot,14032.0,Lokomotiv Moscow,FK Akhmat,2.0,3.0,2020-08-26 15:30:00,,Standard
@@ -1818,9 +1818,9 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 376123.0,22.0,SavedShot,0.8130000305175781,0.495,0.0611155591905117,Zuriko Davitashvili,a,7652.0,OpenPlay,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,Oleg Aleinik,TakeOn
 376124.0,26.0,BlockedShot,0.755,0.3959999847412109,0.013895814307034,Ilya Zhigulev,a,5479.0,SetPiece,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,,None
 376126.0,31.0,Goal,0.9259999847412108,0.5920000076293945,0.307976484298706,Kamil Mullin,a,3196.0,OpenPlay,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,Danil Stepanov,Cross
-376127.0,42.0,MissedShots,0.779000015258789,0.524000015258789,0.04501598700881,Sergei Makarov,a,3168.0,OpenPlay,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,,None
+376127.0,42.0,MissedShots,0.779000015258789,0.524000015258789,0.045015987008809995,Sergei Makarov,a,3168.0,OpenPlay,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,,None
 376128.0,45.0,BlockedShot,0.919000015258789,0.5670000076293945,0.0754830241203308,Cedric Gogoua,a,7672.0,FromCorner,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,Zuriko Davitashvili,Cross
-376130.0,49.0,MissedShots,0.7369999694824219,0.500999984741211,0.019363971427083,Oleg Aleinik,a,8618.0,OpenPlay,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,Oleg Kozhemyakin,Pass
+376130.0,49.0,MissedShots,0.7369999694824219,0.500999984741211,0.019363971427082998,Oleg Aleinik,a,8618.0,OpenPlay,2020.0,RightFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,Oleg Kozhemyakin,Pass
 376141.0,84.0,BlockedShot,0.8109999847412109,0.3579999923706055,0.0223648976534605,Oleg Kozhemyakin,a,8616.0,OpenPlay,2020.0,LeftFoot,14039.0,Khimki,FC Rotor Volgograd,1.0,1.0,2020-08-29 17:00:00,Zuriko Davitashvili,Chipped
 376154.0,29.0,BlockedShot,0.8580000305175781,0.3160000038146973,0.0421396940946579,Kirill Folmer,h,7865.0,OpenPlay,2020.0,LeftFoot,14040.0,FC Ufa,Dinamo Moscow,1.0,1.0,2020-08-30 11:00:00,Timur Zhamaletdinov,Pass
 376160.0,52.0,MissedShots,0.7909999847412109,0.6090000152587891,0.0308817401528358,Igor Bezdenezhnykh,h,2959.0,OpenPlay,2020.0,RightFoot,14040.0,FC Ufa,Dinamo Moscow,1.0,1.0,2020-08-30 11:00:00,,None
@@ -1862,7 +1862,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 376310.0,13.0,MissedShots,0.7959999847412109,0.5729999923706055,0.0294049140065908,Vladimir Iljin,h,5497.0,OpenPlay,2020.0,RightFoot,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,Andrés Ponce,Pass
 376311.0,15.0,MissedShots,0.7869999694824219,0.5109999847412109,0.0361537188291549,Vladimir Iljin,h,5497.0,OpenPlay,2020.0,LeftFoot,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,Artem Timofeev,Pass
 376313.0,30.0,MissedShots,0.7380000305175781,0.6759999847412109,0.0108741223812103,Ismael,h,6024.0,OpenPlay,2020.0,RightFoot,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,Andrés Ponce,HeadPass
-376315.0,36.0,SavedShot,0.981999969482422,0.6229999923706054,0.0250166319310665,Zoran Nizic,h,7158.0,SetPiece,2020.0,Head,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,Ismael,Chipped
+376315.0,36.0,SavedShot,0.9819999694824221,0.6229999923706054,0.0250166319310665,Zoran Nizic,h,7158.0,SetPiece,2020.0,Head,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,Ismael,Chipped
 376316.0,40.0,SavedShot,0.94,0.655,0.0875251144170761,Bernard Berisha,h,2946.0,OpenPlay,2020.0,LeftFoot,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,,TakeOn
 376317.0,40.0,SavedShot,0.81,0.5709999847412109,0.0397251546382904,Artem Timofeev,h,3026.0,OpenPlay,2020.0,LeftFoot,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,,Rebound
 376318.0,48.0,MissedShots,0.855,0.4709999847412109,0.0431998185813427,Odise Roshi,h,5461.0,FromCorner,2020.0,LeftFoot,14042.0,FK Akhmat,CSKA Moscow,0.0,3.0,2020-08-30 15:00:00,Ismael,Cross
@@ -1999,7 +1999,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 376589.0,50.0,MissedShots,0.921999969482422,0.4670000076293945,0.0996604785323143,Andrés Ponce,h,1811.0,OpenPlay,2020.0,Head,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,Maksim Nenakhov,Cross
 376591.0,57.0,SavedShot,0.7430000305175781,0.6359999847412109,0.0178956687450408,Vladimir Iljin,h,5497.0,OpenPlay,2020.0,LeftFoot,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,Artem Timofeev,Pass
 376592.0,58.0,MissedShots,0.845999984741211,0.6519999694824219,0.0558733940124511,Bernard Berisha,h,2946.0,OpenPlay,2020.0,RightFoot,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,Andrés Ponce,Pass
-376593.0,61.0,MissedShots,0.905,0.4370000076293945,0.037914041429758,Marat Bystrov,h,8624.0,FromCorner,2020.0,Head,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,,None
+376593.0,61.0,MissedShots,0.905,0.4370000076293945,0.037914041429757996,Marat Bystrov,h,8624.0,FromCorner,2020.0,Head,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,,None
 376594.0,75.0,MissedShots,0.943000030517578,0.5309999847412109,0.1200207471847534,Aleksandr Putsko,h,2824.0,FromCorner,2020.0,Head,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,Miroslav Bogosavac,Cross
 376595.0,76.0,MissedShots,0.794000015258789,0.2889999961853027,0.0103351837024092,Marat Bystrov,h,8624.0,OpenPlay,2020.0,LeftFoot,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,Bernard Berisha,Chipped
 376597.0,79.0,BlockedShot,0.9130000305175782,0.3179999923706054,0.0635129958391189,Evgeny Kharin,h,7123.0,OpenPlay,2020.0,RightFoot,14227.0,FK Akhmat,PFC Sochi,0.0,1.0,2020-09-12 16:00:00,Bernard Berisha,Pass
@@ -2049,7 +2049,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 376972.0,29.0,Goal,0.9280000305175782,0.4159999847412109,0.0799999982118606,Hördur Bjorgvin Magnusson,h,3924.0,FromCorner,2020.0,Head,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Ivan Oblyakov,Aerial
 376973.0,35.0,BlockedShot,0.7440000152587891,0.4209999847412109,0.0183692052960395,Ivan Oblyakov,h,5442.0,OpenPlay,2020.0,LeftFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Konstantin Maradishvili,Pass
 376977.0,41.0,MissedShots,0.8919999694824219,0.33,0.0711399763822555,Mario Fernandes,h,2896.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Nikola Vlasic,Pass
-376979.0,45.0,Goal,0.8969999694824219,0.534000015258789,0.100241981446743,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Mario Fernandes,Cross
+376979.0,45.0,Goal,0.8969999694824219,0.534000015258789,0.10024198144674301,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Mario Fernandes,Cross
 376984.0,64.0,SavedShot,0.7619999694824219,0.419000015258789,0.0314455181360244,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,LeftFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Konstantin Kuchaev,Pass
 376985.0,75.0,MissedShots,0.7269999694824218,0.455,0.023838760331273,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Ivan Oblyakov,Pass
 376987.0,82.0,SavedShot,0.9130000305175782,0.6480000305175782,0.0971324741840362,Ivan Oblyakov,h,5442.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Baktiyor Zainutdinov,TakeOn
@@ -2061,7 +2061,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 376974.0,35.0,MissedShots,0.901999969482422,0.3060000038146973,0.0581105202436447,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Jordan Larsson,Pass
 376975.0,37.0,SavedShot,0.71,0.2070000076293945,0.0124497963115572,Jordan Larsson,a,7770.0,OpenPlay,2020.0,LeftFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Alex Kral,Pass
 376976.0,38.0,BlockedShot,0.785,0.5320000076293945,0.0343762338161468,Ayrton Lucas,a,7475.0,OpenPlay,2020.0,LeftFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Jordan Larsson,Pass
-376978.0,43.0,MissedShots,0.8580000305175781,0.3010000038146972,0.018396096304059,Roman Zobnin,a,2750.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Ezequiel Ponce,Chipped
+376978.0,43.0,MissedShots,0.8580000305175781,0.3010000038146972,0.018396096304058997,Roman Zobnin,a,2750.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Ezequiel Ponce,Chipped
 376980.0,45.0,SavedShot,0.9259999847412108,0.5070000076293946,0.185753509402275,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,LeftFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Nail Umiarov,TakeOn
 376981.0,50.0,BlockedShot,0.8480000305175781,0.46,0.0772212147712707,Ezequiel Ponce,a,2057.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Zelimkhan Bakaev,Pass
 376982.0,57.0,MissedShots,0.7680000305175781,0.4279999923706055,0.0199991315603256,Nail Umiarov,a,7476.0,OpenPlay,2020.0,RightFoot,14230.0,CSKA Moscow,Spartak Moscow,3.0,1.0,2020-09-13 16:00:00,Alexander Sobolev,Pass
@@ -2099,7 +2099,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 377084.0,52.0,SavedShot,0.926999969482422,0.4220000076293945,0.0607133656740188,Evans Kangwa,a,6275.0,FromCorner,2020.0,Head,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Sergey Tkachev,Cross
 377085.0,58.0,MissedShots,0.7980000305175782,0.2760000038146972,0.0123985558748245,Sergey Tkachev,a,2880.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Georgi Kostadinov,HeadPass
 377086.0,59.0,Goal,0.8730000305175781,0.7040000152587891,0.0296719092875719,Yuri Kovalev,a,8369.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Artem Sokol,Pass
-377090.0,65.0,MissedShots,0.7819999694824219,0.5509999847412109,0.02418271638453,Kings Kangwa,a,7630.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Sergey Tkachev,Pass
+377090.0,65.0,MissedShots,0.7819999694824219,0.5509999847412109,0.024182716384529998,Kings Kangwa,a,7630.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Sergey Tkachev,Pass
 377091.0,68.0,BlockedShot,0.7569999694824219,0.2120000076293945,0.0133090866729617,Vladislav Panteleev,a,7260.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Kings Kangwa,Pass
 377093.0,69.0,MissedShots,0.7140000152587891,0.6,0.0138822719454765,Kings Kangwa,a,7630.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Sergey Tkachev,Pass
 377095.0,73.0,BlockedShot,0.8190000152587891,0.5209999847412109,0.0202250052243471,Robert Bauer,a,237.0,OpenPlay,2020.0,RightFoot,14231.0,Zenit St. Petersburg,Arsenal Tula,3.0,1.0,2020-09-14 15:30:00,Sergey Tkachev,Chipped
@@ -2114,7 +2114,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 377134.0,62.0,MissedShots,0.7880000305175782,0.6359999847412109,0.0279291830956935,Evgeniy Chernov,h,5469.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,,BallTouch
 377135.0,70.0,BlockedShot,0.7880000305175782,0.710999984741211,0.0540276914834976,Mathias Normann,h,7470.0,DirectFreekick,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,,Standard
 377137.0,79.0,SavedShot,0.785,0.6359999847412109,0.0259010028094053,Danil Glebov,h,6580.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,,None
-377138.0,82.0,SavedShot,0.7390000152587891,0.6909999847412109,0.011670078150928,Mathias Normann,h,7470.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,Danil Glebov,Pass
+377138.0,82.0,SavedShot,0.7390000152587891,0.6909999847412109,0.011670078150928001,Mathias Normann,h,7470.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,Danil Glebov,Pass
 377140.0,93.0,MissedShots,0.7709999847412109,0.3920000076293945,0.0250826328992843,Pavel Mamaev,h,2924.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,Dmitriy Poloz,HeadPass
 377123.0,10.0,BlockedShot,0.870999984741211,0.7080000305175781,0.040927231311798,Fedor Smolov,a,2925.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,Anton Miranchuk,Chipped
 377124.0,10.0,SavedShot,0.9030000305175782,0.5429999923706055,0.1205582022666931,Dmitri Rybchinsky,a,7452.0,OpenPlay,2020.0,RightFoot,14232.0,FC Rostov,Lokomotiv Moscow,0.0,0.0,2020-09-14 17:30:00,,Rebound
@@ -2177,7 +2177,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 377485.0,53.0,SavedShot,0.749000015258789,0.6419999694824219,0.0226326175034046,Daniil Krugovoy,a,6800.0,OpenPlay,2020.0,LeftFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Wilmar Barrios,Pass
 377486.0,53.0,BlockedShot,0.8640000152587891,0.3759999847412109,0.0767536014318466,Andrey Mostovoy,a,7680.0,OpenPlay,2020.0,RightFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,,Dispossessed
 377487.0,55.0,MissedShots,0.795,0.3509999847412109,0.0285345874726772,Artem Dzyuba,a,3063.0,OpenPlay,2020.0,RightFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Andrey Mostovoy,Pass
-377489.0,61.0,SavedShot,0.8440000152587891,0.7,0.048199038952589014,Malcom,a,3262.0,OpenPlay,2020.0,LeftFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Magomed Ozdoev,Pass
+377489.0,61.0,SavedShot,0.8440000152587891,0.7,0.04819903895258901,Malcom,a,3262.0,OpenPlay,2020.0,LeftFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Magomed Ozdoev,Pass
 377490.0,65.0,SavedShot,0.7669999694824219,0.2770000076293945,0.0158313661813735,Malcom,a,3262.0,OpenPlay,2020.0,LeftFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Aleksey Sutormin,Pass
 377492.0,71.0,MissedShots,0.92,0.5029999923706054,0.1311556845903396,Artem Dzyuba,a,3063.0,OpenPlay,2020.0,Head,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Daniil Krugovoy,Cross
 377493.0,80.0,MissedShots,0.93,0.484000015258789,0.1265935003757476,Emiliano Rigoni,a,6282.0,OpenPlay,2020.0,LeftFoot,14234.0,Ural,Zenit St. Petersburg,1.0,1.0,2020-09-19 13:30:00,Vyacheslav Karavayev,Cross
@@ -2242,7 +2242,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 377839.0,80.0,MissedShots,0.904000015258789,0.479000015258789,0.0746154859662056,Anton Zabolotny,a,5899.0,OpenPlay,2020.0,Head,14237.0,Arsenal Tula,PFC Sochi,3.0,2.0,2020-09-20 11:00:00,Elmir Nabiullin,Cross
 377840.0,82.0,MissedShots,0.8780000305175781,0.845,0.0449934862554073,Christian Noboa,a,2771.0,DirectFreekick,2020.0,RightFoot,14237.0,Arsenal Tula,PFC Sochi,3.0,2.0,2020-09-20 11:00:00,,Standard
 377842.0,91.0,MissedShots,0.855,0.4,0.0662092342972755,Christian Noboa,a,2771.0,OpenPlay,2020.0,RightFoot,14237.0,Arsenal Tula,PFC Sochi,3.0,2.0,2020-09-20 11:00:00,Joãozinho,Pass
-377843.0,93.0,MissedShots,0.86,0.4509999847412109,0.062389999628067,Miha Mevlja,a,5452.0,OpenPlay,2020.0,RightFoot,14237.0,Arsenal Tula,PFC Sochi,3.0,2.0,2020-09-20 11:00:00,,None
+377843.0,93.0,MissedShots,0.86,0.4509999847412109,0.062389999628066996,Miha Mevlja,a,5452.0,OpenPlay,2020.0,RightFoot,14237.0,Arsenal Tula,PFC Sochi,3.0,2.0,2020-09-20 11:00:00,,None
 378074.0,0.0,BlockedShot,0.926999969482422,0.6640000152587889,0.0732907056808471,Khvicha Kvaratskhelia,h,7453.0,OpenPlay,2020.0,LeftFoot,14238.0,Rubin Kazan,Spartak Moscow,0.0,2.0,2020-09-20 13:30:00,Darko Jevtic,Pass
 378075.0,1.0,MissedShots,0.9459999847412108,0.5640000152587891,0.1044437959790229,Carl Starfelt,h,7655.0,FromCorner,2020.0,Head,14238.0,Rubin Kazan,Spartak Moscow,0.0,2.0,2020-09-20 13:30:00,Darko Jevtic,Cross
 378077.0,16.0,BlockedShot,0.745999984741211,0.4959999847412109,0.0171536952257156,Oleg Shatov,h,3062.0,OpenPlay,2020.0,RightFoot,14238.0,Rubin Kazan,Spartak Moscow,0.0,2.0,2020-09-20 13:30:00,Djorde Despotovic,Pass
@@ -2273,7 +2273,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 378086.0,40.0,BlockedShot,0.845,0.349000015258789,0.0631820261478424,Alex Kral,a,8017.0,OpenPlay,2020.0,RightFoot,14238.0,Rubin Kazan,Spartak Moscow,0.0,2.0,2020-09-20 13:30:00,Roman Zobnin,Pass
 378090.0,51.0,MissedShots,0.8819999694824219,0.409000015258789,0.1260222792625427,Jordan Larsson,a,7770.0,OpenPlay,2020.0,LeftFoot,14238.0,Rubin Kazan,Spartak Moscow,0.0,2.0,2020-09-20 13:30:00,Roman Zobnin,Pass
 378101.0,86.0,BlockedShot,0.7219999694824218,0.2970000076293945,0.0134399123489856,Ilya Gaponov,a,7191.0,OpenPlay,2020.0,LeftFoot,14238.0,Rubin Kazan,Spartak Moscow,0.0,2.0,2020-09-20 13:30:00,,None
-378190.0,4.0,MissedShots,0.7230000305175781,0.5359999847412109,0.013695478439331,Stanislav Magkeev,h,7592.0,OpenPlay,2020.0,RightFoot,14239.0,Lokomotiv Moscow,FC Tambov,1.0,0.0,2020-09-20 16:00:00,Eder,Pass
+378190.0,4.0,MissedShots,0.7230000305175781,0.5359999847412109,0.013695478439331001,Stanislav Magkeev,h,7592.0,OpenPlay,2020.0,RightFoot,14239.0,Lokomotiv Moscow,FC Tambov,1.0,0.0,2020-09-20 16:00:00,Eder,Pass
 378191.0,6.0,Goal,0.936999969482422,0.5370000076293945,0.5633868575096129,Fedor Smolov,h,2925.0,OpenPlay,2020.0,RightFoot,14239.0,Lokomotiv Moscow,FC Tambov,1.0,0.0,2020-09-20 16:00:00,Anton Miranchuk,Pass
 378192.0,7.0,SavedShot,0.8780000305175781,0.4370000076293945,0.1038354709744453,Eder,h,963.0,OpenPlay,2020.0,LeftFoot,14239.0,Lokomotiv Moscow,FC Tambov,1.0,0.0,2020-09-20 16:00:00,,None
 378193.0,14.0,MissedShots,0.915,0.59,0.1159200146794319,Anton Miranchuk,h,4605.0,OpenPlay,2020.0,RightFoot,14239.0,Lokomotiv Moscow,FC Tambov,1.0,0.0,2020-09-20 16:00:00,Francois Kamano,Chipped
@@ -2395,7 +2395,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 379059.0,58.0,BlockedShot,0.7980000305175782,0.7530000305175781,0.0174774806946516,Rémy Cabella,a,3390.0,OpenPlay,2020.0,RightFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,Sergei Petrov,Pass
 379060.0,58.0,Goal,0.895,0.735,0.0355270430445671,Sergei Petrov,a,2920.0,OpenPlay,2020.0,LeftFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,,Rebound
 379061.0,62.0,BlockedShot,0.759000015258789,0.434000015258789,0.0223392285406589,Yuri Gazinskiy,a,2929.0,OpenPlay,2020.0,LeftFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,,None
-379062.0,63.0,BlockedShot,0.720999984741211,0.64,0.013953348621726,Daniil Utkin,a,7283.0,OpenPlay,2020.0,LeftFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,Rémy Cabella,Pass
+379062.0,63.0,BlockedShot,0.720999984741211,0.64,0.013953348621726001,Daniil Utkin,a,7283.0,OpenPlay,2020.0,LeftFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,Rémy Cabella,Pass
 379063.0,66.0,SavedShot,0.78,0.4479999923706054,0.0259910225868225,Daniil Utkin,a,7283.0,OpenPlay,2020.0,RightFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,Rémy Cabella,Pass
 379064.0,67.0,SavedShot,0.8530000305175781,0.445,0.0929297432303428,Rémy Cabella,a,3390.0,OpenPlay,2020.0,RightFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,Sergei Petrov,Pass
 379065.0,73.0,MissedShots,0.7369999694824219,0.67,0.0152898896485567,Rémy Cabella,a,3390.0,OpenPlay,2020.0,RightFoot,14243.0,PFC Sochi,FC Krasnodar,1.0,1.0,2020-09-26 17:00:00,Daniil Utkin,Pass
@@ -2462,7 +2462,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 379705.0,37.0,MissedShots,0.785,0.49,0.0319827869534492,Ivan Oblyakov,h,5442.0,OpenPlay,2020.0,LeftFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Konstantin Kuchaev,Pass
 379711.0,52.0,MissedShots,0.8290000152587891,0.6869999694824219,0.0336065180599689,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,RightFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Georgy Schennikov,Pass
 379712.0,53.0,SavedShot,0.8909999847412109,0.6959999847412109,0.0545931123197078,Georgy Schennikov,h,2915.0,OpenPlay,2020.0,LeftFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Ivan Oblyakov,Pass
-379713.0,55.0,BlockedShot,0.8909999847412109,0.725,0.039829671382904,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,RightFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Ivan Oblyakov,Pass
+379713.0,55.0,BlockedShot,0.8909999847412109,0.725,0.039829671382904004,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,RightFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Ivan Oblyakov,Pass
 379714.0,56.0,SavedShot,0.86,0.2560000038146973,0.0270540099591016,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Kristijan Bistrovic,Pass
 379715.0,57.0,BlockedShot,0.784000015258789,0.6029999923706054,0.0241362191736698,Kristijan Bistrovic,h,6585.0,OpenPlay,2020.0,LeftFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Chidera Ejuke,Pass
 379717.0,63.0,BlockedShot,0.7569999694824219,0.504000015258789,0.0267201103270053,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14246.0,CSKA Moscow,Lokomotiv Moscow,0.0,1.0,2020-09-27 16:00:00,Ivan Oblyakov,Pass
@@ -2754,7 +2754,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 381469.0,30.0,SavedShot,0.924000015258789,0.5759999847412111,0.3096512258052826,Aleksandr Martynovich,a,2790.0,OpenPlay,2020.0,RightFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,Daniil Utkin,Chipped
 381472.0,43.0,BlockedShot,0.769000015258789,0.5929999923706055,0.0218327827751636,Viktor Claesson,a,5478.0,OpenPlay,2020.0,RightFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,Rémy Cabella,Pass
 381473.0,43.0,MissedShots,0.6480000305175782,0.3179999923706054,0.0090121030807495,Kaio,a,7679.0,OpenPlay,2020.0,RightFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,Yuri Gazinskiy,Pass
-381477.0,53.0,BlockedShot,0.7519999694824219,0.49,0.022404795512557,Tonny Vilhena,a,7648.0,OpenPlay,2020.0,LeftFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,,None
+381477.0,53.0,BlockedShot,0.7519999694824219,0.49,0.022404795512557002,Tonny Vilhena,a,7648.0,OpenPlay,2020.0,LeftFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,,None
 381479.0,59.0,BlockedShot,0.785,0.4909999847412109,0.0336053185164928,Yuri Gazinskiy,a,2929.0,OpenPlay,2020.0,LeftFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,Magomed-Shapi Suleymanov,Pass
 381480.0,60.0,MissedShots,0.73,0.51,0.0110865356400609,Tonny Vilhena,a,7648.0,OpenPlay,2020.0,LeftFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,,None
 381481.0,67.0,BlockedShot,0.875,0.5429999923706055,0.1115559786558151,Magomed-Shapi Suleymanov,a,5926.0,OpenPlay,2020.0,LeftFoot,14304.0,Dinamo Moscow,FC Krasnodar,2.0,0.0,2020-10-04 17:00:00,Marcus Berg,Pass
@@ -2776,7 +2776,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 382562.0,66.0,Goal,0.955999984741211,0.515,0.6011297702789307,Igor Diveev,h,6910.0,FromCorner,2020.0,RightFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,,None
 382570.0,88.0,SavedShot,0.8680000305175781,0.3029999923706055,0.061328001320362,Nayair Tiknizyan,h,6810.0,OpenPlay,2020.0,LeftFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,Adolfo Gaich,Pass
 382571.0,90.0,SavedShot,0.919000015258789,0.3659999847412109,0.3403491675853729,Konstantin Kuchaev,h,5459.0,OpenPlay,2020.0,RightFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,Adolfo Gaich,Pass
-382572.0,90.0,BlockedShot,0.8059999847412109,0.6190000152587891,0.021795991808176,Nayair Tiknizyan,h,6810.0,OpenPlay,2020.0,LeftFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,,Rebound
+382572.0,90.0,BlockedShot,0.8059999847412109,0.6190000152587891,0.021795991808176002,Nayair Tiknizyan,h,6810.0,OpenPlay,2020.0,LeftFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,,Rebound
 382573.0,92.0,SavedShot,0.769000015258789,0.47,0.0280426889657974,Kristijan Bistrovic,h,6585.0,OpenPlay,2020.0,LeftFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,,None
 382546.0,1.0,BlockedShot,0.875,0.6840000152587891,0.04141131788492202,Daniil Lesovoy,a,6793.0,SetPiece,2020.0,LeftFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,,None
 382547.0,6.0,SavedShot,0.9259999847412108,0.364000015258789,0.0628508105874061,Clinton N'Jie,a,960.0,OpenPlay,2020.0,RightFoot,14305.0,CSKA Moscow,Dinamo Moscow,3.0,1.0,2020-10-18 13:30:00,Dmitrii Skopintcev,Cross
@@ -2876,7 +2876,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 381884.0,90.0,MissedShots,0.7430000305175781,0.3390000152587891,0.0107835726812481,Francois Kamano,h,3333.0,SetPiece,2020.0,RightFoot,14309.0,Lokomotiv Moscow,FC Ufa,1.0,0.0,2020-10-17 13:30:00,,None
 381872.0,0.0,MissedShots,0.906999969482422,0.4159999847412109,0.1002557054162025,Vyacheslav Krotov,a,2910.0,OpenPlay,2020.0,RightFoot,14309.0,Lokomotiv Moscow,FC Ufa,1.0,0.0,2020-10-17 13:30:00,Bojan Jokic,Chipped
 381885.0,94.0,BlockedShot,0.7769999694824219,0.6640000152587889,0.0185724776238203,Bojan Jokic,a,2593.0,OpenPlay,2020.0,RightFoot,14309.0,Lokomotiv Moscow,FC Ufa,1.0,0.0,2020-10-17 13:30:00,,BallRecovery
-382292.0,1.0,BlockedShot,0.7030000305175781,0.4659999847412109,0.012811348773539,Robert Bauer,h,237.0,FromCorner,2020.0,RightFoot,14310.0,Arsenal Tula,Ural,1.0,0.0,2020-10-18 11:00:00,,None
+382292.0,1.0,BlockedShot,0.7030000305175781,0.4659999847412109,0.012811348773538999,Robert Bauer,h,237.0,FromCorner,2020.0,RightFoot,14310.0,Arsenal Tula,Ural,1.0,0.0,2020-10-18 11:00:00,,None
 382293.0,14.0,BlockedShot,0.7369999694824219,0.49,0.052517507225275005,Kirill Panchenko,h,2887.0,DirectFreekick,2020.0,RightFoot,14310.0,Arsenal Tula,Ural,1.0,0.0,2020-10-18 11:00:00,,Standard
 382297.0,24.0,MissedShots,0.720999984741211,0.5020000076293946,0.0138322077691555,Abdul Mohammed,h,6901.0,OpenPlay,2020.0,RightFoot,14310.0,Arsenal Tula,Ural,1.0,0.0,2020-10-18 11:00:00,,None
 382298.0,35.0,Goal,0.885,0.5620000076293945,0.1119496822357177,Alexander Lomovitskiy,h,6331.0,OpenPlay,2020.0,LeftFoot,14310.0,Arsenal Tula,Ural,1.0,0.0,2020-10-18 11:00:00,Evans Kangwa,Pass
@@ -2913,7 +2913,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 382023.0,47.0,Goal,0.8009999847412109,0.4429999923706054,0.0275902599096298,Reziuan Mirzov,h,2869.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Ilya Kukharchuk,Cross
 382027.0,68.0,BlockedShot,0.8059999847412109,0.4909999847412109,0.0367645882070064,Reziuan Mirzov,h,2869.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Alexander Troshechkin,Pass
 382028.0,75.0,SavedShot,0.7869999694824219,0.6969999694824218,0.0176086258143186,Brian Idowu,h,2832.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,,Tackle
-382032.0,77.0,MissedShots,0.759000015258789,0.6959999847412109,0.014526505023241,Reziuan Mirzov,h,2869.0,OpenPlay,2020.0,LeftFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Evgeniy Gapon,Pass
+382032.0,77.0,MissedShots,0.759000015258789,0.6959999847412109,0.014526505023241001,Reziuan Mirzov,h,2869.0,OpenPlay,2020.0,LeftFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Evgeniy Gapon,Pass
 382033.0,78.0,BlockedShot,0.8580000305175781,0.6759999847412109,0.0501331984996795,Reziuan Mirzov,h,2869.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Brian Idowu,Pass
 382035.0,84.0,Goal,0.879000015258789,0.6,0.3102259933948517,Brian Idowu,h,2832.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Mohamed Konate,Pass
 382036.0,88.0,SavedShot,0.9,0.6220000076293946,0.2485660314559936,Brian Idowu,h,2832.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Egor Danilkin,Chipped
@@ -2930,7 +2930,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 382034.0,79.0,SavedShot,0.958000030517578,0.3579999923706055,0.3838719427585602,Victor Moses,a,541.0,OpenPlay,2020.0,RightFoot,14311.0,Khimki,Spartak Moscow,2.0,3.0,2020-10-17 16:00:00,Jordan Larsson,Throughball
 382313.0,8.0,ShotOnPost,0.745999984741211,0.6959999847412109,0.0158898960798978,Kamil Mullin,h,3196.0,OpenPlay,2020.0,RightFoot,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,Flamarion Junior,Pass
 382314.0,10.0,MissedShots,0.6559999847412109,0.4420000076293945,0.0088228052482008,Ilya Zhigulev,h,5479.0,OpenPlay,2020.0,RightFoot,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,,None
-382318.0,19.0,BlockedShot,0.7,0.2789999961853027,0.009410448372364,Oleg Aleinik,h,8618.0,OpenPlay,2020.0,RightFoot,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,,Aerial
+382318.0,19.0,BlockedShot,0.7,0.2789999961853027,0.009410448372363999,Oleg Aleinik,h,8618.0,OpenPlay,2020.0,RightFoot,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,,Aerial
 382321.0,25.0,SavedShot,0.8159999847412109,0.705999984741211,0.023835776373744,Zuriko Davitashvili,h,7652.0,OpenPlay,2020.0,RightFoot,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,Kamil Mullin,HeadPass
 382322.0,27.0,SavedShot,0.885,0.5,0.7542753219604492,Zuriko Davitashvili,h,7652.0,Penalty,2020.0,RightFoot,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,,Standard
 382323.0,27.0,MissedShots,0.9059999847412108,0.585,0.1716385930776596,Kamil Mullin,h,3196.0,SetPiece,2020.0,Head,14312.0,FC Rotor Volgograd,FC Tambov,0.0,2.0,2020-10-18 11:00:00,,Rebound
@@ -2994,7 +2994,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 383417.0,18.0,SavedShot,0.885,0.5,0.7542753219604492,Flamarion Junior,a,8928.0,Penalty,2020.0,RightFoot,14314.0,Lokomotiv Moscow,FC Rotor Volgograd,1.0,2.0,2020-10-24 16:00:00,,Standard
 383418.0,18.0,Goal,0.9490000152587892,0.5059999847412109,0.5080584287643433,Flamarion Junior,a,8928.0,SetPiece,2020.0,Head,14314.0,Lokomotiv Moscow,FC Rotor Volgograd,1.0,2.0,2020-10-24 16:00:00,,Rebound
 383431.0,56.0,Goal,0.825,0.3320000076293945,0.0249036271125078,Andrés Ponce,a,1811.0,OpenPlay,2020.0,LeftFoot,14314.0,Lokomotiv Moscow,FC Rotor Volgograd,1.0,2.0,2020-10-24 16:00:00,Flamarion Junior,Pass
-383432.0,70.0,MissedShots,0.765,0.3659999847412109,0.028557987883687,Saba Kverkvelia,a,2964.0,OpenPlay,2020.0,RightFoot,14314.0,Lokomotiv Moscow,FC Rotor Volgograd,1.0,2.0,2020-10-24 16:00:00,,None
+383432.0,70.0,MissedShots,0.765,0.3659999847412109,0.028557987883687002,Saba Kverkvelia,a,2964.0,OpenPlay,2020.0,RightFoot,14314.0,Lokomotiv Moscow,FC Rotor Volgograd,1.0,2.0,2020-10-24 16:00:00,,None
 383436.0,86.0,MissedShots,0.86,0.534000015258789,0.0697830915451049,Oleg Kozhemyakin,a,8616.0,SetPiece,2020.0,LeftFoot,14314.0,Lokomotiv Moscow,FC Rotor Volgograd,1.0,2.0,2020-10-24 16:00:00,,None
 383082.0,0.0,SavedShot,0.9259999847412108,0.2470000076293945,0.0356431193649768,Sergey Parshivlyuk,h,2828.0,OpenPlay,2020.0,RightFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Sebastian Szymanski,Pass
 383083.0,8.0,BlockedShot,0.8669999694824219,0.6690000152587889,0.0297869257628917,Sebastian Szymanski,h,7631.0,FromCorner,2020.0,LeftFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Daniil Fomin,Pass
@@ -3006,7 +3006,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 383092.0,25.0,SavedShot,0.8290000152587891,0.4509999847412109,0.0683329552412033,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,LeftFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Nikolay Komlichenko,Pass
 383093.0,25.0,Goal,0.875999984741211,0.4870000076293945,0.3335689008235931,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,LeftFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,,Rebound
 383095.0,33.0,BlockedShot,0.8430000305175781,0.6959999847412109,0.0476371385157108,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Daniil Fomin,Pass
-383098.0,46.0,MissedShots,0.8119999694824219,0.7330000305175781,0.020262686535716,Dmitrii Skopintcev,h,5526.0,OpenPlay,2020.0,LeftFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Sergey Parshivlyuk,Cross
+383098.0,46.0,MissedShots,0.8119999694824219,0.7330000305175781,0.020262686535715998,Dmitrii Skopintcev,h,5526.0,OpenPlay,2020.0,LeftFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Sergey Parshivlyuk,Cross
 383100.0,54.0,Goal,0.8580000305175781,0.4329999923706055,0.0916568860411644,Daniil Fomin,h,5536.0,OpenPlay,2020.0,RightFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,,Dispossessed
 383101.0,57.0,SavedShot,0.71,0.3579999923706055,0.0142078148201107,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,LeftFoot,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Vyacheslav Grulev,Pass
 383104.0,73.0,MissedShots,0.9340000152587892,0.4329999923706055,0.0826318860054016,Vyacheslav Grulev,h,6611.0,FromCorner,2020.0,Head,14315.0,Dinamo Moscow,PFC Sochi,3.0,1.0,2020-10-24 11:00:00,Daniil Fomin,Cross
@@ -3051,7 +3051,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 384200.0,89.0,MissedShots,0.8519999694824218,0.5509999847412109,0.2600024938583374,Ivan Oblyakov,h,5442.0,FromCorner,2020.0,RightFoot,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Fedor Chalov,Pass
 384172.0,2.0,MissedShots,0.955999984741211,0.4640000152587891,0.1422114223241806,Kirill Panchenko,a,2887.0,OpenPlay,2020.0,Head,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Robert Bauer,Cross
 384175.0,16.0,MissedShots,0.7019999694824218,0.7390000152587891,0.0094948858022689,Abdul Mohammed,a,6901.0,OpenPlay,2020.0,RightFoot,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Robert Bauer,Pass
-384185.0,43.0,SavedShot,0.7880000305175782,0.5459999847412109,0.041383434087037985,Luka Djordjevic,a,3813.0,OpenPlay,2020.0,RightFoot,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Gia Grigalava,HeadPass
+384185.0,43.0,SavedShot,0.7880000305175782,0.5459999847412109,0.04138343408703799,Luka Djordjevic,a,3813.0,OpenPlay,2020.0,RightFoot,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Gia Grigalava,HeadPass
 384188.0,51.0,MissedShots,0.948000030517578,0.585,0.0720870196819305,Evans Kangwa,a,6275.0,FromCorner,2020.0,Head,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Kirill Panchenko,Cross
 384193.0,67.0,MissedShots,0.7240000152587891,0.6359999847412109,0.0082342652603983,Goran Causic,a,5092.0,OpenPlay,2020.0,RightFoot,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,,None
 384197.0,77.0,Goal,0.9130000305175782,0.4470000076293945,0.5632753372192383,Luka Djordjevic,a,3813.0,OpenPlay,2020.0,RightFoot,14316.0,CSKA Moscow,Arsenal Tula,5.0,1.0,2020-10-26 16:00:00,Daniil Khlusevich,TakeOn
@@ -3154,7 +3154,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 384392.0,42.0,MissedShots,0.7759999847412109,0.5540000152587891,0.0286938715726137,Darko Jevtic,h,8360.0,OpenPlay,2020.0,LeftFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Soltmurad Bakaev,None
 384394.0,44.0,MissedShots,0.9390000152587892,0.5529999923706055,0.6552935242652893,Djorde Despotovic,h,7121.0,OpenPlay,2020.0,LeftFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Darko Jevtic,Pass
 384396.0,48.0,BlockedShot,0.8230000305175781,0.52,0.0898497253656387,Hwang In-Beom,h,8634.0,OpenPlay,2020.0,LeftFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Djorde Despotovic,Pass
-384399.0,52.0,Goal,0.9490000152587892,0.3570000076293945,0.124577522277832,Soltmurad Bakaev,h,7678.0,OpenPlay,2020.0,RightFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Khvicha Kvaratskhelia,TakeOn
+384399.0,52.0,Goal,0.9490000152587892,0.3570000076293945,0.12457752227783199,Soltmurad Bakaev,h,7678.0,OpenPlay,2020.0,RightFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Khvicha Kvaratskhelia,TakeOn
 384400.0,56.0,BlockedShot,0.931999969482422,0.6179999923706054,0.2051899582147598,Darko Jevtic,h,8360.0,OpenPlay,2020.0,RightFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Hwang In-Beom,TakeOn
 384401.0,56.0,BlockedShot,0.9259999847412108,0.519000015258789,0.1495316624641418,Darko Jevtic,h,8360.0,OpenPlay,2020.0,RightFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,,Rebound
 384402.0,61.0,BlockedShot,0.965999984741211,0.5940000152587891,0.4676518142223358,Darko Jevtic,h,8360.0,OpenPlay,2020.0,RightFoot,14321.0,Rubin Kazan,Arsenal Tula,3.0,1.0,2020-10-31 11:00:00,Oliver Abildgaard,HeadPass
@@ -3183,7 +3183,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 384683.0,13.0,MissedShots,0.9230000305175782,0.48,0.0609995648264884,Timofey Margasov,h,2785.0,OpenPlay,2020.0,Head,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,Anton Zabolotny,None
 384684.0,13.0,Goal,0.901999969482422,0.4409999847412109,0.1306120157241821,Anton Zabolotny,h,5899.0,OpenPlay,2020.0,Head,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,Timofey Margasov,Rebound
 384688.0,31.0,SavedShot,0.8040000152587891,0.3729999923706055,0.1257932931184768,Anton Zabolotny,h,5899.0,OpenPlay,2020.0,RightFoot,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,Nikita Burmistrov,Throughball
-384689.0,32.0,ShotOnPost,0.936999969482422,0.364000015258789,0.015012321062386,Anton Zabolotny,h,5899.0,FromCorner,2020.0,Head,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,Joãozinho,Cross
+384689.0,32.0,ShotOnPost,0.936999969482422,0.364000015258789,0.015012321062386001,Anton Zabolotny,h,5899.0,FromCorner,2020.0,Head,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,Joãozinho,Cross
 384690.0,32.0,BlockedShot,0.8830000305175781,0.6809999847412109,0.0500146225094795,Nikita Burmistrov,h,2986.0,OpenPlay,2020.0,LeftFoot,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,,Rebound
 384691.0,32.0,BlockedShot,0.8830000305175781,0.3120000076293945,0.0599341951310634,Nikita Burmistrov,h,2986.0,OpenPlay,2020.0,RightFoot,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,,None
 384692.0,32.0,MissedShots,0.8059999847412109,0.485,0.0587497651576995,Artur Yusupov,h,3067.0,OpenPlay,2020.0,LeftFoot,14322.0,PFC Sochi,Lokomotiv Moscow,2.0,1.0,2020-10-31 16:00:00,,None
@@ -3226,7 +3226,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 385249.0,71.0,SavedShot,0.7580000305175781,0.4570000076293945,0.0260173399001359,Sebastian Szymanski,a,7631.0,FromCorner,2020.0,LeftFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,Roman Evgeniev,Pass
 385250.0,72.0,MissedShots,0.8480000305175781,0.7080000305175781,0.0349545292556285,Dmitrii Skopintcev,a,5526.0,OpenPlay,2020.0,RightFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,,BallRecovery
 385251.0,73.0,MissedShots,0.7809999847412109,0.524000015258789,0.0336479842662811,Sebastian Szymanski,a,7631.0,OpenPlay,2020.0,LeftFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,,None
-385252.0,78.0,BlockedShot,0.730999984741211,0.53,0.01483148150146,Daniil Fomin,a,5536.0,OpenPlay,2020.0,RightFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,,None
+385252.0,78.0,BlockedShot,0.730999984741211,0.53,0.014831481501459999,Daniil Fomin,a,5536.0,OpenPlay,2020.0,RightFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,,None
 385253.0,82.0,SavedShot,0.8130000305175781,0.5509999847412109,0.0608220174908638,Daniil Lesovoy,a,6793.0,OpenPlay,2020.0,RightFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,Sebastian Szymanski,Pass
 385254.0,86.0,BlockedShot,0.8030000305175782,0.735999984741211,0.0163900684565305,Daniil Lesovoy,a,6793.0,FromCorner,2020.0,RightFoot,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,Vladislav Karapuzov,CornerAwarded
 385255.0,86.0,MissedShots,0.875,0.509000015258789,0.0367848612368106,Nikolay Komlichenko,a,3015.0,OpenPlay,2020.0,Head,14323.0,FC Tambov,Dinamo Moscow,1.0,2.0,2020-11-01 16:00:00,,None
@@ -3253,7 +3253,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 384468.0,86.0,SavedShot,0.755,0.2579999923706054,0.0088244695216417,Daniil Utkin,a,7283.0,OpenPlay,2020.0,LeftFoot,14324.0,FK Akhmat,FC Krasnodar,2.0,0.0,2020-10-31 13:30:00,Aleksey Ionov,Pass
 384469.0,91.0,SavedShot,0.7390000152587891,0.7559999847412109,0.0079211387783288,Ruslan Kambolov,a,2975.0,OpenPlay,2020.0,RightFoot,14324.0,FK Akhmat,FC Krasnodar,2.0,0.0,2020-10-31 13:30:00,Maksim Kutovoi,Pass
 384473.0,10.0,MissedShots,0.901999969482422,0.525,0.096277542412281,Samuel Gigot,h,6773.0,OpenPlay,2020.0,Head,14325.0,Spartak Moscow,FC Rostov,0.0,1.0,2020-10-31 13:30:00,Ayrton Lucas,Cross
-384474.0,15.0,MissedShots,0.9059999847412108,0.46,0.095389999449253,Ezequiel Ponce,h,2057.0,OpenPlay,2020.0,Head,14325.0,Spartak Moscow,FC Rostov,0.0,1.0,2020-10-31 13:30:00,Victor Moses,Cross
+384474.0,15.0,MissedShots,0.9059999847412108,0.46,0.09538999944925301,Ezequiel Ponce,h,2057.0,OpenPlay,2020.0,Head,14325.0,Spartak Moscow,FC Rostov,0.0,1.0,2020-10-31 13:30:00,Victor Moses,Cross
 384477.0,25.0,BlockedShot,0.921999969482422,0.5520000076293945,0.0592184700071811,Samuel Gigot,h,6773.0,FromCorner,2020.0,RightFoot,14325.0,Spartak Moscow,FC Rostov,0.0,1.0,2020-10-31 13:30:00,Roman Zobnin,Aerial
 384478.0,25.0,SavedShot,0.9590000152587892,0.4620000076293945,0.0986182242631912,Ezequiel Ponce,h,2057.0,FromCorner,2020.0,Head,14325.0,Spartak Moscow,FC Rostov,0.0,1.0,2020-10-31 13:30:00,,Aerial
 384482.0,39.0,MissedShots,0.78,0.5270000076293946,0.0248532574623823,Roman Zobnin,h,2750.0,OpenPlay,2020.0,RightFoot,14325.0,Spartak Moscow,FC Rostov,0.0,1.0,2020-10-31 13:30:00,Jordan Larsson,Pass
@@ -3290,7 +3290,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 385008.0,40.0,Goal,0.7569999694824219,0.4640000152587891,0.022424429655075,Alan Dzagoev,a,2881.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Arnór Sigurdsson,Pass
 385010.0,46.0,SavedShot,0.9059999847412108,0.3709999847412109,0.3495600521564483,Nikola Vlasic,a,6276.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Arnór Sigurdsson,Chipped
 385011.0,51.0,SavedShot,0.865999984741211,0.424000015258789,0.1024843603372573,Fedor Chalov,a,5454.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Konstantin Kuchaev,Pass
-385012.0,52.0,MissedShots,0.7669999694824219,0.7530000305175781,0.014558165334165,Fedor Chalov,a,5454.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Baktiyor Zainutdinov,Pass
+385012.0,52.0,MissedShots,0.7669999694824219,0.7530000305175781,0.014558165334165001,Fedor Chalov,a,5454.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Baktiyor Zainutdinov,Pass
 385013.0,55.0,SavedShot,0.85,0.5179999923706055,0.1074696704745292,Arnór Sigurdsson,a,7136.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Alan Dzagoev,Pass
 385014.0,60.0,SavedShot,0.855,0.6270000076293946,0.0862373709678649,Arnór Sigurdsson,a,7136.0,OpenPlay,2020.0,LeftFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Fedor Chalov,Pass
 385015.0,66.0,SavedShot,0.76,0.4329999923706055,0.034238550812006004,Chidera Ejuke,a,8694.0,OpenPlay,2020.0,RightFoot,14326.0,FC Rotor Volgograd,CSKA Moscow,0.0,1.0,2020-11-01 13:30:00,Konstantin Kuchaev,TakeOn
@@ -3305,7 +3305,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 384864.0,10.0,BlockedShot,0.775,0.439000015258789,0.0268204137682914,Catalin Carp,h,5441.0,OpenPlay,2020.0,LeftFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Vyacheslav Krotov,Pass
 384869.0,39.0,SavedShot,0.8880000305175781,0.4120000076293945,0.0616296716034412,Artem Golubev,h,6727.0,OpenPlay,2020.0,LeftFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Oleg Danchenko,Cross
 384870.0,46.0,BlockedShot,0.894000015258789,0.3359999847412109,0.0801437273621559,Komnen Andric,h,9068.0,OpenPlay,2020.0,LeftFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Vyacheslav Krotov,Pass
-384871.0,56.0,BlockedShot,0.7280000305175781,0.3870000076293945,0.010982890613377,Vladislav Kamilov,h,8873.0,OpenPlay,2020.0,RightFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Oleg Danchenko,Pass
+384871.0,56.0,BlockedShot,0.7280000305175781,0.3870000076293945,0.010982890613376999,Vladislav Kamilov,h,8873.0,OpenPlay,2020.0,RightFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Oleg Danchenko,Pass
 384873.0,60.0,Goal,0.9490000152587892,0.519000015258789,0.0685321986675262,Komnen Andric,h,9068.0,FromCorner,2020.0,Head,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Oleg Danchenko,Aerial
 384874.0,64.0,MissedShots,0.75,0.6690000152587889,0.0146676190197467,Konstantin Pliev,h,6600.0,OpenPlay,2020.0,RightFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,,BallRecovery
 384875.0,65.0,MissedShots,0.9230000305175782,0.44,0.0391294471919536,Dmitri Sysuev,h,2908.0,OpenPlay,2020.0,Head,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Bojan Jokic,Aerial
@@ -3324,7 +3324,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 384879.0,71.0,MissedShots,0.7180000305175781,0.4670000076293945,0.0424499735236167,Aleksey Evseev,a,3136.0,DirectFreekick,2020.0,RightFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,,Standard
 384880.0,72.0,SavedShot,0.9159999847412108,0.42,0.14038309454917902,Andrey Egorychev,a,6586.0,OpenPlay,2020.0,RightFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Denys Kulakov,Pass
 384885.0,89.0,SavedShot,0.8630000305175781,0.73,0.0460356697440147,Eric Bicfalvi,a,5483.0,OpenPlay,2020.0,RightFoot,14327.0,FC Ufa,Ural,1.0,2.0,2020-11-01 11:00:00,Pavel Pogrebnyak,Pass
-384887.0,4.0,SavedShot,0.7969999694824219,0.5640000152587891,0.022914944216609,Denis Glushakov,h,2814.0,OpenPlay,2020.0,RightFoot,14328.0,Khimki,Zenit St. Petersburg,0.0,2.0,2020-11-01 11:00:00,Kirill Bozhenov,Cross
+384887.0,4.0,SavedShot,0.7969999694824219,0.5640000152587891,0.022914944216608998,Denis Glushakov,h,2814.0,OpenPlay,2020.0,RightFoot,14328.0,Khimki,Zenit St. Petersburg,0.0,2.0,2020-11-01 11:00:00,Kirill Bozhenov,Cross
 384888.0,8.0,BlockedShot,0.8119999694824219,0.7269999694824218,0.0193992536514997,Reziuan Mirzov,h,2869.0,OpenPlay,2020.0,RightFoot,14328.0,Khimki,Zenit St. Petersburg,0.0,2.0,2020-11-01 11:00:00,Alexander Troshechkin,TakeOn
 384890.0,33.0,SavedShot,0.92,0.354000015258789,0.0106423636898398,Dmitri Tikhiy,h,8597.0,FromCorner,2020.0,Head,14328.0,Khimki,Zenit St. Petersburg,0.0,2.0,2020-11-01 11:00:00,Evgeniy Gapon,Aerial
 384891.0,35.0,MissedShots,0.784000015258789,0.4029999923706054,0.0201545413583517,Kirill Bozhenov,h,8598.0,FromCorner,2020.0,RightFoot,14328.0,Khimki,Zenit St. Petersburg,0.0,2.0,2020-11-01 11:00:00,,None
@@ -3364,7 +3364,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 386279.0,10.0,BlockedShot,0.7819999694824219,0.4490000152587891,0.0291156657040119,Oleg Shatov,a,3062.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Soltmurad Bakaev,Pass
 386281.0,15.0,MissedShots,0.9130000305175782,0.5129999923706055,0.1098957657814025,Silvije Begic,a,6775.0,OpenPlay,2020.0,Head,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Khvicha Kvaratskhelia,Cross
 386286.0,26.0,BlockedShot,0.6220000076293946,0.379000015258789,0.0082640741020441,Filip Uremovic,a,6797.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Oleg Shatov,Pass
-386288.0,29.0,BlockedShot,0.755,0.6759999847412109,0.009496672078967,Hwang In-Beom,a,8634.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Khvicha Kvaratskhelia,Chipped
+386288.0,29.0,BlockedShot,0.755,0.6759999847412109,0.009496672078966999,Hwang In-Beom,a,8634.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Khvicha Kvaratskhelia,Chipped
 386289.0,33.0,MissedShots,0.7319999694824219,0.2639999961853027,0.0321918800473213,Hwang In-Beom,a,8634.0,DirectFreekick,2020.0,LeftFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,,Standard
 386290.0,45.0,MissedShots,0.8369999694824218,0.3429999923706054,0.0413428843021392,Ivan Ignatyev,a,6025.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Hwang In-Beom,Chipped
 386292.0,52.0,BlockedShot,0.7019999694824218,0.6340000152587889,0.0129452031105756,Georgi Zotov,a,2725.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Khvicha Kvaratskhelia,Pass
@@ -3376,7 +3376,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 386308.0,93.0,BlockedShot,0.87,0.3759999847412109,0.0741054937243461,Filip Uremovic,a,6797.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Khvicha Kvaratskhelia,Pass
 386309.0,93.0,BlockedShot,0.8930000305175781,0.455,0.1184224113821983,Kirill Kosarev,a,8621.0,OpenPlay,2020.0,RightFoot,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Silvije Begic,Pass
 386310.0,94.0,MissedShots,0.921999969482422,0.5579999923706055,0.0730489715933799,Silvije Begic,a,6775.0,FromCorner,2020.0,Head,14329.0,Khimki,Rubin Kazan,2.0,0.0,2020-11-08 11:00:00,Denis Makarov,Cross
-385754.0,3.0,SavedShot,0.925,0.3129999923706055,0.03989939391613,Rafal Augustyniak,h,7633.0,FromCorner,2020.0,RightFoot,14330.0,Ural,Spartak Moscow,2.0,2.0,2020-11-07 11:00:00,,None
+385754.0,3.0,SavedShot,0.925,0.3129999923706055,0.039899393916129997,Rafal Augustyniak,h,7633.0,FromCorner,2020.0,RightFoot,14330.0,Ural,Spartak Moscow,2.0,2.0,2020-11-07 11:00:00,,None
 385756.0,9.0,MissedShots,0.96,0.6390000152587889,0.0636718645691871,Eric Bicfalvi,h,5483.0,OpenPlay,2020.0,RightFoot,14330.0,Ural,Spartak Moscow,2.0,2.0,2020-11-07 11:00:00,Nikolai Zolotov,Cross
 385757.0,10.0,Goal,0.9590000152587892,0.5309999847412109,0.1282946914434433,Pavel Pogrebnyak,h,2830.0,FromCorner,2020.0,Head,14330.0,Ural,Spartak Moscow,2.0,2.0,2020-11-07 11:00:00,Othman El Kabir,Cross
 385759.0,26.0,MissedShots,0.8690000152587891,0.455,0.0796445161104202,Eric Bicfalvi,h,5483.0,OpenPlay,2020.0,RightFoot,14330.0,Ural,Spartak Moscow,2.0,2.0,2020-11-07 11:00:00,Denys Kulakov,Cross
@@ -3422,7 +3422,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 385851.0,80.0,MissedShots,0.825999984741211,0.33,0.0194238871335983,Alexander Lomovitskiy,h,6331.0,OpenPlay,2020.0,LeftFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Kings Kangwa,Cross
 385854.0,84.0,MissedShots,0.769000015258789,0.2989999961853027,0.0130129707977175,Kirill Panchenko,h,2887.0,OpenPlay,2020.0,RightFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Daniil Khlusevich,Pass
 385855.0,85.0,BlockedShot,0.906999969482422,0.5940000152587891,0.0903400406241417,Sergey Tkachev,h,2880.0,OpenPlay,2020.0,LeftFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,,None
-385856.0,85.0,BlockedShot,0.785,0.5220000076293946,0.02562659047544,Kings Kangwa,h,7630.0,OpenPlay,2020.0,RightFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,,Rebound
+385856.0,85.0,BlockedShot,0.785,0.5220000076293946,0.025626590475439998,Kings Kangwa,h,7630.0,OpenPlay,2020.0,RightFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,,Rebound
 385857.0,85.0,BlockedShot,0.765,0.655,0.0149167543277144,Robert Bauer,h,237.0,OpenPlay,2020.0,RightFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Kings Kangwa,Rebound
 385858.0,85.0,MissedShots,0.901999969482422,0.33,0.0568824037909507,Kirill Panchenko,h,2887.0,OpenPlay,2020.0,LeftFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,,None
 385825.0,22.0,MissedShots,0.8469999694824218,0.4070000076293945,0.0705346018075943,Andrés Ponce,a,1811.0,OpenPlay,2020.0,LeftFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Flamarion Junior,Pass
@@ -3439,7 +3439,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 385850.0,79.0,SavedShot,0.735999984741211,0.6229999923706054,0.0154205858707427,Andrés Ponce,a,1811.0,OpenPlay,2020.0,RightFoot,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Zuriko Davitashvili,BallRecovery
 385852.0,83.0,MissedShots,0.909000015258789,0.4879999923706055,0.0283105000853538,Oleg Kozhemyakin,a,8616.0,FromCorner,2020.0,Head,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Ilya Zhigulev,Aerial
 385853.0,83.0,MissedShots,0.9340000152587892,0.534000015258789,0.1125187054276466,Andrés Ponce,a,1811.0,FromCorner,2020.0,Head,14331.0,Arsenal Tula,FC Rotor Volgograd,1.0,1.0,2020-11-07 13:30:00,Ilya Zhigulev,Cross
-385631.0,4.0,SavedShot,0.8419999694824218,0.419000015258789,0.096897155046463,Danil Prutsev,h,8714.0,OpenPlay,2020.0,RightFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,,TakeOn
+385631.0,4.0,SavedShot,0.8419999694824218,0.419000015258789,0.09689715504646301,Danil Prutsev,h,8714.0,OpenPlay,2020.0,RightFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,,TakeOn
 385635.0,22.0,SavedShot,0.7019999694824218,0.6559999847412109,0.0124832764267921,Sergey Terekhov,h,5940.0,OpenPlay,2020.0,LeftFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,Emanuel Mammana,Pass
 385636.0,27.0,BlockedShot,0.8569999694824219,0.4759999847412109,0.097144678235054,Joãozinho,h,2928.0,OpenPlay,2020.0,LeftFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,Nikita Burmistrov,Pass
 385637.0,27.0,MissedShots,0.850999984741211,0.3770000076293945,0.0448844134807586,Anton Zabolotny,h,5899.0,OpenPlay,2020.0,LeftFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,,Rebound
@@ -3458,7 +3458,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 385647.0,86.0,Goal,0.885,0.5,0.7542753219604492,Komnen Andric,a,9068.0,Penalty,2020.0,RightFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,,Standard
 385648.0,90.0,SavedShot,0.865,0.38,0.0680625066161155,Dmitri Sysuev,a,2908.0,OpenPlay,2020.0,RightFoot,14332.0,PFC Sochi,FC Ufa,1.0,1.0,2020-11-06 16:00:00,Oleg Danchenko,HeadPass
 386058.0,29.0,BlockedShot,0.825999984741211,0.3120000076293945,0.0314825214445591,Aleksandre Karapetian,h,7658.0,OpenPlay,2020.0,RightFoot,14333.0,FC Tambov,FK Akhmat,0.0,1.0,2020-11-07 16:00:00,Aleksey Rybin,Pass
-386062.0,40.0,BlockedShot,0.9390000152587892,0.62,0.111552894115448,Aleksandre Karapetian,h,7658.0,OpenPlay,2020.0,LeftFoot,14333.0,FC Tambov,FK Akhmat,0.0,1.0,2020-11-07 16:00:00,Pavel Karasev,Pass
+386062.0,40.0,BlockedShot,0.9390000152587892,0.62,0.11155289411544801,Aleksandre Karapetian,h,7658.0,OpenPlay,2020.0,LeftFoot,14333.0,FC Tambov,FK Akhmat,0.0,1.0,2020-11-07 16:00:00,Pavel Karasev,Pass
 386065.0,51.0,BlockedShot,0.8130000305175781,0.295,0.029557067900896,German Onugkha,h,8143.0,OpenPlay,2020.0,RightFoot,14333.0,FC Tambov,FK Akhmat,0.0,1.0,2020-11-07 16:00:00,Soslan Takasov,HeadPass
 386066.0,52.0,BlockedShot,0.7559999847412109,0.6179999923706054,0.0178826469928026,Varazdat Haroyan,h,5907.0,OpenPlay,2020.0,RightFoot,14333.0,FC Tambov,FK Akhmat,0.0,1.0,2020-11-07 16:00:00,Valeriu Ciuperca,Pass
 386067.0,52.0,MissedShots,0.9459999847412108,0.715,0.0345179550349712,Aleksandre Karapetian,h,7658.0,OpenPlay,2020.0,LeftFoot,14333.0,FC Tambov,FK Akhmat,0.0,1.0,2020-11-07 16:00:00,,Rebound
@@ -3489,7 +3489,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 386749.0,32.0,Goal,0.884000015258789,0.434000015258789,0.3634141981601715,Clinton N'Jie,h,960.0,OpenPlay,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,Sergey Parshivlyuk,Pass
 386754.0,48.0,BlockedShot,0.8,0.5390000152587889,0.0278593022376298,Dmitrii Skopintcev,h,5526.0,FromCorner,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,,None
 386758.0,55.0,BlockedShot,0.8719999694824219,0.4820000076293945,0.3671329617500305,Konstantin Tyukavin,h,9049.0,OpenPlay,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,Clinton N&#039;Jie,Pass
-386759.0,58.0,MissedShots,0.754000015258789,0.354000015258789,0.013449115678668,Charles Kaboré,h,2921.0,FromCorner,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,,Aerial
+386759.0,58.0,MissedShots,0.754000015258789,0.354000015258789,0.013449115678668001,Charles Kaboré,h,2921.0,FromCorner,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,,Aerial
 386760.0,58.0,MissedShots,0.765,0.364000015258789,0.0256540793925523,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,Clinton N&#039;Jie,Pass
 386761.0,59.0,Goal,0.805,0.59,0.4506143033504486,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,Roman Evgeniev,Throughball
 386762.0,63.0,BlockedShot,0.7930000305175782,0.6430000305175781,0.2579310238361358,Konstantin Tyukavin,h,9049.0,OpenPlay,2020.0,RightFoot,14334.0,Dinamo Moscow,Lokomotiv Moscow,5.0,1.0,2020-11-08 16:00:00,Sebastian Szymanski,Pass
@@ -3555,7 +3555,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 386709.0,63.0,Goal,0.835999984741211,0.4429999923706054,0.0518264658749103,Daler Kuzyaev,h,2854.0,OpenPlay,2020.0,LeftFoot,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,,None
 386710.0,67.0,SavedShot,0.936999969482422,0.4779999923706055,0.1167982220649719,Andrey Mostovoy,h,7680.0,FromCorner,2020.0,Head,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,Douglas Santos,Cross
 386711.0,75.0,SavedShot,0.9059999847412108,0.5629999923706055,0.027551133185625003,Dejan Lovren,h,602.0,SetPiece,2020.0,Head,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,Douglas Santos,Aerial
-386712.0,76.0,SavedShot,0.7659999847412109,0.5720000076293945,0.024226875975728,Yaroslav Rakitskiy,h,7447.0,OpenPlay,2020.0,LeftFoot,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,,None
+386712.0,76.0,SavedShot,0.7659999847412109,0.5720000076293945,0.024226875975727997,Yaroslav Rakitskiy,h,7447.0,OpenPlay,2020.0,LeftFoot,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,,None
 386713.0,76.0,BlockedShot,0.845,0.3559999847412109,0.0515668019652366,Magomed Ozdoev,h,2968.0,OpenPlay,2020.0,RightFoot,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,Artem Dzyuba,Pass
 386714.0,76.0,BlockedShot,0.715999984741211,0.3909999847412109,0.0111010251566767,Yaroslav Rakitskiy,h,7447.0,OpenPlay,2020.0,RightFoot,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,,Rebound
 386715.0,78.0,Goal,0.965,0.534000015258789,0.6066920757293701,Artem Dzyuba,h,3063.0,OpenPlay,2020.0,RightFoot,14336.0,Zenit St. Petersburg,FC Krasnodar,3.0,1.0,2020-11-08 16:00:00,Magomed Ozdoev,Cross
@@ -3671,7 +3671,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 387449.0,17.0,SavedShot,0.931999969482422,0.3709999847412109,0.0747568979859352,Clinton N'Jie,a,960.0,OpenPlay,2020.0,RightFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Daniil Fomin,Rebound
 387453.0,41.0,SavedShot,0.9209999847412108,0.23,0.0302304588258266,Clinton N'Jie,a,960.0,OpenPlay,2020.0,RightFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Nikola Moro,Pass
 387455.0,45.0,ShotOnPost,0.7119999694824218,0.3829999923706054,0.0127228274941444,Nikola Moro,a,8626.0,OpenPlay,2020.0,RightFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Daniil Lesovoy,Pass
-387459.0,57.0,BlockedShot,0.7669999694824219,0.5820000076293945,0.019044229760766,Dmitrii Skopintcev,a,5526.0,OpenPlay,2020.0,LeftFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Nikolay Komlichenko,Pass
+387459.0,57.0,BlockedShot,0.7669999694824219,0.5820000076293945,0.019044229760766005,Dmitrii Skopintcev,a,5526.0,OpenPlay,2020.0,LeftFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Nikolay Komlichenko,Pass
 387460.0,63.0,SavedShot,0.88,0.6419999694824219,0.0486360825598239,Dmitrii Skopintcev,a,5526.0,OpenPlay,2020.0,LeftFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Daniil Lesovoy,Cross
 387462.0,67.0,MissedShots,0.7080000305175781,0.4729999923706054,0.0125155542045831,Nikolay Komlichenko,a,3015.0,OpenPlay,2020.0,RightFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Guillermo Varela,BallRecovery
 387463.0,70.0,MissedShots,0.7480000305175781,0.4070000076293945,0.0221942067146301,Vyacheslav Grulev,a,6611.0,OpenPlay,2020.0,RightFoot,14341.0,Spartak Moscow,Dinamo Moscow,1.0,1.0,2020-11-21 16:00:00,Nikola Moro,Pass
@@ -3699,7 +3699,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 388049.0,89.0,SavedShot,0.8769999694824219,0.4270000076293945,0.0171713083982467,Pontus Almqvist,a,9061.0,FromCorner,2020.0,Head,14342.0,Rubin Kazan,FC Rostov,0.0,2.0,2020-11-22 16:00:00,Nikolay Poyarkov,Cross
 387765.0,6.0,SavedShot,0.7380000305175781,0.5509999847412109,0.0154959810897707,Oleg Aleinik,h,8618.0,OpenPlay,2020.0,RightFoot,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Zuriko Davitashvili,Pass
 387766.0,11.0,SavedShot,0.8669999694824219,0.705999984741211,0.0417951196432113,Zuriko Davitashvili,h,7652.0,OpenPlay,2020.0,RightFoot,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Andrés Ponce,Pass
-387768.0,23.0,BlockedShot,0.779000015258789,0.415,0.029411556199193,Ilya Zhigulev,h,5479.0,OpenPlay,2020.0,RightFoot,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Oleg Aleinik,Pass
+387768.0,23.0,BlockedShot,0.779000015258789,0.415,0.029411556199192997,Ilya Zhigulev,h,5479.0,OpenPlay,2020.0,RightFoot,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Oleg Aleinik,Pass
 387769.0,23.0,BlockedShot,0.7609999847412109,0.7530000305175781,0.014603242278099,Danil Stepanov,h,7304.0,OpenPlay,2020.0,LeftFoot,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Oleg Aleinik,Pass
 387770.0,25.0,MissedShots,0.9619999694824218,0.5329999923706055,0.1493018269538879,Kamil Mullin,h,3196.0,OpenPlay,2020.0,Head,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Ilya Zhigulev,Cross
 387771.0,38.0,MissedShots,0.865,0.7530000305175781,0.0195045005530118,Zuriko Davitashvili,h,7652.0,OpenPlay,2020.0,RightFoot,14343.0,FC Rotor Volgograd,Ural,0.0,0.0,2020-11-22 13:30:00,Andrés Ponce,Cross
@@ -3719,7 +3719,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 388308.0,21.0,MissedShots,0.9209999847412108,0.5929999923706055,0.0269814264029264,Timur Zhamaletdinov,h,5458.0,OpenPlay,2020.0,Head,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,Kirill Folmer,Aerial
 388309.0,28.0,SavedShot,0.8059999847412109,0.215,0.0435201041400432,Kirill Folmer,h,7865.0,DirectFreekick,2020.0,RightFoot,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,,Standard
 388310.0,35.0,MissedShots,0.9259999847412108,0.5690000152587891,0.2370637506246566,Komnen Andric,h,9068.0,OpenPlay,2020.0,Head,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,Kirill Folmer,Chipped
-388311.0,35.0,SavedShot,0.9459999847412108,0.4759999847412109,0.434536337852478,Timur Zhamaletdinov,h,5458.0,OpenPlay,2020.0,Head,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,Komnen Andric,Rebound
+388311.0,35.0,SavedShot,0.9459999847412108,0.4759999847412109,0.43453633785247797,Timur Zhamaletdinov,h,5458.0,OpenPlay,2020.0,Head,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,Komnen Andric,Rebound
 388316.0,48.0,BlockedShot,0.7680000305175781,0.735,0.0415606386959552,Oleg Danchenko,h,5893.0,DirectFreekick,2020.0,RightFoot,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,,Standard
 388318.0,56.0,MissedShots,0.855999984741211,0.5759999847412111,0.0626550167798996,Artem Golubev,h,6727.0,OpenPlay,2020.0,RightFoot,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,,Dispossessed
 388319.0,58.0,BlockedShot,0.735,0.57,0.0488805249333381,Vyacheslav Krotov,h,2910.0,DirectFreekick,2020.0,RightFoot,14344.0,FC Ufa,Khimki,1.0,2.0,2020-11-23 14:00:00,,Standard
@@ -3844,7 +3844,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 389258.0,82.0,MissedShots,0.860999984741211,0.735,0.0344427451491355,Aleksandr Zuev,h,2826.0,OpenPlay,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,Oliver Abildgaard,Chipped
 389229.0,11.0,BlockedShot,0.784000015258789,0.2860000038146972,0.0120786651968956,Nikola Vlasic,a,6276.0,OpenPlay,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,Ivan Oblyakov,Chipped
 389235.0,20.0,SavedShot,0.8340000152587891,0.5259999847412109,0.0806477963924408,Nikola Vlasic,a,6276.0,OpenPlay,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,Chidera Ejuke,Pass
-389236.0,21.0,MissedShots,0.9209999847412108,0.3429999923706054,0.048124760389328,Fedor Chalov,a,5454.0,FromCorner,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,Nikola Vlasic,Pass
+389236.0,21.0,MissedShots,0.9209999847412108,0.3429999923706054,0.048124760389327996,Fedor Chalov,a,5454.0,FromCorner,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,Nikola Vlasic,Pass
 389237.0,24.0,BlockedShot,0.8519999694824218,0.424000015258789,0.0708789303898811,Ilzat Akhmetov,a,2978.0,OpenPlay,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,,End
 389238.0,31.0,MissedShots,0.7869999694824219,0.3359999847412109,0.0656161978840828,Ivan Oblyakov,a,5442.0,DirectFreekick,2020.0,LeftFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,,Standard
 389239.0,32.0,MissedShots,0.9540000152587892,0.5390000152587889,0.6277050971984863,Fedor Chalov,a,5454.0,OpenPlay,2020.0,RightFoot,14349.0,Rubin Kazan,CSKA Moscow,1.0,0.0,2020-11-29 13:30:00,Chidera Ejuke,Pass
@@ -3961,7 +3961,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390508.0,13.0,MissedShots,0.779000015258789,0.3829999923706054,0.0187677517533302,Dmitriy Poloz,h,2775.0,OpenPlay,2020.0,RightFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,Khoren Bayramyan,HeadPass
 390509.0,35.0,MissedShots,0.8490000152587891,0.4820000076293945,0.0503550320863723,Roman Eremenko,h,2884.0,FromCorner,2020.0,RightFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,Nikolay Poyarkov,Pass
 390510.0,39.0,MissedShots,0.88,0.4629999923706054,0.0299690719693899,Khoren Bayramyan,h,3162.0,OpenPlay,2020.0,Head,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,Nikolay Poyarkov,Chipped
-390511.0,41.0,BlockedShot,0.8009999847412109,0.3,0.023424357175827,Roman Eremenko,h,2884.0,FromCorner,2020.0,RightFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,Maksim Osipenko,Pass
+390511.0,41.0,BlockedShot,0.8009999847412109,0.3,0.023424357175827002,Roman Eremenko,h,2884.0,FromCorner,2020.0,RightFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,Maksim Osipenko,Pass
 390512.0,45.0,BlockedShot,0.635,0.4590000152587891,0.0085719944909214,Dennis Hadzikadunic,h,7023.0,OpenPlay,2020.0,RightFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,Mathias Normann,Pass
 390513.0,50.0,MissedShots,0.825999984741211,0.6,0.0335642397403717,Roman Eremenko,h,2884.0,FromCorner,2020.0,LeftFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,,None
 390517.0,57.0,BlockedShot,0.7269999694824218,0.4929999923706055,0.0470801256597042,Roman Eremenko,h,2884.0,DirectFreekick,2020.0,RightFoot,14353.0,FC Rostov,FC Ufa,0.0,1.0,2020-12-06 11:00:00,,Standard
@@ -3994,7 +3994,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390270.0,62.0,BlockedShot,0.921999969482422,0.519000015258789,0.0978369861841201,Aleksandr Erokhin,h,2772.0,FromCorner,2020.0,Head,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,Douglas Santos,Cross
 390271.0,62.0,SavedShot,0.965999984741211,0.5490000152587889,0.1301376521587371,Sardar Azmoun,h,2774.0,FromCorner,2020.0,Head,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,Douglas Santos,Cross
 390272.0,66.0,BlockedShot,0.7330000305175781,0.5579999923706055,0.01966811157763,Malcom,h,3262.0,OpenPlay,2020.0,LeftFoot,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,Douglas Santos,Pass
-390273.0,70.0,MissedShots,0.980999984741211,0.6120000076293945,0.407877504825592,Sardar Azmoun,h,2774.0,OpenPlay,2020.0,RightFoot,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,,None
+390273.0,70.0,MissedShots,0.980999984741211,0.6120000076293945,0.40787750482559204,Sardar Azmoun,h,2774.0,OpenPlay,2020.0,RightFoot,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,,None
 390274.0,71.0,MissedShots,0.7530000305175781,0.5220000076293946,0.0381324850022792,Daler Kuzyaev,h,2854.0,OpenPlay,2020.0,RightFoot,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,Malcom,Pass
 390275.0,75.0,Goal,0.885,0.5,0.7542738318443298,Sardar Azmoun,h,2774.0,Penalty,2020.0,RightFoot,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,,Standard
 390276.0,79.0,BlockedShot,0.86,0.4179999923706055,0.1131032407283783,Malcom,h,3262.0,OpenPlay,2020.0,LeftFoot,14354.0,Zenit St. Petersburg,Ural,5.0,1.0,2020-12-05 16:00:00,Wendel,Pass
@@ -4041,7 +4041,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390023.0,86.0,Goal,0.9740000152587892,0.475,0.170318529009819,Samuel Gigot,h,6773.0,OpenPlay,2020.0,RightFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,,None
 390024.0,91.0,Goal,0.8690000152587891,0.5759999847412111,0.1201874315738678,Ezequiel Ponce,h,2057.0,OpenPlay,2020.0,LeftFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,Zelimkhan Bakaev,TakeOn
 389992.0,15.0,BlockedShot,0.9290000152587892,0.62,0.0916186273097992,Vladimir Kabakhidze,a,8471.0,OpenPlay,2020.0,LeftFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,,Dispossessed
-389993.0,15.0,BlockedShot,0.919000015258789,0.3420000076293945,0.091344840824604,Aleksandre Karapetian,a,7658.0,OpenPlay,2020.0,LeftFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,Pavel Karasev,Pass
+389993.0,15.0,BlockedShot,0.919000015258789,0.3420000076293945,0.09134484082460399,Aleksandre Karapetian,a,7658.0,OpenPlay,2020.0,LeftFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,Pavel Karasev,Pass
 389996.0,35.0,MissedShots,0.905,0.4970000076293945,0.0350887179374694,German Onugkha,a,8143.0,OpenPlay,2020.0,Head,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,Dmitrii Merenchukov,Aerial
 390000.0,44.0,BlockedShot,0.750999984741211,0.4429999923706054,0.0185289159417152,German Onugkha,a,8143.0,OpenPlay,2020.0,LeftFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,,Dispossessed
 390001.0,44.0,MissedShots,0.69,0.515,0.0132797947153449,Sébastien Thill,a,9013.0,OpenPlay,2020.0,LeftFoot,14355.0,Spartak Moscow,FC Tambov,5.0,1.0,2020-12-05 13:30:00,,Rebound
@@ -4067,7 +4067,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 389938.0,68.0,Goal,0.885,0.5,0.7542753219604492,Anton Miranchuk,h,4605.0,Penalty,2020.0,RightFoot,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,,Standard
 389940.0,83.0,BlockedShot,0.705999984741211,0.5659999847412109,0.0184655059128999,Vitali Lisakovich,h,8622.0,OpenPlay,2020.0,LeftFoot,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Grzegorz Krychowiak,Pass
 389941.0,84.0,MissedShots,0.8859999847412109,0.524000015258789,0.0835959687829017,Anton Miranchuk,h,4605.0,OpenPlay,2020.0,Head,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Maciej Rybus,Cross
-389942.0,85.0,MissedShots,0.955,0.3770000076293945,0.020401045680046,Vitali Lisakovich,h,8622.0,FromCorner,2020.0,Head,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Anton Miranchuk,Cross
+389942.0,85.0,MissedShots,0.955,0.3770000076293945,0.020401045680046002,Vitali Lisakovich,h,8622.0,FromCorner,2020.0,Head,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Anton Miranchuk,Cross
 389943.0,85.0,Goal,0.953000030517578,0.479000015258789,0.5880287289619446,Vladislav Ignatjev,h,2894.0,FromCorner,2020.0,RightFoot,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Vitali Lisakovich,None
 389918.0,2.0,Goal,0.7830000305175782,0.6379999923706055,0.0258088801056146,Hwang In-Beom,a,8634.0,OpenPlay,2020.0,LeftFoot,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Oleg Shatov,Pass
 389919.0,5.0,MissedShots,0.9290000152587892,0.49,0.0988637134432792,Ivan Ignatyev,a,6025.0,SetPiece,2020.0,Head,14356.0,Lokomotiv Moscow,Rubin Kazan,3.0,1.0,2020-12-05 11:00:00,Denis Makarov,Chipped
@@ -4096,7 +4096,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390656.0,56.0,SavedShot,0.8919999694824219,0.43,0.1149694174528122,Daniil Fomin,h,5536.0,OpenPlay,2020.0,LeftFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Konstantin Tyukavin,BallTouch
 390657.0,56.0,MissedShots,0.93,0.57,0.1341671198606491,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,,None
 390658.0,60.0,BlockedShot,0.8530000305175781,0.44,0.0993518754839897,Nikola Moro,h,8626.0,OpenPlay,2020.0,LeftFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Sergey Parshivlyuk,Pass
-390659.0,61.0,BlockedShot,0.7319999694824219,0.6490000152587889,0.011007540859282,Guillermo Varela,h,547.0,OpenPlay,2020.0,RightFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Sergey Parshivlyuk,Chipped
+390659.0,61.0,BlockedShot,0.7319999694824219,0.6490000152587889,0.011007540859282001,Guillermo Varela,h,547.0,OpenPlay,2020.0,RightFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Sergey Parshivlyuk,Chipped
 390660.0,69.0,MissedShots,0.7280000305175781,0.3479999923706054,0.0144510399550199,Nikola Moro,h,8626.0,OpenPlay,2020.0,RightFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Vyacheslav Grulev,Pass
 390661.0,70.0,BlockedShot,0.865,0.4520000076293945,0.1067217662930488,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,RightFoot,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Konstantin Tyukavin,Pass
 390663.0,80.0,MissedShots,0.948000030517578,0.67,0.0074863862246274,Nikola Moro,h,8626.0,SetPiece,2020.0,Head,14357.0,Dinamo Moscow,Arsenal Tula,1.0,0.0,2020-12-06 13:30:00,Sebastian Szymanski,Aerial
@@ -4146,7 +4146,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390899.0,46.0,Goal,0.874000015258789,0.46,0.3789349496364593,Ilya Kukharchuk,a,8599.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,,None
 390900.0,50.0,Goal,0.8919999694824219,0.575,0.5013459324836731,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Ilya Kukharchuk,Pass
 390903.0,66.0,BlockedShot,0.8619999694824219,0.494000015258789,0.1082153692841529,Denis Glushakov,a,2814.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Aleksandr Dolgov,Pass
-390907.0,72.0,SavedShot,0.9230000305175782,0.3940000152587891,0.107306383550167,Brian Idowu,a,2832.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Islambek Kuat,Pass
+390907.0,72.0,SavedShot,0.9230000305175782,0.3940000152587891,0.10730638355016699,Brian Idowu,a,2832.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Islambek Kuat,Pass
 390908.0,73.0,MissedShots,0.8690000152587891,0.6840000152587891,0.0698073580861091,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Egor Danilkin,TakeOn
 390909.0,74.0,SavedShot,0.6809999847412109,0.6329999923706054,0.0445600934326648,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Brian Idowu,TakeOn
 390914.0,83.0,BlockedShot,0.7019999694824218,0.4909999847412109,0.0130947176367044,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14358.0,CSKA Moscow,Khimki,2.0,2.0,2020-12-06 16:00:00,Brian Idowu,Pass
@@ -4175,7 +4175,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390231.0,89.0,Goal,0.885,0.5,0.7542753219604492,Viktor Claesson,h,5478.0,Penalty,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,,Standard
 390198.0,8.0,BlockedShot,0.8819999694824219,0.6430000305175781,0.0594629645347595,Flamarion Junior,a,8928.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,,None
 390204.0,18.0,SavedShot,0.865,0.555,0.0890310704708099,Zuriko Davitashvili,a,7652.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,Ilya Zhigulev,Pass
-390205.0,19.0,SavedShot,0.7030000305175781,0.6379999923706055,0.01276127807796,Danil Stepanov,a,7304.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,Zuriko Davitashvili,Pass
+390205.0,19.0,SavedShot,0.7030000305175781,0.6379999923706055,0.012761278077959999,Danil Stepanov,a,7304.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,Zuriko Davitashvili,Pass
 390206.0,19.0,SavedShot,0.9009999847412108,0.38,0.0648850724101066,Zuriko Davitashvili,a,7652.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,,Rebound
 390207.0,20.0,SavedShot,0.9009999847412108,0.3609999847412109,0.0243463609367609,Andrés Ponce,a,1811.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,,Aerial
 390208.0,24.0,MissedShots,0.7909999847412109,0.3579999923706055,0.0206731725484132,Flamarion Junior,a,8928.0,OpenPlay,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,Andrés Ponce,Pass
@@ -4187,7 +4187,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 390225.0,70.0,MissedShots,0.93,0.5270000076293946,0.1387103199958801,Kamil Mullin,a,3196.0,OpenPlay,2020.0,Head,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,Danil Stepanov,Cross
 390228.0,83.0,BlockedShot,0.7880000305175782,0.5809999847412111,0.0218440853059291,Danil Stepanov,a,7304.0,FromCorner,2020.0,RightFoot,14359.0,FC Krasnodar,FC Rotor Volgograd,5.0,0.0,2020-12-05 16:00:00,,None
 391108.0,30.0,Goal,0.916999969482422,0.5179999923706055,0.5078781843185425,Marko Dugandzic,h,8985.0,OpenPlay,2020.0,LeftFoot,14360.0,PFC Sochi,FK Akhmat,2.0,0.0,2020-12-07 16:00:00,Aleksandr Rudenko,Pass
-391109.0,33.0,MissedShots,0.905,0.555,0.050394944846629985,Miha Mevlja,h,5452.0,FromCorner,2020.0,Head,14360.0,PFC Sochi,FK Akhmat,2.0,0.0,2020-12-07 16:00:00,Joãozinho,Cross
+391109.0,33.0,MissedShots,0.905,0.555,0.05039494484662999,Miha Mevlja,h,5452.0,FromCorner,2020.0,Head,14360.0,PFC Sochi,FK Akhmat,2.0,0.0,2020-12-07 16:00:00,Joãozinho,Cross
 391112.0,47.0,Goal,0.925,0.4609999847412109,0.53248131275177,Artur Yusupov,h,3067.0,OpenPlay,2020.0,RightFoot,14360.0,PFC Sochi,FK Akhmat,2.0,0.0,2020-12-07 16:00:00,Timofey Margasov,Pass
 391113.0,50.0,BlockedShot,0.8590000152587891,0.3189999961853027,0.0668291896581649,Timofey Margasov,h,2785.0,OpenPlay,2020.0,LeftFoot,14360.0,PFC Sochi,FK Akhmat,2.0,0.0,2020-12-07 16:00:00,Artur Yusupov,Chipped
 391114.0,51.0,SavedShot,0.7830000305175782,0.4179999923706055,0.0206489413976669,Artur Yusupov,h,3067.0,FromCorner,2020.0,RightFoot,14360.0,PFC Sochi,FK Akhmat,2.0,0.0,2020-12-07 16:00:00,,None
@@ -4257,7 +4257,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 391394.0,77.0,Goal,0.9490000152587892,0.5590000152587891,0.3900922834873199,Kamil Mullin,h,3196.0,OpenPlay,2020.0,Head,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Sergei Makarov,Cross
 391396.0,83.0,MissedShots,0.6969999694824218,0.6020000076293945,0.0146651789546012,Danil Stepanov,h,7304.0,OpenPlay,2020.0,LeftFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Oleg Aleinik,Pass
 391380.0,19.0,MissedShots,0.785,0.4079999923706054,0.0139926886186003,Vladislav Kamilov,a,8873.0,OpenPlay,2020.0,LeftFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,,Aerial
-391381.0,21.0,MissedShots,0.91,0.5920000076293945,0.039272915571928,Timur Zhamaletdinov,a,5458.0,OpenPlay,2020.0,Head,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,,None
+391381.0,21.0,MissedShots,0.91,0.5920000076293945,0.039272915571928003,Timur Zhamaletdinov,a,5458.0,OpenPlay,2020.0,Head,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,,None
 391382.0,27.0,BlockedShot,0.735,0.7009999847412111,0.0148899983614683,Timur Zhamaletdinov,a,5458.0,SetPiece,2020.0,RightFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Oleg Danchenko,Pass
 391383.0,28.0,MissedShots,0.9130000305175782,0.3379999923706054,0.0374773666262626,Vladislav Kamilov,a,8873.0,FromCorner,2020.0,RightFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Oleg Danchenko,Cross
 391385.0,43.0,BlockedShot,0.8319999694824218,0.7019999694824218,0.0226001720875501,Filip Mrzljak,a,9153.0,SetPiece,2020.0,LeftFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,,None
@@ -4266,7 +4266,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 391391.0,53.0,BlockedShot,0.9340000152587892,0.4120000076293945,0.0568338222801685,Alexey Nikitin,a,2900.0,FromCorner,2020.0,Head,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Oleg Danchenko,Cross
 391393.0,66.0,BlockedShot,0.9459999847412108,0.5809999847412111,0.1334214955568313,Timur Zhamaletdinov,a,5458.0,SetPiece,2020.0,RightFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Vyacheslav Krotov,Pass
 391395.0,81.0,SavedShot,0.901999969482422,0.4779999923706055,0.0706316605210304,Timur Zhamaletdinov,a,5458.0,OpenPlay,2020.0,Head,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Oleg Danchenko,Cross
-391397.0,85.0,MissedShots,0.7519999694824219,0.3070000076293945,0.014893895946443,Timur Zhamaletdinov,a,5458.0,OpenPlay,2020.0,RightFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,,None
+391397.0,85.0,MissedShots,0.7519999694824219,0.3070000076293945,0.014893895946443001,Timur Zhamaletdinov,a,5458.0,OpenPlay,2020.0,RightFoot,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,,None
 391398.0,95.0,MissedShots,0.9030000305175782,0.545,0.0565756410360336,Timur Zhamaletdinov,a,5458.0,SetPiece,2020.0,Head,14363.0,FC Rotor Volgograd,FC Ufa,1.0,0.0,2020-12-12 11:00:00,Oleg Danchenko,Chipped
 391452.0,2.0,SavedShot,0.774000015258789,0.5379999923706055,0.0293636173009872,Artur Yusupov,h,3067.0,OpenPlay,2020.0,RightFoot,14364.0,PFC Sochi,Spartak Moscow,1.0,0.0,2020-12-12 13:30:00,,None
 391453.0,2.0,SavedShot,0.774000015258789,0.5379999923706055,0.0213495977222919,Artur Yusupov,h,3067.0,OpenPlay,2020.0,RightFoot,14364.0,PFC Sochi,Spartak Moscow,1.0,0.0,2020-12-12 13:30:00,,Rebound
@@ -4351,7 +4351,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 392261.0,47.0,MissedShots,0.764000015258789,0.2729999923706054,0.0172069817781448,Bernard Berisha,h,2946.0,OpenPlay,2020.0,RightFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,Vladimir Iljin,Pass
 392262.0,51.0,SavedShot,0.7369999694824219,0.455,0.0165794752538204,Maksim Nenakhov,h,8347.0,OpenPlay,2020.0,RightFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,,None
 392263.0,60.0,BlockedShot,0.874000015258789,0.5429999923706055,0.0879122465848922,Bernard Berisha,h,2946.0,OpenPlay,2020.0,LeftFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,Artem Polyarus,Chipped
-392264.0,60.0,BlockedShot,0.904000015258789,0.754000015258789,0.022655501961708,Vladimir Iljin,h,5497.0,OpenPlay,2020.0,LeftFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,,Rebound
+392264.0,60.0,BlockedShot,0.904000015258789,0.754000015258789,0.022655501961707996,Vladimir Iljin,h,5497.0,OpenPlay,2020.0,LeftFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,,Rebound
 392267.0,74.0,MissedShots,0.76,0.5909999847412111,0.0218227598816156,Miroslav Bogosavac,h,8348.0,FromCorner,2020.0,LeftFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,Artem Polyarus,Cross
 392270.0,88.0,MissedShots,0.8830000305175781,0.4479999923706054,0.0526710674166679,Amir Adouyev,h,7489.0,FromCorner,2020.0,RightFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,Artem Polyarus,Cross
 392252.0,6.0,BlockedShot,0.7280000305175781,0.6,0.0433398857712745,Mathias Normann,a,7470.0,DirectFreekick,2020.0,RightFoot,14367.0,FK Akhmat,FC Rostov,0.0,1.0,2020-12-13 16:00:00,,Standard
@@ -4488,10 +4488,10 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 393746.0,65.0,BlockedShot,0.8540000152587891,0.6769999694824219,0.0650893300771713,Mikhail Kostyukov,h,5385.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Sébastien Thill,Pass
 393749.0,74.0,MissedShots,0.830999984741211,0.4629999923706054,0.0637901872396469,German Onugkha,h,8143.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Sébastien Thill,Rebound
 393750.0,77.0,BlockedShot,0.9359999847412108,0.4659999847412109,0.1313651651144027,Aleksandre Karapetian,h,7658.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,German Onugkha,HeadPass
-393751.0,77.0,BlockedShot,0.879000015258789,0.5259999847412109,0.090933583676815,Valeriu Ciuperca,h,5394.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,,Rebound
+393751.0,77.0,BlockedShot,0.879000015258789,0.5259999847412109,0.09093358367681499,Valeriu Ciuperca,h,5394.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,,Rebound
 393752.0,77.0,MissedShots,0.82,0.4579999923706054,0.065688744187355,Sébastien Thill,h,9013.0,OpenPlay,2020.0,LeftFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Maksim Volodko,Pass
 393753.0,85.0,BlockedShot,0.85,0.6469999694824219,0.2924098074436188,German Onugkha,h,8143.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Sébastien Thill,Chipped
-393736.0,28.0,Goal,0.8690000152587891,0.3459999847412109,0.357593297958374,Othman El Kabir,a,6587.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Dmitri Efremov,BallRecovery
+393736.0,28.0,Goal,0.8690000152587891,0.3459999847412109,0.35759329795837397,Othman El Kabir,a,6587.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Dmitri Efremov,BallRecovery
 393737.0,30.0,SavedShot,0.8730000305175781,0.2620000076293945,0.0307958740741014,Dmitri Efremov,a,3178.0,OpenPlay,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Othman El Kabir,Chipped
 393738.0,31.0,MissedShots,0.911999969482422,0.4279999923706055,0.0464965775609016,Andrey Egorychev,a,6586.0,OpenPlay,2020.0,Head,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,,None
 393742.0,50.0,MissedShots,0.884000015258789,0.500999984741211,0.0554099343717098,Aleksey Evseev,a,3136.0,SetPiece,2020.0,RightFoot,14372.0,FC Tambov,Ural,1.0,1.0,2020-12-18 15:00:00,Othman El Kabir,Aerial
@@ -4560,7 +4560,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 393569.0,21.0,SavedShot,0.855,0.62,0.2639445662498474,Marcus Berg,h,7668.0,OpenPlay,2020.0,RightFoot,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,Rémy Cabella,Pass
 393570.0,21.0,Goal,0.895,0.6079999923706054,0.312214732170105,Marcus Berg,h,7668.0,OpenPlay,2020.0,LeftFoot,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,,Rebound
 393571.0,32.0,SavedShot,0.911999969482422,0.4029999923706054,0.0164833478629589,Marcus Berg,h,7668.0,FromCorner,2020.0,Head,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,,Aerial
-393572.0,33.0,BlockedShot,0.764000015258789,0.4929999923706055,0.029120210558176,Wanderson,h,2450.0,OpenPlay,2020.0,RightFoot,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,Tonny Vilhena,Pass
+393572.0,33.0,BlockedShot,0.764000015258789,0.4929999923706055,0.029120210558176002,Wanderson,h,2450.0,OpenPlay,2020.0,RightFoot,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,Tonny Vilhena,Pass
 393574.0,41.0,MissedShots,0.7780000305175782,0.4279999923706055,0.0180570520460605,Wanderson,h,2450.0,OpenPlay,2020.0,RightFoot,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,,Aerial
 393575.0,45.0,SavedShot,0.889000015258789,0.1629999923706054,0.0164226721972227,Tonny Vilhena,h,7648.0,FromCorner,2020.0,LeftFoot,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,Rémy Cabella,Pass
 393576.0,46.0,BlockedShot,0.963000030517578,0.605,0.0393673963844776,Aleksandr Martynovich,h,2790.0,FromCorner,2020.0,Head,14375.0,FC Krasnodar,FC Ufa,1.0,0.0,2020-12-17 15:00:00,Rémy Cabella,Cross
@@ -4606,10 +4606,10 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 392850.0,76.0,SavedShot,0.955999984741211,0.3509999847412109,0.0849195420742034,Malcom,h,3262.0,OpenPlay,2020.0,RightFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,None
 392852.0,85.0,SavedShot,0.914000015258789,0.53,0.1224051043391227,Artem Dzyuba,h,3063.0,OpenPlay,2020.0,Head,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,Aleksey Sutormin,Cross
 392853.0,86.0,BlockedShot,0.8690000152587891,0.509000015258789,0.1088033616542816,Sebastián Driussi,h,5924.0,OpenPlay,2020.0,RightFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,Dispossessed
-392854.0,86.0,BlockedShot,0.72,0.6079999923706054,0.013664667494595,Yuri Zhirkov,h,3058.0,OpenPlay,2020.0,LeftFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,Rebound
+392854.0,86.0,BlockedShot,0.72,0.6079999923706054,0.013664667494594999,Yuri Zhirkov,h,3058.0,OpenPlay,2020.0,LeftFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,Rebound
 392855.0,87.0,MissedShots,0.860999984741211,0.6809999847412109,0.0651874989271164,Daler Kuzyaev,h,2854.0,OpenPlay,2020.0,RightFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,Sebastián Driussi,Pass
 392857.0,92.0,Goal,0.8809999847412109,0.48,0.352327287197113,Artem Dzyuba,h,3063.0,OpenPlay,2020.0,RightFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,TakeOn
-392837.0,45.0,SavedShot,0.7069999694824218,0.7380000305175781,0.010425679385662,Ayrton Lucas,a,7475.0,OpenPlay,2020.0,LeftFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,BallRecovery
+392837.0,45.0,SavedShot,0.7069999694824218,0.7380000305175781,0.010425679385661999,Ayrton Lucas,a,7475.0,OpenPlay,2020.0,LeftFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,,BallRecovery
 392838.0,47.0,MissedShots,0.7190000152587891,0.6759999847412109,0.0153209185227751,Ayrton Lucas,a,7475.0,OpenPlay,2020.0,RightFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,Roman Zobnin,Pass
 392847.0,71.0,MissedShots,0.9159999847412108,0.4540000152587891,0.0466331951320171,Ilya Kutepov,a,2811.0,SetPiece,2020.0,Head,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,Roman Zobnin,Aerial
 392851.0,83.0,SavedShot,0.86,0.6229999923706054,0.0472394227981567,Jordan Larsson,a,7770.0,OpenPlay,2020.0,LeftFoot,14376.0,Zenit St. Petersburg,Spartak Moscow,3.0,1.0,2020-12-16 17:00:00,Ayrton Lucas,Cross
@@ -4638,7 +4638,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 406629.0,92.0,BlockedShot,0.899000015258789,0.4470000076293945,0.0654399022459983,Andrey Mostovoy,h,7680.0,OpenPlay,2020.0,RightFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,,Aerial
 406630.0,92.0,MissedShots,0.921999969482422,0.5509999847412109,0.0786701887845993,Aleksandr Erokhin,h,2772.0,FromCorner,2020.0,Head,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,Andrey Mostovoy,Cross
 406631.0,94.0,BlockedShot,0.8809999847412109,0.439000015258789,0.0837160050868988,Aleksandr Erokhin,h,2772.0,OpenPlay,2020.0,LeftFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,Andrey Mostovoy,Cross
-406599.0,10.0,BlockedShot,0.7569999694824219,0.5120000076293946,0.020077871158719,Danil Glebov,a,6580.0,OpenPlay,2020.0,RightFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,Ali Sowe,Pass
+406599.0,10.0,BlockedShot,0.7569999694824219,0.5120000076293946,0.020077871158718997,Danil Glebov,a,6580.0,OpenPlay,2020.0,RightFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,Ali Sowe,Pass
 406606.0,31.0,MissedShots,0.74,0.7269999694824218,0.0146689573302865,Nikolay Poyarkov,a,8072.0,OpenPlay,2020.0,LeftFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,Danil Glebov,Pass
 406607.0,31.0,SavedShot,0.8280000305175781,0.3060000038146973,0.030600307509303,Ali Sowe,a,9383.0,OpenPlay,2020.0,RightFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,,None
 406608.0,32.0,MissedShots,0.7090000152587891,0.349000015258789,0.0073915119282901,Mathias Normann,a,7470.0,OpenPlay,2020.0,RightFoot,14377.0,Zenit St. Petersburg,FC Rostov,2.0,2.0,2021-02-27 13:30:00,Georgy Makhatadze,TakeOn
@@ -4694,7 +4694,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 407166.0,23.0,BlockedShot,0.725,0.5840000152587891,0.0202429685741662,Daniil Lesovoy,a,6793.0,OpenPlay,2020.0,RightFoot,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,Arsen Zakharyan,Pass
 407167.0,36.0,MissedShots,0.8980000305175782,0.5970000076293945,0.0403460375964641,Daniil Fomin,a,5536.0,OpenPlay,2020.0,Head,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,Guillermo Varela,Cross
 407168.0,36.0,Goal,0.911999969482422,0.4229999923706055,0.1259462982416153,Arsen Zakharyan,a,8760.0,OpenPlay,2020.0,LeftFoot,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,,None
-407175.0,60.0,MissedShots,0.6809999847412109,0.6370000076293946,0.015567853115499,Sebastian Szymanski,a,7631.0,OpenPlay,2020.0,LeftFoot,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,Daniil Lesovoy,Pass
+407175.0,60.0,MissedShots,0.6809999847412109,0.6370000076293946,0.015567853115498999,Sebastian Szymanski,a,7631.0,OpenPlay,2020.0,LeftFoot,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,Daniil Lesovoy,Pass
 407176.0,63.0,BlockedShot,0.8880000305175781,0.46,0.0676621124148368,Roman Neustädter,a,346.0,FromCorner,2020.0,RightFoot,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,Daniil Lesovoy,OffsideProvoked
 407180.0,88.0,MissedShots,0.7319999694824219,0.41,0.042367585003376,Nikolay Komlichenko,a,3015.0,OpenPlay,2020.0,RightFoot,14379.0,FK Akhmat,Dinamo Moscow,1.0,2.0,2021-02-28 13:30:00,Sebastian Szymanski,Pass
 407382.0,5.0,MissedShots,0.759000015258789,0.504000015258789,0.0681131184101104,Magomed-Shapi Suleymanov,h,5926.0,DirectFreekick,2020.0,LeftFoot,14380.0,FC Krasnodar,Ural,2.0,2.0,2021-02-28 16:00:00,,Standard
@@ -4832,7 +4832,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 408615.0,48.0,MissedShots,0.8930000305175781,0.27,0.0415505468845367,Anton Zabolotny,a,5899.0,OpenPlay,2020.0,RightFoot,14385.0,FC Rostov,PFC Sochi,0.0,0.0,2021-03-06 16:00:00,Ibrahim Tsallagov,Chipped
 408616.0,55.0,SavedShot,0.899000015258789,0.524000015258789,0.0394093543291091,Anton Zabolotny,a,5899.0,OpenPlay,2020.0,Head,14385.0,FC Rostov,PFC Sochi,0.0,0.0,2021-03-06 16:00:00,Artur Yusupov,Aerial
 408618.0,68.0,MissedShots,0.9,0.4509999847412109,0.0647856369614601,Ivan Novoseltsev,a,2768.0,FromCorner,2020.0,RightFoot,14385.0,FC Rostov,PFC Sochi,0.0,0.0,2021-03-06 16:00:00,Christian Noboa,Cross
-409065.0,1.0,Goal,0.9259999847412108,0.4520000076293945,0.111311636865139,Alexander Sobolev,h,5397.0,OpenPlay,2020.0,Head,14386.0,Spartak Moscow,FC Krasnodar,6.0,1.0,2021-03-07 16:00:00,Nail Umiarov,Cross
+409065.0,1.0,Goal,0.9259999847412108,0.4520000076293945,0.11131163686513901,Alexander Sobolev,h,5397.0,OpenPlay,2020.0,Head,14386.0,Spartak Moscow,FC Krasnodar,6.0,1.0,2021-03-07 16:00:00,Nail Umiarov,Cross
 409066.0,3.0,MissedShots,0.76,0.6959999847412109,0.0215264949947595,Ayrton Lucas,h,7475.0,OpenPlay,2020.0,LeftFoot,14386.0,Spartak Moscow,FC Krasnodar,6.0,1.0,2021-03-07 16:00:00,Nail Umiarov,Pass
 409067.0,7.0,Goal,0.915,0.5959999847412111,0.3722458779811859,Quincy Promes,h,2815.0,OpenPlay,2020.0,RightFoot,14386.0,Spartak Moscow,FC Krasnodar,6.0,1.0,2021-03-07 16:00:00,Jordan Larsson,Throughball
 409071.0,11.0,BlockedShot,0.909000015258789,0.5359999847412109,0.1364654302597046,Ayrton Lucas,h,7475.0,OpenPlay,2020.0,RightFoot,14386.0,Spartak Moscow,FC Krasnodar,6.0,1.0,2021-03-07 16:00:00,Victor Moses,Chipped
@@ -4928,7 +4928,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 409275.0,23.0,MissedShots,0.7609999847412109,0.369000015258789,0.0179470535367727,Dmitri Rybchinsky,a,7452.0,OpenPlay,2020.0,LeftFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,Francois Kamano,Pass
 409276.0,28.0,MissedShots,0.8680000305175781,0.5129999923706055,0.0750922635197639,Maksim Mukhin,a,8069.0,SetPiece,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,,None
 409278.0,37.0,BlockedShot,0.926999969482422,0.404000015258789,0.1268350780010223,Vitali Lisakovich,a,8622.0,OpenPlay,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,Francois Kamano,Pass
-409285.0,70.0,Goal,0.8569999694824219,0.750999984741211,0.025464529171586005,Fedor Smolov,a,2925.0,OpenPlay,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,Grzegorz Krychowiak,Chipped
+409285.0,70.0,Goal,0.8569999694824219,0.750999984741211,0.025464529171586002,Fedor Smolov,a,2925.0,OpenPlay,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,Grzegorz Krychowiak,Chipped
 409286.0,74.0,Goal,0.925,0.474000015258789,0.1204502135515213,Murilo Cerqueira,a,7650.0,FromCorner,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,,None
 409287.0,76.0,BlockedShot,0.8109999847412109,0.509000015258789,0.0728072822093963,Francois Kamano,a,3333.0,OpenPlay,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,Rifat Zhemaletdinov,Pass
 409288.0,76.0,MissedShots,0.774000015258789,0.4329999923706055,0.0291402507573366,Grzegorz Krychowiak,a,2414.0,OpenPlay,2020.0,RightFoot,14389.0,Arsenal Tula,Lokomotiv Moscow,0.0,3.0,2021-03-08 11:00:00,Francois Kamano,Pass
@@ -4993,7 +4993,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 408906.0,74.0,BlockedShot,0.8030000305175782,0.2770000076293945,0.0283296052366495,Nikola Moro,h,8626.0,OpenPlay,2020.0,LeftFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,Daniil Fomin,Pass
 408907.0,82.0,MissedShots,0.764000015258789,0.3429999923706054,0.0259096734225749,Sebastian Szymanski,h,7631.0,OpenPlay,2020.0,LeftFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,Nikola Moro,Pass
 408908.0,89.0,Goal,0.885,0.5,0.7542753219604492,Nikola Moro,h,8626.0,Penalty,2020.0,RightFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,,Standard
-408878.0,11.0,MissedShots,0.7769999694824219,0.3340000152587891,0.020704573020339,Vladislav Karapuzov,a,8504.0,OpenPlay,2020.0,RightFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,,BallRecovery
+408878.0,11.0,MissedShots,0.7769999694824219,0.3340000152587891,0.020704573020339002,Vladislav Karapuzov,a,8504.0,OpenPlay,2020.0,RightFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,,BallRecovery
 408879.0,16.0,MissedShots,0.715,0.6320000076293946,0.0095033636316657,Azer Aliev,a,6805.0,SetPiece,2020.0,LeftFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,,None
 408892.0,47.0,BlockedShot,0.931999969482422,0.5279999923706055,0.1274469792842865,Artyom Arkhipov,a,9362.0,OpenPlay,2020.0,RightFoot,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,Yuri Bavin,Pass
 408895.0,50.0,BlockedShot,0.938000030517578,0.5720000076293945,0.033154010772705,Catalin Carp,a,5441.0,FromCorner,2020.0,Head,14391.0,Dinamo Moscow,FC Tambov,2.0,0.0,2021-03-07 13:30:00,Vladislav Karapuzov,Aerial
@@ -5022,7 +5022,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 408374.0,69.0,BlockedShot,0.8430000305175781,0.5479999923706055,0.0461606718599796,Gabriel Iancu,a,9397.0,OpenPlay,2020.0,LeftFoot,14392.0,CSKA Moscow,FK Akhmat,2.0,0.0,2021-03-06 11:00:00,Miroslav Bogosavac,Cross
 408378.0,89.0,BlockedShot,0.5979999923706054,0.7780000305175782,0.0057787434197962,Amir Adouyev,a,7489.0,OpenPlay,2020.0,RightFoot,14392.0,CSKA Moscow,FK Akhmat,2.0,0.0,2021-03-06 11:00:00,Miroslav Bogosavac,Pass
 408382.0,91.0,MissedShots,0.7390000152587891,0.379000015258789,0.0463014766573905,Amir Adouyev,a,7489.0,DirectFreekick,2020.0,RightFoot,14392.0,CSKA Moscow,FK Akhmat,2.0,0.0,2021-03-06 11:00:00,,Standard
-410018.0,5.0,MissedShots,0.899000015258789,0.344000015258789,0.049739234149456,Arsen Zakharyan,h,8760.0,OpenPlay,2020.0,LeftFoot,14393.0,Dinamo Moscow,Spartak Moscow,1.0,2.0,2021-03-13 16:00:00,Sebastian Szymanski,HeadPass
+410018.0,5.0,MissedShots,0.899000015258789,0.344000015258789,0.049739234149455996,Arsen Zakharyan,h,8760.0,OpenPlay,2020.0,LeftFoot,14393.0,Dinamo Moscow,Spartak Moscow,1.0,2.0,2021-03-13 16:00:00,Sebastian Szymanski,HeadPass
 410021.0,21.0,MissedShots,0.749000015258789,0.6029999923706054,0.0272385459393262,Arsen Zakharyan,h,8760.0,OpenPlay,2020.0,RightFoot,14393.0,Dinamo Moscow,Spartak Moscow,1.0,2.0,2021-03-13 16:00:00,Nikola Moro,Chipped
 410026.0,39.0,BlockedShot,0.855999984741211,0.3609999847412109,0.0686392188072204,Arsen Zakharyan,h,8760.0,OpenPlay,2020.0,LeftFoot,14393.0,Dinamo Moscow,Spartak Moscow,1.0,2.0,2021-03-13 16:00:00,Sebastian Szymanski,Pass
 410027.0,39.0,MissedShots,0.7819999694824219,0.37,0.0221840031445026,Vyacheslav Grulev,h,6611.0,OpenPlay,2020.0,LeftFoot,14393.0,Dinamo Moscow,Spartak Moscow,1.0,2.0,2021-03-13 16:00:00,Sebastian Szymanski,Pass
@@ -5054,7 +5054,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 409812.0,24.0,SavedShot,0.8980000305175782,0.6290000152587889,0.0307572372257709,Artem Dzyuba,h,3063.0,FromCorner,2020.0,Head,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,,None
 409816.0,42.0,SavedShot,0.9490000152587892,0.675,0.0765497237443924,Douglas Santos,h,5286.0,OpenPlay,2020.0,LeftFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,Wendel,Pass
 409818.0,50.0,Goal,0.6659999847412109,0.25,0.0081926854327321,Vyacheslav Karavayev,h,5538.0,OpenPlay,2020.0,RightFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,Wendel,Pass
-409820.0,53.0,MissedShots,0.8719999694824219,0.3039999961853027,0.027822621166706,Daler Kuzyaev,h,2854.0,OpenPlay,2020.0,RightFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,Vyacheslav Karavayev,HeadPass
+409820.0,53.0,MissedShots,0.8719999694824219,0.3039999961853027,0.027822621166706002,Daler Kuzyaev,h,2854.0,OpenPlay,2020.0,RightFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,Vyacheslav Karavayev,HeadPass
 409821.0,58.0,SavedShot,0.8630000305175781,0.5479999923706055,0.1007880792021751,Sardar Azmoun,h,2774.0,OpenPlay,2020.0,RightFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,Douglas Santos,Pass
 409822.0,64.0,Goal,0.885,0.5,0.7542718052864075,Sardar Azmoun,h,2774.0,Penalty,2020.0,RightFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,,Standard
 409827.0,73.0,BlockedShot,0.889000015258789,0.395,0.1146674305200576,Vyacheslav Karavayev,h,5538.0,OpenPlay,2020.0,RightFoot,14394.0,Zenit St. Petersburg,FK Akhmat,4.0,0.0,2021-03-13 13:30:00,Aleksey Sutormin,Pass
@@ -5162,9 +5162,9 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 410220.0,87.0,SavedShot,0.9009999847412108,0.524000015258789,0.0915808826684951,Oleg Ivanov,h,2857.0,SetPiece,2020.0,Head,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Nemanja Miletic,Cross
 410196.0,11.0,SavedShot,0.9590000152587892,0.4759999847412109,0.5213665962219238,Carl Starfelt,a,7655.0,SetPiece,2020.0,Head,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Oliver Abildgaard,HeadPass
 410197.0,13.0,MissedShots,0.7609999847412109,0.555,0.017537685111165,Oliver Abildgaard,a,8359.0,FromCorner,2020.0,LeftFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,,None
-410199.0,21.0,SavedShot,0.986999969482422,0.5690000152587891,0.1171885877847671,Mikhail Kostyukov,a,5385.0,OpenPlay,2020.0,RightFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Djorde Despotovic,None
+410199.0,21.0,SavedShot,0.9869999694824221,0.5690000152587891,0.1171885877847671,Mikhail Kostyukov,a,5385.0,OpenPlay,2020.0,RightFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Djorde Despotovic,None
 410201.0,27.0,MissedShots,0.87,0.6490000152587889,0.0719185918569564,Khvicha Kvaratskhelia,a,7453.0,OpenPlay,2020.0,RightFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Oleg Shatov,Pass
-410202.0,29.0,Goal,0.7340000152587891,0.2410000038146972,0.011530733667314,Denis Makarov,a,8361.0,OpenPlay,2020.0,LeftFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Khvicha Kvaratskhelia,Pass
+410202.0,29.0,Goal,0.7340000152587891,0.2410000038146972,0.011530733667313999,Denis Makarov,a,8361.0,OpenPlay,2020.0,LeftFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Khvicha Kvaratskhelia,Pass
 410205.0,38.0,SavedShot,0.764000015258789,0.6730000305175782,0.0175651051104068,Khvicha Kvaratskhelia,a,7453.0,OpenPlay,2020.0,RightFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Denis Makarov,Pass
 410207.0,41.0,Goal,0.8680000305175781,0.5279999923706055,0.1094922572374343,Khvicha Kvaratskhelia,a,7453.0,OpenPlay,2020.0,RightFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Mikhail Kostyukov,Pass
 410209.0,52.0,BlockedShot,0.8690000152587891,0.5729999923706055,0.0785823464393615,Ilya Samoshnikov,a,8362.0,OpenPlay,2020.0,RightFoot,14398.0,FC Ufa,Rubin Kazan,0.0,3.0,2021-03-14 11:00:00,Carl Starfelt,TakeOn
@@ -5180,7 +5180,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 409741.0,50.0,BlockedShot,0.7609999847412109,0.419000015258789,0.0640626773238182,Gia Grigalava,h,5368.0,DirectFreekick,2020.0,LeftFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,,Standard
 409742.0,52.0,MissedShots,0.965999984741211,0.6680000305175782,0.0811291188001632,Nikolai Rasskazov,h,6378.0,OpenPlay,2020.0,LeftFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,Evgeni Lutsenko,Pass
 409747.0,76.0,SavedShot,0.7930000305175782,0.6440000152587889,0.0660326406359672,Alexander Lomovitskiy,h,6331.0,OpenPlay,2020.0,LeftFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,,BallRecovery
-409737.0,34.0,SavedShot,0.769000015258789,0.59,0.021289262920618,Chidera Ejuke,a,8694.0,OpenPlay,2020.0,RightFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,Nikola Vlasic,Pass
+409737.0,34.0,SavedShot,0.769000015258789,0.59,0.021289262920618002,Chidera Ejuke,a,8694.0,OpenPlay,2020.0,RightFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,Nikola Vlasic,Pass
 409740.0,48.0,SavedShot,0.955999984741211,0.5309999847412109,0.5734931230545044,Salomón Rondón,a,813.0,OpenPlay,2020.0,LeftFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,Georgy Schennikov,HeadPass
 409743.0,54.0,BlockedShot,0.7430000305175781,0.5329999923706055,0.0207792446017265,Chidera Ejuke,a,8694.0,OpenPlay,2020.0,RightFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,Hördur Bjorgvin Magnusson,Pass
 409744.0,70.0,SavedShot,0.8059999847412109,0.6640000152587889,0.0218970477581024,Chidera Ejuke,a,8694.0,OpenPlay,2020.0,RightFoot,14399.0,Arsenal Tula,CSKA Moscow,2.0,1.0,2021-03-13 11:00:00,Ivan Oblyakov,Chipped
@@ -5265,7 +5265,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 410899.0,10.0,MissedShots,0.915,0.5270000076293946,0.0524174273014068,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,Head,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Mario Fernandes,Aerial
 410901.0,16.0,MissedShots,0.7569999694824219,0.2310000038146972,0.007390933111310002,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Mario Fernandes,Chipped
 410903.0,20.0,MissedShots,0.906999969482422,0.475,0.1008813232183456,Salomón Rondón,h,813.0,OpenPlay,2020.0,OtherBodyPart,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Mario Fernandes,Cross
-410904.0,23.0,BlockedShot,0.8059999847412109,0.2670000076293945,0.020683804526925,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Konstantin Kuchaev,Pass
+410904.0,23.0,BlockedShot,0.8059999847412109,0.2670000076293945,0.020683804526924997,Nikola Vlasic,h,6276.0,OpenPlay,2020.0,RightFoot,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Konstantin Kuchaev,Pass
 410905.0,27.0,Goal,0.9359999847412108,0.4879999923706055,0.4581001996994018,Salomón Rondón,h,813.0,OpenPlay,2020.0,Head,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Chidera Ejuke,Cross
 410912.0,65.0,MissedShots,0.8340000152587891,0.5820000076293945,0.0337226428091526,Chidera Ejuke,h,8694.0,OpenPlay,2020.0,RightFoot,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Salomón Rondón,TakeOn
 410913.0,71.0,BlockedShot,0.8640000152587891,0.3189999961853027,0.032350618392229004,Nikola Vlasic,h,6276.0,FromCorner,2020.0,LeftFoot,14403.0,CSKA Moscow,Zenit St. Petersburg,2.0,3.0,2021-03-17 17:00:00,Emil Bohinen,Cross
@@ -5324,9 +5324,9 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 411003.0,85.0,BlockedShot,0.92,0.2679999923706054,0.0399533845484256,Igor Smolnikov,h,3055.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Kristoffer Olsson,Pass
 410972.0,9.0,MissedShots,0.875999984741211,0.419000015258789,0.0287249945104122,Ivan Ordets,a,7632.0,SetPiece,2020.0,Head,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Sebastian Szymanski,Cross
 410975.0,19.0,BlockedShot,0.775,0.7,0.0506067536771297,Daniil Fomin,a,5536.0,DirectFreekick,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,,Standard
-410976.0,30.0,MissedShots,0.8919999694824219,0.4009999847412109,0.368756890296936,Guillermo Varela,a,547.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,,None
+410976.0,30.0,MissedShots,0.8919999694824219,0.4009999847412109,0.36875689029693604,Guillermo Varela,a,547.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,,None
 410977.0,31.0,MissedShots,0.895,0.3659999847412109,0.0583454668521881,Arsen Zakharyan,a,8760.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,,None
-410978.0,33.0,SavedShot,0.8519999694824218,0.720999984741211,0.021441763266921,Daniil Lesovoy,a,6793.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Sebastian Szymanski,TakeOn
+410978.0,33.0,SavedShot,0.8519999694824218,0.720999984741211,0.021441763266921002,Daniil Lesovoy,a,6793.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Sebastian Szymanski,TakeOn
 410979.0,33.0,SavedShot,0.8859999847412109,0.4779999923706055,0.035098984837532016,Roman Evgeniev,a,7196.0,FromCorner,2020.0,Head,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Arsen Zakharyan,Cross
 410980.0,35.0,MissedShots,0.855999984741211,0.349000015258789,0.0951207429170608,Arsen Zakharyan,a,8760.0,OpenPlay,2020.0,RightFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Daniil Lesovoy,Pass
 410981.0,37.0,SavedShot,0.91,0.66,0.0622824169695377,Dmitrii Skopintcev,a,5526.0,OpenPlay,2020.0,LeftFoot,14405.0,FC Krasnodar,Dinamo Moscow,2.0,3.0,2021-03-18 16:00:00,Daniil Fomin,Chipped
@@ -5483,7 +5483,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 412492.0,64.0,MissedShots,0.91,0.5479999923706055,0.1099976003170013,Kirill Zaika,a,8368.0,OpenPlay,2020.0,LeftFoot,14411.0,Rubin Kazan,PFC Sochi,1.0,0.0,2021-04-03 13:30:00,,None
 412493.0,66.0,MissedShots,0.7009999847412111,0.555,0.0154293039813637,Nikita Burmistrov,a,2986.0,OpenPlay,2020.0,LeftFoot,14411.0,Rubin Kazan,PFC Sochi,1.0,0.0,2021-04-03 13:30:00,Christian Noboa,Pass
 412496.0,92.0,BlockedShot,0.71,0.49,0.0100907711312174,Elmir Nabiullin,a,2985.0,SetPiece,2020.0,LeftFoot,14411.0,Rubin Kazan,PFC Sochi,1.0,0.0,2021-04-03 13:30:00,,None
-413134.0,5.0,MissedShots,0.8680000305175781,0.4909999847412109,0.105077676475048,Catalin Carp,h,5441.0,OpenPlay,2020.0,LeftFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Artyom Arkhipov,Pass
+413134.0,5.0,MissedShots,0.8680000305175781,0.4909999847412109,0.10507767647504801,Catalin Carp,h,5441.0,OpenPlay,2020.0,LeftFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Artyom Arkhipov,Pass
 413135.0,15.0,Goal,0.885,0.5,0.7542753219604492,Artyom Arkhipov,h,9362.0,Penalty,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,Standard
 413142.0,28.0,MissedShots,0.795,0.7219999694824218,0.0126903224736452,Azer Aliev,h,6805.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Vladislav Karapuzov,Chipped
 413146.0,45.0,MissedShots,0.675,0.7280000305175781,0.0066658300347626,Anton Terekhov,h,2763.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Artyom Arkhipov,LayOff
@@ -5494,7 +5494,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 413133.0,3.0,BlockedShot,0.9469999694824218,0.415,0.11099608987569802,Chidera Ejuke,a,8694.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,None
 413136.0,16.0,BlockedShot,0.865999984741211,0.4520000076293945,0.0724026635289192,Salomón Rondón,a,813.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Arnór Sigurdsson,Cross
 413137.0,18.0,SavedShot,0.9540000152587892,0.499000015258789,0.4213486611843109,Salomón Rondón,a,813.0,OpenPlay,2020.0,Head,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Mario Fernandes,HeadPass
-413138.0,21.0,SavedShot,0.6919999694824219,0.3220000076293945,0.015507542528212,Nikola Vlasic,a,6276.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,BallRecovery
+413138.0,21.0,SavedShot,0.6919999694824219,0.3220000076293945,0.015507542528212001,Nikola Vlasic,a,6276.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,BallRecovery
 413139.0,22.0,BlockedShot,0.8540000152587891,0.315,0.0376882813870906,Emil Bohinen,a,9425.0,OpenPlay,2020.0,LeftFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,None
 413140.0,25.0,Goal,0.885,0.5,0.7542738318443298,Nikola Vlasic,a,6276.0,Penalty,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,Standard
 413141.0,26.0,MissedShots,0.8569999694824219,0.4359999847412109,0.0201047919690608,Igor Diveev,a,6910.0,SetPiece,2020.0,Head,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Arnór Sigurdsson,Cross
@@ -5505,7 +5505,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 413148.0,49.0,SavedShot,0.899000015258789,0.469000015258789,0.1033531948924064,Salomón Rondón,a,813.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Hördur Bjorgvin Magnusson,Cross
 413149.0,50.0,BlockedShot,0.9,0.3320000076293945,0.0475044026970863,Salomón Rondón,a,813.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Mario Fernandes,Cross
 413150.0,51.0,Goal,0.885,0.5,0.7542753219604492,Salomón Rondón,a,813.0,Penalty,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,Standard
-413152.0,55.0,BlockedShot,0.8980000305175782,0.5609999847412109,0.027082672342658,Mario Fernandes,a,2896.0,SetPiece,2020.0,Head,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Emil Bohinen,Foul
+413152.0,55.0,BlockedShot,0.8980000305175782,0.5609999847412109,0.027082672342657998,Mario Fernandes,a,2896.0,SetPiece,2020.0,Head,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Emil Bohinen,Foul
 413154.0,60.0,MissedShots,0.7669999694824219,0.53,0.0340336449444294,Konstantin Maradishvili,a,7521.0,OpenPlay,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,Nikola Vlasic,Pass
 413155.0,62.0,BlockedShot,0.7819999694824219,0.409000015258789,0.0807054862380027,Nikola Vlasic,a,6276.0,DirectFreekick,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,Standard
 413156.0,63.0,SavedShot,0.885,0.5,0.7542718052864075,Nikola Vlasic,a,6276.0,Penalty,2020.0,RightFoot,14412.0,FC Tambov,CSKA Moscow,1.0,2.0,2021-04-04 13:30:00,,Standard
@@ -5539,7 +5539,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 413257.0,43.0,Goal,0.9890000152587892,0.47,0.8275835514068604,Alexander Sobolev,a,5397.0,OpenPlay,2020.0,Head,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,,None
 413259.0,54.0,MissedShots,0.88,0.3370000076293945,0.0587879493832588,Jordan Larsson,a,7770.0,OpenPlay,2020.0,LeftFoot,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,Pavel Maslov,BlockedPass
 413260.0,56.0,SavedShot,0.8490000152587891,0.3110000038146973,0.0377515330910682,Victor Moses,a,541.0,OpenPlay,2020.0,RightFoot,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,,None
-413261.0,57.0,Goal,0.925,0.494000015258789,0.106129266321659,Alexander Sobolev,a,5397.0,FromCorner,2020.0,Head,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,Quincy Promes,Cross
+413261.0,57.0,Goal,0.925,0.494000015258789,0.10612926632165899,Alexander Sobolev,a,5397.0,FromCorner,2020.0,Head,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,Quincy Promes,Cross
 413263.0,65.0,MissedShots,0.941999969482422,0.6559999847412109,0.3029709458351135,Jordan Larsson,a,7770.0,OpenPlay,2020.0,LeftFoot,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,Alexander Sobolev,HeadPass
 413264.0,66.0,SavedShot,0.8140000152587891,0.359000015258789,0.0481289736926555,Victor Moses,a,541.0,OpenPlay,2020.0,LeftFoot,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,Roman Zobnin,Pass
 413265.0,72.0,BlockedShot,0.8009999847412109,0.3959999847412109,0.0504989884793758,Jordan Larsson,a,7770.0,OpenPlay,2020.0,RightFoot,14413.0,FC Rostov,Spartak Moscow,2.0,3.0,2021-04-04 16:00:00,Victor Moses,Pass
@@ -5567,10 +5567,10 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 413400.0,91.0,Goal,0.874000015258789,0.3279999923706054,0.2885639667510986,Andrey Mostovoy,h,7680.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Wendel,Pass
 413401.0,93.0,BlockedShot,0.879000015258789,0.5440000152587889,0.1265176236629486,Sebastián Driussi,h,5924.0,OpenPlay,2020.0,LeftFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Magomed Ozdoev,Pass
 413373.0,1.0,SavedShot,0.7390000152587891,0.4370000076293945,0.0168082192540168,Filip Dagerstål,a,9413.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,,None
-413377.0,23.0,MissedShots,0.6930000305175781,0.3559999847412109,0.030235581099987,Denis Glushakov,a,2814.0,DirectFreekick,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,,Standard
+413377.0,23.0,MissedShots,0.6930000305175781,0.3559999847412109,0.030235581099987002,Denis Glushakov,a,2814.0,DirectFreekick,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,,Standard
 413378.0,24.0,MissedShots,0.7040000152587891,0.419000015258789,0.0078567685559391,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Egor Danilkin,TakeOn
 413381.0,35.0,MissedShots,0.865999984741211,0.6469999694824219,0.0592130161821842,Reziuan Mirzov,a,2869.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,,BallRecovery
-413384.0,39.0,SavedShot,0.68,0.6480000305175782,0.009296353906393,Mohamed Konate,a,5417.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Filip Dagerstål,BallRecovery
+413384.0,39.0,SavedShot,0.68,0.6480000305175782,0.009296353906392999,Mohamed Konate,a,5417.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Filip Dagerstål,BallRecovery
 413391.0,53.0,MissedShots,0.7619999694824219,0.2870000076293945,0.0149936322122812,Filip Dagerstål,a,9413.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Reziuan Mirzov,Pass
 413395.0,76.0,MissedShots,0.775,0.6229999923706054,0.0249056983739137,Pavel Mogilevets,a,2773.0,OpenPlay,2020.0,RightFoot,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Mohamed Konate,Pass
 413398.0,89.0,MissedShots,0.879000015258789,0.44,0.0208779871463775,Egor Danilkin,a,3189.0,FromCorner,2020.0,Head,14414.0,Zenit St. Petersburg,Khimki,2.0,0.0,2021-04-05 16:00:00,Pavel Mogilevets,Cross
@@ -5594,7 +5594,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 412503.0,24.0,MissedShots,0.89,0.4759999847412109,0.3806694149971008,Vladimir Iljin,a,5497.0,OpenPlay,2020.0,RightFoot,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,,Rebound
 412505.0,36.0,SavedShot,0.915,0.6140000152587891,0.43010413646698,Artem Timofeev,a,3026.0,OpenPlay,2020.0,LeftFoot,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,Vladimir Iljin,TakeOn
 412506.0,36.0,SavedShot,0.9180000305175782,0.5270000076293946,0.0867123156785965,Andrey Semenov,a,2852.0,FromCorner,2020.0,Head,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,Ismael,Cross
-412507.0,41.0,MissedShots,0.8209999847412109,0.4820000076293945,0.039719458669424,Artem Timofeev,a,3026.0,FromCorner,2020.0,RightFoot,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,,None
+412507.0,41.0,MissedShots,0.8209999847412109,0.4820000076293945,0.039719458669423995,Artem Timofeev,a,3026.0,FromCorner,2020.0,RightFoot,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,,None
 412510.0,44.0,SavedShot,0.8490000152587891,0.6270000076293946,0.0779186561703682,Vladimir Iljin,a,5497.0,OpenPlay,2020.0,RightFoot,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,Bernard Berisha,TakeOn
 412511.0,47.0,MissedShots,0.916999969482422,0.4870000076293945,0.3431408405303955,Artem Timofeev,a,3026.0,OpenPlay,2020.0,Head,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,Maksim Nenakhov,Cross
 412512.0,48.0,Goal,0.955,0.4879999923706055,0.5514697432518005,Andrey Semenov,a,2852.0,SetPiece,2020.0,Head,14415.0,FC Krasnodar,FK Akhmat,0.0,5.0,2021-04-03 13:30:00,Ismael,Cross
@@ -5686,7 +5686,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 414195.0,61.0,Goal,0.775,0.5829999923706055,0.0133488271385431,Goran Causic,h,5092.0,OpenPlay,2020.0,RightFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,,Aerial
 414196.0,66.0,BlockedShot,0.685,0.5579999923706055,0.0313366241753101,Sergey Tkachev,h,2880.0,DirectFreekick,2020.0,LeftFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,,Standard
 414179.0,1.0,SavedShot,0.8059999847412109,0.3029999923706055,0.0240488443523645,Wanderson,a,2450.0,OpenPlay,2020.0,RightFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,Marcus Berg,BallRecovery
-414182.0,5.0,SavedShot,0.8719999694824219,0.5029999923706054,0.09601491689682,Wanderson,a,2450.0,OpenPlay,2020.0,RightFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,,BallTouch
+414182.0,5.0,SavedShot,0.8719999694824219,0.5029999923706054,0.09601491689682001,Wanderson,a,2450.0,OpenPlay,2020.0,RightFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,,BallTouch
 414184.0,12.0,MissedShots,0.710999984741211,0.5220000076293946,0.0125360740348696,Tonny Vilhena,a,7648.0,OpenPlay,2020.0,LeftFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,,None
 414189.0,37.0,SavedShot,0.86,0.4959999847412109,0.0734414979815483,Rémy Cabella,a,3390.0,OpenPlay,2020.0,RightFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,Yuri Gazinskiy,Cross
 414193.0,44.0,SavedShot,0.8480000305175781,0.655,0.0504606254398822,Wanderson,a,2450.0,OpenPlay,2020.0,RightFoot,14419.0,Arsenal Tula,FC Krasnodar,1.0,0.0,2021-04-11 11:00:00,Evgeniy Chernov,TakeOn
@@ -6033,7 +6033,7 @@ id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,
 374737.0,29.0,MissedShots,0.7709999847412109,0.6780000305175782,0.0200734082609415,Daniil Lesovoy,h,6793.0,OpenPlay,2020.0,RightFoot,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,Gia Grigalava,Pass
 374741.0,44.0,MissedShots,0.9390000152587892,0.4970000076293945,0.4945621788501739,Evgeni Lutsenko,h,3035.0,OpenPlay,2020.0,Head,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,Robert Bauer,Cross
 374742.0,50.0,MissedShots,0.6919999694824219,0.5609999847412109,0.0122295226901769,Kings Kangwa,h,7630.0,FromCorner,2020.0,LeftFoot,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,,None
-374746.0,68.0,SavedShot,0.7609999847412109,0.385,0.05907429382205,Kings Kangwa,h,7630.0,DirectFreekick,2020.0,RightFoot,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,,Standard
+374746.0,68.0,SavedShot,0.7609999847412109,0.385,0.059074293822050004,Kings Kangwa,h,7630.0,DirectFreekick,2020.0,RightFoot,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,,Standard
 374733.0,15.0,BlockedShot,0.8080000305175781,0.499000015258789,0.0583042874932289,Bernard Berisha,a,2946.0,OpenPlay,2020.0,RightFoot,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,Maksim Nenakhov,Pass
 374734.0,15.0,MissedShots,0.85,0.2810000038146972,0.0227250549942255,Idris Imaev,a,6617.0,OpenPlay,2020.0,RightFoot,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,,Rebound
 374735.0,27.0,MissedShots,0.9440000152587892,0.59,0.0616487562656402,Anton Shvets,a,4199.0,FromCorner,2020.0,Head,14000.0,Arsenal Tula,FK Akhmat,0.0,0.0,2020-08-09 16:00:00,Bernard Berisha,Cross
