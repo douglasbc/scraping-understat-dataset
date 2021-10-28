@@ -1,6 +1,11 @@
-import scraping.match_scraper as ms
-import scraping.season_scraper as ss
+import match_scraper as ms
+import season_scraper as ss
+
+
+# # Once a season, update sets of teams and matches_id to be scraped
+# ms.patch_empty_url_list()
+# ss.generate_set_of_teams(2021, 2021)
 
 # Updates the shots datasets and the players datasets
-ms.update_shots_dataset(2020)
-ss.generate_players_csv(2020,2020)
+ms.update_shots_dataset(2021)
+ss.generate_players_csv(2021,2021)

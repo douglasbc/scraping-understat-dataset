@@ -109,6 +109,3 @@ def generate_set_of_teams(first_year, last_year):
 
         with open(file_path, "wb") as fp:
             pickle.dump(teams_set, fp)
-
-
-# generate_players_csv(2020,2020)

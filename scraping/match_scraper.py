@@ -119,6 +119,7 @@ def merge_shots_csvs():
 
 def merge_empty_url_lists():
     """
+    This function was used only when the data was initially scraped.
     Reads every "empty_url_list" .txt files and saves it into a single file.
     """
 
@@ -141,7 +142,7 @@ def open_teams_set(teams_file_name):
     """
     Opens a .txt file exported in the season_scraper.py module. Each league
     has a file, containing the name of every team that played at least a
-    season between 2014 and 2020. The names are used to split the shots
+    season between 2014 and 2021. The names are used to split the shots
     datasets in leagues.
     """
 
@@ -156,8 +157,8 @@ def open_teams_set(teams_file_name):
 def generate_shots_csvs_by_league_season(first_year, last_year):
     """
     Splits the shots dataset in a different .csv file for each combination of
-    league/season. Selecting 2014 and 2020 as arguments, results in 42 files
-    (6 leagues and 7 seasons).
+    league/season. Selecting 2014 and 2021 as arguments, results in 48 files
+    (6 leagues and 8 seasons).
     """
     leagues = ["EPL", "La_liga", "Bundesliga", "Serie_A", "Ligue_1", "RFPL"]
     years = list(range(first_year,last_year + 1))
@@ -200,7 +201,7 @@ def remove_forgotten_empty_urls():
 
 def update_shots_dataset(year):
     """
-    This function updates the datasets. Passing 2020 as argument, the funcion
+    This function updates the datasets. Passing 2021 as argument, the funcion
     takes the latest empty_url_update.txt, iterates over it and scrapes the URLs
     corresponding to those matches_id. Then, the new data is merged with the
     old data and a new empty_url_update.txt is saved, removing the matches scraped.
@@ -228,4 +229,11 @@ def update_shots_dataset(year):
     generate_shots_csvs_by_league_season(year, year)
 
 
-# update_shots_dataset(2020)
+def patch_empty_url_list():
+    """
+    This function should only be run at the start of a new season.
+    It should be modified every season, patching the matches_id that
+    will be used throughout the season.
+    """
+    new_list = list(range(16136, 18202))
+    save_empty_url_list(new_list, "empty_url_update.txt")
