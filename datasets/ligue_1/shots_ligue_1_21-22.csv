@@ -1,4 +1,32 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+439322.0,22.0,SavedShot,0.8090000152587891,0.4970000076293945,0.0531814731657505,Ángel Di María,h,3553.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Lionel Messi,Pass
+439323.0,29.0,MissedShots,0.895,0.595999984741211,0.0822750329971313,Lionel Messi,h,2097.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Ángel Di María,Chipped
+439325.0,39.0,MissedShots,0.9690000152587892,0.3729999923706055,0.3092869520187378,Ángel Di María,h,3553.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Georginio Wijnaldum,Pass
+439327.0,45.0,MissedShots,0.75,0.34,0.0516249425709247,Lionel Messi,h,2097.0,DirectFreekick,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,,Standard
+439330.0,54.0,SavedShot,0.925,0.655,0.0666579455137252,Neymar,h,2099.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Ángel Di María,Pass
+439332.0,57.0,BlockedShot,0.7859999847412109,0.2989999961853027,0.0197121668606996,Idrissa Gueye,h,668.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Mauro Icardi,Pass
+439333.0,58.0,SavedShot,0.749000015258789,0.649000015258789,0.0187833197414875,Ángel Di María,h,3553.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Idrissa Gueye,Pass
+439334.0,59.0,MissedShots,0.955999984741211,0.5,0.426677942276001,Presnel Kimpembe,h,3599.0,FromCorner,2021.0,Head,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Ángel Di María,Aerial
+439335.0,66.0,MissedShots,0.94,0.6179999923706054,0.0142784835770726,Danilo Pereira,h,9060.0,FromCorner,2021.0,Head,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Neymar,Aerial
+439336.0,68.0,BlockedShot,0.85,0.61,0.0539274923503398,Neymar,h,2099.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Georginio Wijnaldum,TakeOn
+439337.0,69.0,MissedShots,0.953000030517578,0.4970000076293945,0.0862275809049606,Marquinhos,h,3297.0,FromCorner,2021.0,Head,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Neymar,Aerial
+439338.0,70.0,MissedShots,0.8009999847412109,0.4679999923706054,0.0492382459342479,Ángel Di María,h,3553.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Mauro Icardi,Pass
+439340.0,72.0,MissedShots,0.909000015258789,0.5259999847412109,0.0961179658770561,Mauro Icardi,h,1513.0,OpenPlay,2021.0,Head,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Ángel Di María,Cross
+439341.0,73.0,Goal,0.943000030517578,0.4759999847412109,0.4994288384914398,Marquinhos,h,3297.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Ángel Di María,Chipped
+439342.0,77.0,SavedShot,0.855999984741211,0.66,0.0595552623271942,Ángel Di María,h,3553.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Neymar,Pass
+439344.0,84.0,MissedShots,0.875999984741211,0.3959999847412109,0.3285475671291351,Mauro Icardi,h,1513.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Neymar,Throughball
+439345.0,87.0,Goal,0.8540000152587891,0.425,0.0942234694957733,Ángel Di María,h,3553.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Neymar,Pass
+439318.0,0.0,SavedShot,0.879000015258789,0.6719999694824219,0.268005222082138,Burak Yilmaz,a,8637.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Jonathan Ikone,Pass
+439319.0,13.0,BlockedShot,0.79,0.5670000076293945,0.0264515206217765,Xeka,a,5704.0,FromCorner,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Tiago Djaló,BallTouch
+439320.0,13.0,MissedShots,0.865,0.489000015258789,0.3526973128318786,Jonathan Ikone,a,5661.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Burak Yilmaz,Pass
+439321.0,14.0,MissedShots,0.740999984741211,0.5770000076293945,0.021833162754774,Jonathan Christian David,a,8636.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Renato Sanches,Pass
+439324.0,30.0,Goal,0.965,0.5720000076293945,0.5469874143600464,Jonathan Christian David,a,8636.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Burak Yilmaz,Pass
+439326.0,40.0,BlockedShot,0.8130000305175781,0.47,0.0711831972002983,Jonathan Ikone,a,5661.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Xeka,BallTouch
+439328.0,46.0,SavedShot,0.936999969482422,0.3629999923706055,0.1319940686225891,Jonathan Christian David,a,8636.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Jonathan Ikone,Throughball
+439329.0,46.0,MissedShots,0.9540000152587892,0.4959999847412109,0.1553002595901489,Burak Yilmaz,a,8637.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Jonathan Christian David,Pass
+439331.0,56.0,MissedShots,0.8859999847412109,0.5129999923706055,0.1319654434919357,Jonathan Christian David,a,8636.0,OpenPlay,2021.0,LeftFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Renato Sanches,Pass
+439339.0,71.0,BlockedShot,0.919000015258789,0.725,0.0610975883901119,Renato Sanches,a,5228.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Reinildo,Pass
+439343.0,83.0,MissedShots,0.8869999694824219,0.2920000076293945,0.065838024020195,Timothy Weah,a,6601.0,OpenPlay,2021.0,RightFoot,17939.0,Paris Saint Germain,Lille,2.0,1.0,2021-10-29 19:00:00,Renato Sanches,Pass
 425095.0,7.0,MissedShots,0.9640000152587892,0.654000015258789,0.3165329992771148,Myron Boadu,h,9612.0,OpenPlay,2021.0,LeftFoot,17822.0,Monaco,Nantes,1.0,1.0,2021-08-06 19:00:00,,BallRecovery
 425098.0,13.0,Goal,0.925,0.4309999847412109,0.432818591594696,Gelson Martins,h,7012.0,OpenPlay,2021.0,RightFoot,17822.0,Monaco,Nantes,1.0,1.0,2021-08-06 19:00:00,Caio Henrique,Throughball
 425100.0,24.0,BlockedShot,0.785,0.3879999923706054,0.0424005798995494,Kevin Volland,h,83.0,OpenPlay,2021.0,LeftFoot,17822.0,Monaco,Nantes,1.0,1.0,2021-08-06 19:00:00,,None

@@ -1,4 +1,22 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+439300.0,4.0,MissedShots,0.8690000152587891,0.5729999923706055,0.1039870902895927,Angelo Stiller,h,9725.0,OpenPlay,2021.0,LeftFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Dennis Geiger,Pass
+439303.0,18.0,BlockedShot,0.895,0.655,0.0784914344549179,Robert Skov,h,7867.0,OpenPlay,2021.0,LeftFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Andrej Kramaric,Pass
+439304.0,18.0,BlockedShot,0.9009999847412108,0.6559999847412109,0.0607500225305557,Robert Skov,h,7867.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,,Rebound
+439305.0,18.0,Goal,0.8880000305175781,0.4429999923706054,0.1043879613280296,Andrej Kramaric,h,956.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,,Rebound
+439307.0,22.0,MissedShots,0.884000015258789,0.5220000076293946,0.0650380477309227,Andrej Kramaric,h,956.0,SetPiece,2021.0,Head,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Robert Skov,Cross
+439308.0,27.0,BlockedShot,0.7869999694824219,0.3759999847412109,0.0370469726622104,Andrej Kramaric,h,956.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Sebastian Rudy,Pass
+439309.0,27.0,MissedShots,0.9209999847412108,0.605,0.0153393214568495,Andrej Kramaric,h,956.0,FromCorner,2021.0,Head,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Dennis Geiger,Aerial
+439310.0,30.0,SavedShot,0.8830000305175781,0.5509999847412109,0.0580235421657562,Robert Skov,h,7867.0,OpenPlay,2021.0,Head,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Sebastian Rudy,Cross
+439311.0,32.0,MissedShots,0.85,0.725,0.038481306284666,Angelo Stiller,h,9725.0,OpenPlay,2021.0,LeftFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Ihlas Bebou,Pass
+439312.0,35.0,ShotOnPost,0.8769999694824219,0.720999984741211,0.0816815868020057,Robert Skov,h,7867.0,OpenPlay,2021.0,LeftFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Ihlas Bebou,LayOff
+439313.0,35.0,Goal,0.875,0.51,0.1177602782845497,Sebastian Rudy,h,90.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,,Rebound
+439315.0,48.0,BlockedShot,0.8969999694824219,0.3870000076293945,0.1120523586869239,Ihlas Bebou,h,6271.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Kevin Vogt,Chipped
+439316.0,78.0,MissedShots,0.915,0.6,0.0154725229367613,Robert Skov,h,7867.0,OpenPlay,2021.0,Head,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Dennis Geiger,Aerial
+439301.0,5.0,SavedShot,0.875,0.3759999847412109,0.2825799286365509,Marco Richter,a,6357.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Maximilian Mittelstädt,Pass
+439302.0,6.0,BlockedShot,0.8909999847412109,0.479000015258789,0.0625158250331878,Dedryck Boyata,a,4468.0,FromCorner,2021.0,LeftFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Vladimir Darida,Cross
+439306.0,20.0,MissedShots,0.8580000305175781,0.419000015258789,0.0764043852686882,Krzysztof Piatek,a,7090.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,Vladimir Darida,Pass
+439314.0,42.0,SavedShot,0.74,0.784000015258789,0.0324500799179077,Marco Richter,a,6357.0,DirectFreekick,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,,Standard
+439317.0,85.0,MissedShots,0.774000015258789,0.6140000152587891,0.0175877474248409,Stevan Jovetic,a,1524.0,OpenPlay,2021.0,RightFoot,17599.0,Hoffenheim,Hertha Berlin,2.0,0.0,2021-10-29 18:30:00,,None
 425531.0,3.0,MissedShots,0.8219999694824218,0.4879999923706055,0.0658262372016906,Patrick Herrmann,h,420.0,OpenPlay,2021.0,LeftFoot,17516.0,Borussia M.Gladbach,Bayern Munich,1.0,1.0,2021-08-13 18:30:00,Alassane Pléa,Pass
 425532.0,9.0,Goal,0.8780000305175781,0.5570000076293945,0.3845338523387909,Alassane Pléa,h,3310.0,OpenPlay,2021.0,LeftFoot,17516.0,Borussia M.Gladbach,Bayern Munich,1.0,1.0,2021-08-13 18:30:00,Lars Stindl,Pass
 425535.0,22.0,MissedShots,0.9009999847412108,0.514000015258789,0.0813739672303199,Nico Elvedi,h,212.0,SetPiece,2021.0,LeftFoot,17516.0,Borussia M.Gladbach,Bayern Munich,1.0,1.0,2021-08-13 18:30:00,,None
