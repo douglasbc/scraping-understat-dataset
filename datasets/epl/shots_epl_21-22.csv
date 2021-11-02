@@ -1,4 +1,28 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+440645.0,9.0,SavedShot,0.865,0.3379999923706054,0.0198879074305295,Rúben Neves,h,6853.0,FromCorner,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,Aerial
+440646.0,9.0,BlockedShot,0.921999969482422,0.54,0.1328570693731308,Conor Coady,h,6851.0,FromCorner,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,Rebound
+440647.0,13.0,SavedShot,0.7880000305175782,0.3340000152587891,0.02562116086483,Trincão,h,8934.0,OpenPlay,2021.0,LeftFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,João Moutinho,Pass
+440648.0,17.0,BlockedShot,0.8430000305175781,0.5220000076293946,0.0887516662478447,Trincão,h,8934.0,OpenPlay,2021.0,LeftFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Rayan Ait Nouri,Pass
+440649.0,19.0,MissedShots,0.7440000152587891,0.404000015258789,0.0547601655125618,Rúben Neves,h,6853.0,DirectFreekick,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,Standard
+440651.0,26.0,BlockedShot,0.911999969482422,0.6769999694824219,0.0465616881847381,Raúl Jiménez,h,4105.0,OpenPlay,2021.0,LeftFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Trincão,HeadPass
+440652.0,27.0,Goal,0.9209999847412108,0.4759999847412109,0.0989189222455024,Max Kilman,h,7332.0,FromCorner,2021.0,Head,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Rayan Ait Nouri,Cross
+440653.0,31.0,Goal,0.8630000305175781,0.4409999847412109,0.3789267241954803,Raúl Jiménez,h,4105.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,BallRecovery
+440660.0,59.0,ShotOnPost,0.8980000305175782,0.4640000152587891,0.349698394536972,Raúl Jiménez,h,4105.0,OpenPlay,2021.0,Head,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Nélson Semedo,Chipped
+440664.0,67.0,MissedShots,0.916999969482422,0.5029999923706054,0.500097930431366,Trincão,h,8934.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,TakeOn
+440650.0,25.0,MissedShots,0.916999969482422,0.5429999923706055,0.1393981277942657,Demarai Gray,a,762.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Alex Iwobi,Pass
+440654.0,36.0,MissedShots,0.8809999847412109,0.3920000076293945,0.0582825951278209,Demarai Gray,a,762.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,None
+440655.0,44.0,MissedShots,0.933000030517578,0.549000015258789,0.4744952917098999,Mason Holgate,a,985.0,SetPiece,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Alex Iwobi,Aerial
+440656.0,51.0,BlockedShot,0.92,0.6659999847412109,0.1082866638898849,Demarai Gray,a,762.0,OpenPlay,2021.0,LeftFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Andros Townsend,Pass
+440657.0,54.0,SavedShot,0.9619999694824218,0.5129999923706055,0.6106288433074951,Richarlison,a,6026.0,OpenPlay,2021.0,LeftFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,Interception
+440658.0,57.0,MissedShots,0.9009999847412108,0.4659999847412109,0.0532935559749603,Richarlison,a,6026.0,OpenPlay,2021.0,Head,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Andros Townsend,Aerial
+440659.0,58.0,MissedShots,0.754000015258789,0.545,0.0146748945116996,Ben Godfrey,a,7689.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,None
+440661.0,64.0,BlockedShot,0.735,0.5690000152587891,0.0133977904915809,Fabian Delph,a,876.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Ben Godfrey,Pass
+440662.0,65.0,BlockedShot,0.735,0.700999984741211,0.0099435253068804,Ben Godfrey,a,7689.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Demarai Gray,Pass
+440663.0,65.0,Goal,0.8630000305175781,0.54,0.0655240714550018,Alex Iwobi,a,500.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Michael Keane,Rebound
+440665.0,69.0,SavedShot,0.879000015258789,0.475,0.0152947483584284,Michael Keane,a,1653.0,SetPiece,2021.0,Head,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Andros Townsend,Aerial
+440666.0,71.0,SavedShot,0.81,0.5370000076293945,0.0433140248060226,Ben Godfrey,a,7689.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,,None
+440667.0,84.0,BlockedShot,0.8880000305175781,0.2910000038146972,0.041737463325262,Seamus Coleman,a,585.0,OpenPlay,2021.0,RightFoot,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Richarlison,Pass
+440668.0,85.0,SavedShot,0.960999984741211,0.3979999923706054,0.0500504858791828,Anthony Gordon,a,8150.0,FromCorner,2021.0,Head,16475.0,Wolverhampton Wanderers,Everton,2.0,1.0,2021-11-01 20:00:00,Andros Townsend,Cross
 440407.0,14.0,SavedShot,0.935,0.2989999961853027,0.0451098680496215,Leon Bailey,h,5221.0,SetPiece,2021.0,LeftFoot,16466.0,Aston Villa,West Ham,1.0,4.0,2021-10-31 16:30:00,,None
 440412.0,31.0,MissedShots,0.7319999694824219,0.285,0.0120979584753513,Matthew Cash,h,8864.0,OpenPlay,2021.0,RightFoot,16466.0,Aston Villa,West Ham,1.0,4.0,2021-10-31 16:30:00,,BallRecovery
 440413.0,33.0,Goal,0.8930000305175781,0.53,0.4133242070674896,Ollie Watkins,h,8865.0,OpenPlay,2021.0,RightFoot,16466.0,Aston Villa,West Ham,1.0,4.0,2021-10-31 16:30:00,Emiliano Buendía,Pass

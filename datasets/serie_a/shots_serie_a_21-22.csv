@@ -1,4 +1,21 @@
 id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+440604.0,3.0,MissedShots,0.78,0.6419999694824219,0.0232027415186166,Nicolás Domínguez,h,8252.0,OpenPlay,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,,None
+440605.0,28.0,BlockedShot,0.7230000305175781,0.47,0.0188045799732208,Musa Barrow,h,6512.0,FromCorner,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Mattias Svanberg,Pass
+440609.0,48.0,Goal,0.8680000305175781,0.4820000076293945,0.3413911163806915,Lorenzo De Silvestri,h,1193.0,OpenPlay,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Gary Medel,Throughball
+440610.0,57.0,MissedShots,0.855,0.3920000076293945,0.0771650522947311,Marko Arnautovic,h,865.0,OpenPlay,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Musa Barrow,Pass
+440612.0,65.0,SavedShot,0.9280000305175782,0.5579999923706055,0.6349070072174072,Marko Arnautovic,h,865.0,OpenPlay,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Musa Barrow,Pass
+440613.0,65.0,MissedShots,0.8030000305175782,0.524000015258789,0.0549169853329658,Roberto Soriano,h,1810.0,OpenPlay,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Musa Barrow,Pass
+440616.0,82.0,ShotOnPost,0.740999984741211,0.539000015258789,0.0268207248300313,Nicola Sansone,h,1826.0,OpenPlay,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,,BallRecovery
+440620.0,95.0,Goal,0.8909999847412109,0.5790000152587891,0.5588964223861694,Marko Arnautovic,h,865.0,OpenPlay,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Nicola Sansone,Throughball
+440606.0,28.0,SavedShot,0.8569999694824219,0.5779999923706055,0.1179540529847145,Gabriele Zappa,a,8857.0,OpenPlay,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Alessandro Deiola,HeadPass
+440607.0,39.0,BlockedShot,0.6880000305175781,0.5459999847412109,0.0338836051523685,Charalampos Lykogiannis,a,6517.0,DirectFreekick,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,,Standard
+440608.0,40.0,MissedShots,0.7830000305175782,0.5429999923706055,0.0973858833312988,Razvan Marin,a,8856.0,DirectFreekick,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,,Standard
+440611.0,63.0,MissedShots,0.9230000305175782,0.49,0.05399115011096,Leonardo Pavoletti,a,1104.0,OpenPlay,2021.0,Head,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Nahitan Nández,Aerial
+440614.0,70.0,BlockedShot,0.7069999694824218,0.46,0.0147866159677505,Martín Cáceres,a,1942.0,OpenPlay,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Gabriele Zappa,Pass
+440615.0,81.0,MissedShots,0.7709999847412109,0.3160000038146973,0.0209727603942155,Razvan Marin,a,8856.0,OpenPlay,2021.0,RightFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Leonardo Pavoletti,LayOff
+440617.0,88.0,BlockedShot,0.81,0.2760000038146972,0.015458813868463,Gastón Pereiro,a,8289.0,OpenPlay,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Diego Godín,TakeOn
+440618.0,93.0,SavedShot,0.7969999694824219,0.5540000152587891,0.0352459922432899,Charalampos Lykogiannis,a,6517.0,SetPiece,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,Leonardo Pavoletti,Pass
+440619.0,93.0,BlockedShot,0.759000015258789,0.395,0.0138385891914367,Raoul Bellanova,a,6412.0,FromCorner,2021.0,LeftFoot,16857.0,Bologna,Cagliari,2.0,0.0,2021-11-01 19:45:00,,Aerial
 439436.0,8.0,BlockedShot,0.9080000305175782,0.6869999694824219,0.0635663568973541,Duván Zapata,h,1148.0,OpenPlay,2021.0,RightFoot,16856.0,Atalanta,Lazio,2.0,2.0,2021-10-30 13:00:00,Joakim Maehle,Pass
 439437.0,9.0,MissedShots,0.914000015258789,0.5179999923706055,0.0368328616023063,Merih Demiral,h,7416.0,FromCorner,2021.0,Head,16856.0,Atalanta,Lazio,2.0,2.0,2021-10-30 13:00:00,Josip Ilicic,Aerial
 439440.0,26.0,BlockedShot,0.8209999847412109,0.349000015258789,0.0405208580195903,Josip Ilicic,h,1426.0,OpenPlay,2021.0,RightFoot,16856.0,Atalanta,Lazio,2.0,2.0,2021-10-30 13:00:00,Mario Pasalic,Pass
